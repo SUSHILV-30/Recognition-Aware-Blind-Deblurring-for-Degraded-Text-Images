@@ -1,0 +1,161 @@
+method,id,font,psnr,ssim,char_acc,token_acc
+Blurred input,timesR_0043,timesR,14.988532688629233,0.4263400597832195,0.0,0.0
+Blurred input,timesR_0042,timesR,15.022700420037706,0.42490807660134045,0.0,0.0
+Blurred input,timesR_0092,timesR,14.552429546000276,0.41177668475911566,0.0,0.0
+Blurred input,timesR_0010,timesR,15.008655312326178,0.43152410724118967,0.0,0.0
+Blurred input,timesR_0066,timesR,14.246895066812106,0.4098811263834332,0.0,0.0
+Blurred input,timesR_0051,timesR,14.368858383512958,0.40723209246663045,0.0,0.0
+Blurred input,timesR_0002,timesR,14.361590749681808,0.41290422870470084,0.0,0.0
+Blurred input,timesR_0071,timesR,14.803312742065915,0.42597141341633565,0.0,0.0
+Blurred input,timesR_0016,timesR,15.076348376581903,0.4304047366629603,0.0,0.0
+Blurred input,timesR_0079,timesR,14.341895630941295,0.4142107815457005,0.0,0.0
+Blurred input,timesR_0074,timesR,15.157980970733139,0.4361854098249997,0.0,0.0
+Blurred input,timesR_0011,timesR,14.92050077328119,0.4125869122699102,0.0,0.0
+Blurred input,timesR_0056,timesR,15.177257494022413,0.43276030790120457,0.0,0.0
+Blurred input,timesR_0057,timesR,14.770115733419614,0.4243435345489822,0.0,0.0
+Blurred input,timesR_0073,timesR,14.600406813008181,0.4166059948889452,0.0,0.0
+Blurred input,timesR_0046,timesR,14.380029147161995,0.41540399419188034,0.0,0.0
+Blurred input,timesR_0049,timesR,14.353909812846757,0.41452978605672886,0.0,0.0
+Blurred input,timesR_0093,timesR,14.22747927973549,0.40739950501263306,0.0,0.0
+Blurred input,timesR_0077,timesR,14.642139206289366,0.42517409451287835,0.0,0.0
+Blurred input,timesR_0038,timesR,14.201452382707714,0.41883660433547315,0.0,0.0
+Blurred input,verdanaRef_0058,verdanaRef,14.2713521127224,0.41567238547224533,0.0,0.0
+Blurred input,verdanaRef_0027,verdanaRef,14.133788063307321,0.4083709512624254,0.0,0.0
+Blurred input,verdanaRef_0006,verdanaRef,14.275212160729788,0.41886274011538427,0.0,0.0
+Blurred input,verdanaRef_0014,verdanaRef,14.25576757125883,0.41814149045646815,0.0,0.0
+Blurred input,verdanaRef_0062,verdanaRef,14.796317813635904,0.43100386858340095,0.0,0.0
+Blurred input,verdanaRef_0025,verdanaRef,14.17022564328998,0.4167195499779428,0.0,0.0
+Blurred input,verdanaRef_0023,verdanaRef,13.969906383107713,0.40805767277104976,0.0,0.0
+Blurred input,verdanaRef_0039,verdanaRef,14.374062359936207,0.4145293606362451,0.0,0.0
+Blurred input,verdanaRef_0026,verdanaRef,14.271146513282243,0.41548321425837575,0.0,0.0
+Blurred input,verdanaRef_0053,verdanaRef,14.449013336955014,0.4200420740514476,0.0,0.0
+Blurred input,verdanaRef_0086,verdanaRef,14.08222041221711,0.40903057481262406,0.0,0.0
+Blurred input,verdanaRef_0068,verdanaRef,14.316394435748483,0.4158563646914116,0.0,0.0
+Blurred input,verdanaRef_0080,verdanaRef,14.378439530448759,0.41577820787360814,0.0,0.0
+Blurred input,verdanaRef_0045,verdanaRef,14.141185502856672,0.4078813143816943,0.0,0.0
+Blurred input,verdanaRef_0043,verdanaRef,14.400349981482714,0.41844135278,0.0,0.0
+Blurred input,verdanaRef_0005,verdanaRef,13.997906208667432,0.4090078752994695,0.0,0.0
+Blurred input,verdanaRef_0070,verdanaRef,13.814076356237665,0.4004293762420413,0.0,0.0
+Blurred input,verdanaRef_0078,verdanaRef,14.305340110881211,0.4224615897802425,0.0,0.0
+Blurred input,verdanaRef_0031,verdanaRef,14.437960536940505,0.4182390139722255,0.0,0.0
+Blurred input,verdanaRef_0003,verdanaRef,13.932744420652758,0.4094715677943293,0.0,0.0
+Pretrained Restormer,timesR_0043,timesR,14.955729224972336,0.4669245263616981,0.0,0.0
+Pretrained Restormer,timesR_0042,timesR,15.000542043205197,0.4660379737661508,0.0,0.0
+Pretrained Restormer,timesR_0092,timesR,14.569242562254217,0.45134937899015487,0.0,0.0
+Pretrained Restormer,timesR_0010,timesR,14.992582082454227,0.47315834531035805,0.0,0.0
+Pretrained Restormer,timesR_0066,timesR,14.26216897728758,0.44881384355078435,0.0,0.0
+Pretrained Restormer,timesR_0051,timesR,14.382170403871793,0.44582256384210667,0.0,0.0
+Pretrained Restormer,timesR_0002,timesR,14.375633753138736,0.45137532814311154,0.0,0.0
+Pretrained Restormer,timesR_0071,timesR,14.770713281293572,0.4674575205262325,0.0,0.0
+Pretrained Restormer,timesR_0016,timesR,15.06042589744788,0.4721878565322513,0.0,0.0
+Pretrained Restormer,timesR_0079,timesR,14.340744873568083,0.4534385760511188,0.0,0.0
+Pretrained Restormer,timesR_0074,timesR,15.122037351456912,0.47983045143759184,0.0,0.0
+Pretrained Restormer,timesR_0011,timesR,14.92772225370774,0.45500637395429877,0.0,0.0
+Pretrained Restormer,timesR_0056,timesR,15.15768896312032,0.47611639007221773,0.0,0.0
+Pretrained Restormer,timesR_0057,timesR,14.737254804832787,0.4636175720548906,0.0,0.0
+Pretrained Restormer,timesR_0073,timesR,14.588147457862854,0.4578408748536771,0.0,0.0
+Pretrained Restormer,timesR_0046,timesR,14.377302711443107,0.45495641760414873,0.0,0.0
+Pretrained Restormer,timesR_0049,timesR,14.355321279586004,0.4545906937702065,0.0,0.0
+Pretrained Restormer,timesR_0093,timesR,14.243219632219763,0.445816873567635,0.0,0.0
+Pretrained Restormer,timesR_0077,timesR,14.626140220322867,0.46526833247594923,0.0,0.0
+Pretrained Restormer,timesR_0038,timesR,14.199661597883967,0.45794070467501424,0.0,0.0
+Pretrained Restormer,verdanaRef_0058,verdanaRef,14.269101383632954,0.4562390907422089,0.0,0.0
+Pretrained Restormer,verdanaRef_0027,verdanaRef,14.14391816420082,0.44868118873581886,0.0,0.0
+Pretrained Restormer,verdanaRef_0006,verdanaRef,14.271917770588473,0.4588451685167541,0.0,0.0
+Pretrained Restormer,verdanaRef_0014,verdanaRef,14.2386602424328,0.4585907929907892,0.0,0.0
+Pretrained Restormer,verdanaRef_0062,verdanaRef,14.760531562032488,0.47364111648711893,0.0,0.0
+Pretrained Restormer,verdanaRef_0025,verdanaRef,14.163332816472128,0.4566378297017578,0.0,0.0
+Pretrained Restormer,verdanaRef_0023,verdanaRef,13.980564763223132,0.44807489792097077,0.0,0.0
+Pretrained Restormer,verdanaRef_0039,verdanaRef,14.347971060772778,0.4564384723179648,0.0,0.0
+Pretrained Restormer,verdanaRef_0026,verdanaRef,14.263874474878818,0.45836888500891404,0.0,0.0
+Pretrained Restormer,verdanaRef_0053,verdanaRef,14.439376528609511,0.46199505171889366,0.0,0.0
+Pretrained Restormer,verdanaRef_0086,verdanaRef,14.087524464568506,0.4495585456802112,0.0,0.0
+Pretrained Restormer,verdanaRef_0068,verdanaRef,14.30734562149391,0.4577970683967676,0.0,0.0
+Pretrained Restormer,verdanaRef_0080,verdanaRef,14.371491280532936,0.45629230011781774,0.0,0.0
+Pretrained Restormer,verdanaRef_0045,verdanaRef,14.147897794378313,0.44770949369183605,0.0,0.0
+Pretrained Restormer,verdanaRef_0043,verdanaRef,14.38869383942934,0.459412844310189,0.0,0.0
+Pretrained Restormer,verdanaRef_0005,verdanaRef,13.99118118727937,0.4491912898270711,0.0,0.0
+Pretrained Restormer,verdanaRef_0070,verdanaRef,13.835180102845454,0.4388760691077263,0.0,0.0
+Pretrained Restormer,verdanaRef_0078,verdanaRef,14.290150008219038,0.46337179256885125,0.0,0.0
+Pretrained Restormer,verdanaRef_0031,verdanaRef,14.438623292642696,0.4597293324721133,0.0,0.0
+Pretrained Restormer,verdanaRef_0003,verdanaRef,13.942644747488409,0.448885759614126,0.0,0.0
+Fine-tuned Restormer,timesR_0043,timesR,19.202956500257407,0.5568973843594791,0.625,0.0
+Fine-tuned Restormer,timesR_0042,timesR,18.97447011352487,0.5606070655597004,0.53125,0.0
+Fine-tuned Restormer,timesR_0092,timesR,18.513059340989496,0.5557365459989683,0.625,0.25
+Fine-tuned Restormer,timesR_0010,timesR,19.35306783548288,0.5684369523110974,0.6451612903225806,0.0
+Fine-tuned Restormer,timesR_0066,timesR,18.378382822679335,0.5564623662682429,0.46875,0.0
+Fine-tuned Restormer,timesR_0051,timesR,18.30054199777601,0.5495941856090247,0.46875,0.0
+Fine-tuned Restormer,timesR_0002,timesR,18.126990168938896,0.5512843142639532,0.5,0.0
+Fine-tuned Restormer,timesR_0071,timesR,19.147734625296636,0.5612929122299944,0.5625,0.0
+Fine-tuned Restormer,timesR_0016,timesR,19.003995041144282,0.5656756993983624,0.59375,0.0
+Fine-tuned Restormer,timesR_0079,timesR,18.527242529097936,0.5582591085872158,0.40625,0.0
+Fine-tuned Restormer,timesR_0074,timesR,19.403648065570177,0.5723186875175037,0.5,0.2
+Fine-tuned Restormer,timesR_0011,timesR,18.941386521611335,0.5575785243372824,0.65625,0.0
+Fine-tuned Restormer,timesR_0056,timesR,19.269401367493796,0.5709508728999186,0.5666666666666667,0.0
+Fine-tuned Restormer,timesR_0057,timesR,18.73096391389379,0.554794631230867,0.625,0.5
+Fine-tuned Restormer,timesR_0073,timesR,18.357940706998182,0.5521065540982009,0.6875,0.5
+Fine-tuned Restormer,timesR_0046,timesR,18.614739505822282,0.562537575037967,0.53125,0.0
+Fine-tuned Restormer,timesR_0049,timesR,18.48261457273339,0.556280808924705,0.5625,0.0
+Fine-tuned Restormer,timesR_0093,timesR,18.53338877220122,0.551355092116162,0.71875,0.25
+Fine-tuned Restormer,timesR_0077,timesR,18.984767710017355,0.5596355192346645,0.65625,0.0
+Fine-tuned Restormer,timesR_0038,timesR,18.215281317143084,0.5559897568946306,0.5625,0.0
+Fine-tuned Restormer,verdanaRef_0058,verdanaRef,20.388277793137426,0.5662743439518662,0.96875,0.75
+Fine-tuned Restormer,verdanaRef_0027,verdanaRef,19.86751608519095,0.5649166513790642,0.935483870967742,0.3333333333333333
+Fine-tuned Restormer,verdanaRef_0006,verdanaRef,20.579734977531373,0.5727334127834852,0.96875,0.8
+Fine-tuned Restormer,verdanaRef_0014,verdanaRef,20.292235123893274,0.5678104715151183,0.78125,0.0
+Fine-tuned Restormer,verdanaRef_0062,verdanaRef,20.928715225058845,0.5763496741773665,0.9375,0.6
+Fine-tuned Restormer,verdanaRef_0025,verdanaRef,19.20697854860788,0.5599084305572979,0.84375,0.0
+Fine-tuned Restormer,verdanaRef_0023,verdanaRef,20.265325611217257,0.5695321168296785,0.90625,0.3333333333333333
+Fine-tuned Restormer,verdanaRef_0039,verdanaRef,20.145543515690537,0.5647808893555037,0.8064516129032258,0.25
+Fine-tuned Restormer,verdanaRef_0026,verdanaRef,20.332885343013253,0.5725740624502513,0.84375,0.0
+Fine-tuned Restormer,verdanaRef_0053,verdanaRef,19.71457479147319,0.5639449548469259,0.875,0.5
+Fine-tuned Restormer,verdanaRef_0086,verdanaRef,19.985662540480035,0.5649270663878995,0.9375,0.3333333333333333
+Fine-tuned Restormer,verdanaRef_0068,verdanaRef,19.737818996701204,0.5709849525387047,0.71875,0.0
+Fine-tuned Restormer,verdanaRef_0080,verdanaRef,20.05455383409952,0.5656850339083356,0.935483870967742,0.5
+Fine-tuned Restormer,verdanaRef_0045,verdanaRef,20.581872274021332,0.5661755509869544,0.90625,0.6666666666666666
+Fine-tuned Restormer,verdanaRef_0043,verdanaRef,20.18906472639301,0.5644934818067006,0.84375,0.2
+Fine-tuned Restormer,verdanaRef_0005,verdanaRef,19.985143956366088,0.5620545552372118,0.96875,0.6666666666666666
+Fine-tuned Restormer,verdanaRef_0070,verdanaRef,19.71137289568694,0.5599659552118805,0.9375,0.6666666666666666
+Fine-tuned Restormer,verdanaRef_0078,verdanaRef,20.736478593879554,0.57123825007611,0.90625,0.3333333333333333
+Fine-tuned Restormer,verdanaRef_0031,verdanaRef,20.81730244235336,0.5699684360731487,0.9375,0.6
+Fine-tuned Restormer,verdanaRef_0003,verdanaRef,20.182288197672168,0.5646329897529523,0.9375,0.3333333333333333
+Sharp GT (upper bound),timesR_0043,timesR,,,0.96875,0.75
+Sharp GT (upper bound),timesR_0042,timesR,,,0.75,0.0
+Sharp GT (upper bound),timesR_0092,timesR,,,0.90625,0.5
+Sharp GT (upper bound),timesR_0010,timesR,,,0.967741935483871,0.75
+Sharp GT (upper bound),timesR_0066,timesR,,,1.0,1.0
+Sharp GT (upper bound),timesR_0051,timesR,,,0.875,0.3333333333333333
+Sharp GT (upper bound),timesR_0002,timesR,,,0.75,0.25
+Sharp GT (upper bound),timesR_0071,timesR,,,0.875,0.3333333333333333
+Sharp GT (upper bound),timesR_0016,timesR,,,0.9375,0.6
+Sharp GT (upper bound),timesR_0079,timesR,,,0.90625,0.5
+Sharp GT (upper bound),timesR_0074,timesR,,,0.90625,0.6
+Sharp GT (upper bound),timesR_0011,timesR,,,0.96875,0.6666666666666666
+Sharp GT (upper bound),timesR_0056,timesR,,,0.9,0.6666666666666666
+Sharp GT (upper bound),timesR_0057,timesR,,,0.8125,0.5
+Sharp GT (upper bound),timesR_0073,timesR,,,0.9375,0.75
+Sharp GT (upper bound),timesR_0046,timesR,,,0.96875,0.75
+Sharp GT (upper bound),timesR_0049,timesR,,,1.0,1.0
+Sharp GT (upper bound),timesR_0093,timesR,,,0.96875,0.75
+Sharp GT (upper bound),timesR_0077,timesR,,,0.90625,0.6666666666666666
+Sharp GT (upper bound),timesR_0038,timesR,,,0.96875,0.6666666666666666
+Sharp GT (upper bound),verdanaRef_0058,verdanaRef,,,0.96875,0.75
+Sharp GT (upper bound),verdanaRef_0027,verdanaRef,,,1.0,1.0
+Sharp GT (upper bound),verdanaRef_0006,verdanaRef,,,0.875,0.6
+Sharp GT (upper bound),verdanaRef_0014,verdanaRef,,,1.0,1.0
+Sharp GT (upper bound),verdanaRef_0062,verdanaRef,,,0.90625,0.6
+Sharp GT (upper bound),verdanaRef_0025,verdanaRef,,,0.90625,0.6666666666666666
+Sharp GT (upper bound),verdanaRef_0023,verdanaRef,,,0.90625,0.3333333333333333
+Sharp GT (upper bound),verdanaRef_0039,verdanaRef,,,0.935483870967742,0.5
+Sharp GT (upper bound),verdanaRef_0026,verdanaRef,,,0.9375,0.3333333333333333
+Sharp GT (upper bound),verdanaRef_0053,verdanaRef,,,0.75,0.5
+Sharp GT (upper bound),verdanaRef_0086,verdanaRef,,,0.875,0.0
+Sharp GT (upper bound),verdanaRef_0068,verdanaRef,,,0.96875,0.6666666666666666
+Sharp GT (upper bound),verdanaRef_0080,verdanaRef,,,0.8709677419354839,0.75
+Sharp GT (upper bound),verdanaRef_0045,verdanaRef,,,1.0,1.0
+Sharp GT (upper bound),verdanaRef_0043,verdanaRef,,,0.96875,0.8
+Sharp GT (upper bound),verdanaRef_0005,verdanaRef,,,0.96875,0.6666666666666666
+Sharp GT (upper bound),verdanaRef_0070,verdanaRef,,,1.0,1.0
+Sharp GT (upper bound),verdanaRef_0078,verdanaRef,,,0.96875,0.6666666666666666
+Sharp GT (upper bound),verdanaRef_0031,verdanaRef,,,1.0,1.0
+Sharp GT (upper bound),verdanaRef_0003,verdanaRef,,,0.96875,0.6666666666666666

@@ -1,0 +1,59 @@
+{
+  "level": 3,
+  "status": "trained",
+  "updated": "2026-11-12 05:51",
+  "pretrained_base": "../pretrained/single_image_defocus_deblurring.pth",
+  "init_from": "pretrained",
+  "init_weights": "pretrained/single_image_defocus_deblurring.pth",
+  "dataset": "dataset/HDC2021_step3.zip",
+  "checkpoints": {
+    "best": "checkpoints/level3_best.pth",
+    "last": "checkpoints/level3_last.pth"
+  },
+  "results_dir": "results",
+  "blur_sigma_px": 12,
+  "train_config": {
+    "patch": 128,
+    "batch": 4,
+    "iters": 3000,
+    "lr": 2e-05,
+    "tile": 768,
+    "overlap": 192
+  },
+  "split_sizes": {
+    "train": 150,
+    "val": 10,
+    "test": 40
+  },
+  "best_val_ssim": 0.6052,
+  "test_summary": [
+    {
+      "method": "Blurred input",
+      "psnr": 17.3384,
+      "ssim": 0.3795,
+      "char_acc": 0.7555,
+      "token_acc": 0.2404
+    },
+    {
+      "method": "Pretrained Restormer",
+      "psnr": 16.9528,
+      "ssim": 0.4353,
+      "char_acc": 0.7554,
+      "token_acc": 0.235
+    },
+    {
+      "method": "Fine-tuned Restormer",
+      "psnr": 25.7193,
+      "ssim": 0.6056,
+      "char_acc": 0.9828,
+      "token_acc": 0.8646
+    },
+    {
+      "method": "Sharp GT (upper bound)",
+      "psnr": NaN,
+      "ssim": NaN,
+      "char_acc": 0.9248,
+      "token_acc": 0.6379
+    }
+  ]
+}

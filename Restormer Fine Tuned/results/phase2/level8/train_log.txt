@@ -1,0 +1,9 @@
+[2026-11-11 17:32:06] Level 8: new run | init pretrained | sigma 45px | patch 192x2 | iters 3000 | LR 2e-05
+[2026-11-11 17:35:09] Iter 0 (start) val: PSNR 14.43 | SSIM 0.4577
+[2026-11-11 17:49:11] Iter 500: val PSNR 17.32 dB | SSIM 0.5298  <- best, saved
+[2026-11-11 18:03:19] Iter 1000: val PSNR 18.66 dB | SSIM 0.5541  <- best, saved
+[2026-11-11 18:17:33] Iter 1500: val PSNR 19.28 dB | SSIM 0.5614  <- best, saved
+[2026-11-11 18:31:50] Iter 2000: val PSNR 19.44 dB | SSIM 0.5631  <- best, saved
+[2026-11-11 18:45:54] Iter 2500: val PSNR 19.47 dB | SSIM 0.5631
+[2026-11-11 19:00:02] Iter 3000: val PSNR 19.48 dB | SSIM 0.5635  <- best, saved
+[2026-11-11 19:00:18] Training done. Best val SSIM: 0.5635

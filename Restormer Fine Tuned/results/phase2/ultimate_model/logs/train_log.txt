@@ -1,0 +1,9 @@
+[2026-10-20 14:55:20]   level 5: sigma ~25px | 2950 matches | 1581 inliers (NCC>=0.8)
+[2026-10-20 15:06:31]   level 6: sigma ~30px | 2834 matches | 915 inliers (NCC>=0.8)
+[2026-10-20 15:20:21]   level 7: sigma ~37px | 2584 matches | 485 inliers (NCC>=0.8)
+[2026-10-20 15:34:20]   level 8: sigma ~45px | 2405 matches | 249 inliers (NCC>=0.8)
+[2026-10-20 15:49:26]   level 9: sigma ~47px | 2060 matches | 148 inliers (NCC>=0.8)
+[2026-10-20 16:05:21]   level 10: sigma ~55px | 1745 matches | 82 inliers (NCC>=0.8)
+[2026-10-20 16:21:21] New ultimate run | levels [5, 6, 7, 8, 9, 10] | stages [(2500, 160, 4), (5000, 224, 2), (6000, 288, 2)] | LR 8e-05 (enc x0.5) | GPU Tesla T4
+[2026-10-20 16:36:35] Iter 0 (pretrained) val: PSNR 14.78 | SSIM 0.4396 | L5:0.422 L6:0.417 L7:0.415 L8:0.457 L9:0.458 L10:0.469
+[2026-10-20 16:36:42] Stage: patch 160px | batch 4 = micro 4 x accum 1 | until iter 2500
