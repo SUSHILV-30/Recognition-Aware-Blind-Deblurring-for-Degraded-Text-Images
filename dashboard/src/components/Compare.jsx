@@ -1,20 +1,21 @@
 import { useState } from 'react'
 import { SectionHead, Swatch, useLightbox } from './ui.jsx'
 import { Trend } from './charts.jsx'
-import { HEX, gridMethods, gridSamples, img, mprnetFt, nafnet, restormerFt } from '../data/project.js'
+import { HEX, gridMethods, gridSamples, img, mprnetFt, nafnet } from '../data/project.js'
+import { restormerLevels } from '../data/restormerLevels.js'
 import { modelHref } from '../data/models.js'
 
 const crossLevel = ['L0', 'L1', 'L2', 'L3', 'L4'].map((level) => ({
   level,
-  input: restormerFt.find((r) => r.level === level)?.input ?? null,
-  ft: restormerFt.find((r) => r.level === level)?.ft ?? null,
+  input: restormerLevels.find((r) => `L${r.level}` === level)?.input.psnr ?? null,
+  ft: restormerLevels.find((r) => `L${r.level}` === level)?.ft.psnr ?? null,
   naf: nafnet.find((r) => r.level === level)?.ftPsnr ?? null,
   mpr: mprnetFt.find((r) => r.level === level)?.ftPsnr ?? null,
 }))
 
 // How each study scored its outputs. Differences here are why the numbers above are trends, not a ranking.
 const PROTOCOLS = [
-  ['Restormer, fine-tuned', HEX.ft, 'restormer', 'Full image, tiled', 'L1–4 focusStep; L5–6: 40 pages per level', 'EasyOCR, character and token accuracy'],
+  ['Restormer, fine-tuned', HEX.ft, 'restormer', 'Full image, tiled, against the registered sharp capture', '40 pages per level, L0–9, split by sample ID (seed 42)', 'EasyOCR, character and token accuracy, CER, WER'],
   ['NAFNet, fine-tuned', HEX.naf, 'nafnet', '4× downscaled, percentile-normalised, shift-aligned', '24 pairs (6 per level), split by sample ID', 'EasyOCR, CER and WER'],
   ['MPRNet, fine-tuned', HEX.mpr, 'mprnet', 'Full resolution, 512 × 1024 centre crop, min-max scaled', '35 Times images (5 per level), random split', 'EasyOCR letters-only, CER'],
   ['Restormer from scratch', HEX.scratch, 'scratch', 'Full image', '236 test pairs across 20 steps', 'Not run'],
@@ -22,8 +23,8 @@ const PROTOCOLS = [
 ]
 
 const TABLE = [
-  ['Restormer, fine-tuned', HEX.ft, 'L1 → L4, fine-tuned', '24.88 → 15.24', 'SSIM up at every level', 'restormer'],
-  ['Restormer, fine-tuned', HEX.ft, 'Level 5, fine-tuned', '21.98', '0.582', 'restormer'],
+  ['Restormer, fine-tuned', HEX.ft, 'L0 → L9, one model per level', '28.74 → 16.81', '0.691 → 0.531', 'restormer'],
+  ['Restormer, fine-tuned', HEX.ft, 'Level 5', '21.98', '0.582', 'restormer'],
   ['NAFNet, fine-tuned', HEX.naf, 'L1 → L4, 4× downscaled', '29.83 → 18.53', '0.876 → 0.791', 'nafnet'],
   ['MPRNet, fine-tuned', HEX.mpr, 'L0 → L6, 35 Times images', '16.93 → 11.64', '0.558 → 0.400', 'mprnet'],
   ['MPRNet, zero-shot (earlier)', HEX.mpr, 'L0 → L4, 40 images', '22.12 → 12.93', '0.514 → 0.334', 'mprnet'],

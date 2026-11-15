@@ -1,6 +1,8 @@
 // Every number here is copied from the project papers, slides or notebook
 // outputs. Nothing is interpolated or estimated.
 
+import { restormerLevels } from './restormerLevels.js'
+
 export const img = (name) => `${import.meta.env.BASE_URL}img/${name}`
 
 export const COLORS = {
@@ -27,7 +29,7 @@ export const HEX = {
 }
 
 export const team = [
-  { name: 'Praneeth U', study: 'Restormer, fine-tuned (Phase 1 and Phase 2)', color: HEX.ft },
+  { name: 'Praneeth U', study: 'Restormer, fine-tuned per level (Levels 0–9)', color: HEX.ft },
   { name: 'Rachit Anand', study: 'NAFNet, fine-tuned', color: HEX.naf },
   { name: 'Adithya Nambiar P', study: 'MPRNet, fine-tuned (and zero-shot baseline)', color: HEX.mpr },
   { name: 'Sushil V', study: 'Restormer from scratch and edge probe', color: HEX.scratch },
@@ -194,14 +196,13 @@ export const OCR_METHODS = [
 
 const ocr = (char, token, n) => ({ char, token, n })
 
-export const ocrByLevel = [
-  { level: 1, input: ocr(94.35, 61.25, 40), gt: ocr(88.61, 43.75, 16) },
-  { level: 2, input: ocr(91.2, 51.5, 40), gt: ocr(86.78, 44.79, 16) },
-  { level: 3, input: ocr(65.99, 11.87, 40), gt: ocr(88.47, 40.29, 40) },
-  { level: 4, input: ocr(20.05, 0.0, 40), gt: ocr(89.49, 44.28, 40) },
-  { level: 5, input: ocr(0.0, 0.0, 40), pre: ocr(0.0, 0.0, 40), ft: ocr(96.9, 75.0, 40), gt: ocr(94.1, 64.7, 40) },
-  { level: 6, input: ocr(0.0, 0.0, 40), pre: ocr(0.0, 0.0, 40), ft: ocr(83.2, 32.0, 40), gt: ocr(93.4, 69.1, 40) },
-]
+// Restormer Phase 2 test split, 40 pages per level, Levels 1–9 (Level 0 has no OCR).
+export const ocrByLevel = restormerLevels
+  .filter((r) => r.ft.char != null)
+  .map((r) => ({
+    level: r.level,
+    ...Object.fromEntries(['input', 'pre', 'ft', 'gt'].map((k) => [k, ocr(r[k].char, r[k].token, 40)])),
+  }))
 
 export const level5ByFont = [
   { font: 'Times New Roman', input: 15.58, pre: 15.53, ft: 21.77, char: 96.7 },
@@ -238,7 +239,7 @@ export const gridSamples = {
 
 export const status = [
   { module: 'Data pipeline and preprocessing', state: 'Functional', pct: 100 },
-  { module: 'Restormer, fine-tuned (L1–4)', state: 'Functional', pct: 100 },
+  { module: 'Restormer, fine-tuned per level (L0–9)', state: 'Functional', pct: 100 },
   { module: 'NAFNet, fine-tuned', state: 'Functional', pct: 100 },
   { module: 'MPRNet, fine-tuned (L0–6) and zero-shot baseline', state: 'Functional', pct: 100 },
   { module: 'Restormer from scratch', state: 'Functional', pct: 100 },

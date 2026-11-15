@@ -1,0 +1,1441 @@
+level,method,id,gt,ocr,edit_dist,cer,wer,exact,empty,nlev_sim
+1,Sharp GT (upper bound),timesR_0043,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),timesR_0042,TvQvkeQV M EbSgaygHHR x tQJMFgwf,T vkeQV M EbSgaygHHR tQJMFgwf,4,0.125,0.6,0.0,0.0,0.875
+1,Sharp GT (upper bound),timesR_0092,pApReWCcGs bHaVmZPqis aTjWvLXwS,pApRe CcGs bHa m ZPqis aTj VLX M,7,0.22580645161290322,2.6666666666666665,0.0,0.0,0.78125
+1,Sharp GT (upper bound),timesR_0010,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,NKOAGOfbRZ mC VHGu XNT DJnfxqruyK,7,0.21875,1.3333333333333333,0.0,0.0,0.7878787878787878
+1,Sharp GT (upper bound),timesR_0066,BbdW QynjG hfkCShvnXN v QGNpNHRX,Bbd QynjG hfkCShvnXN 2GNpNHRX,4,0.125,0.6,0.0,0.0,0.875
+1,Sharp GT (upper bound),timesR_0051,nvJLjJWQwy sspPJGGxXq NLynVYbPPi,nvJLjJI SspPJGG {q NLyn YbPPi,8,0.25,1.6666666666666667,0.0,0.0,0.75
+1,Sharp GT (upper bound),timesR_0002,vT ushQggj WvMZQyiXKt HdsKCZtZxv,T ushQggj MZQyiXKt HdsKCZtZ,5,0.15625,0.75,0.0,0.0,0.84375
+1,Sharp GT (upper bound),timesR_0071,xKa FfVbJC rZRRWWVbtg rwf ufqHCm,Ka FfVbJC IZRRV Vbtg wf ufqHCm,5,0.15625,0.8,0.0,0.0,0.84375
+1,Sharp GT (upper bound),timesR_0016,SvqSwBSwj SUQUiMRune AFQSjnhCxN,SvqSwBS W] SUQUiMRune AFQSjnhCxN,3,0.0967741935483871,0.6666666666666666,0.0,0.0,0.90625
+1,Sharp GT (upper bound),timesR_0079,aQbkCZcAvm ucDdVVwvex NgbwmAKizg,a QbkCZcAvm ucDd Tp X NgbwmAKizg,7,0.21875,1.6666666666666667,0.0,0.0,0.78125
+1,Sharp GT (upper bound),timesR_0074,efhHYZEZUF PVAaUjumwP fMduVhncv,efhHYZEZUF PVAaUjumwP fMduVhncv,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),timesR_0011,UDhJ LPZvP cXPhHtazmu bpjiwF KV,UDhJ LPZvP XPhHtazmu bpjiwF KV,1,0.03225806451612903,0.2,0.0,0.0,0.967741935483871
+1,Sharp GT (upper bound),timesR_0056,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,wjH zT kzC nW KEjRcaE ekA XBmSkR,5,0.15625,0.8,0.0,0.0,0.84375
+1,Sharp GT (upper bound),timesR_0057,mz QMwAVd EqdpXDwSUq th DXgKZFP,mnz OMwAVd EqdpXD SUq th DXgKZFP,3,0.0967741935483871,0.8,0.0,0.0,0.90625
+1,Sharp GT (upper bound),timesR_0073,v BqweRwHh qjJEpMqhQR tqGyJUHUkv,Bq weRwHh qJEpMqhQR tqGyJUHUk,5,0.15625,1.0,0.0,0.0,0.84375
+1,Sharp GT (upper bound),timesR_0046,ZnnSiri gL kxftYUzLUi ceFihyqcau,ZnnSiri gL cXftYUzLUi ceFihyqcau,2,0.0625,0.25,0.0,0.0,0.9375
+1,Sharp GT (upper bound),timesR_0049,YrgKVHZawm UgTAPKXrFr uvduAenLjz,YrgKVHZawm UgTAPKXFr U' vduAenLjz,4,0.125,1.0,0.0,0.0,0.8787878787878788
+1,Sharp GT (upper bound),timesR_0093,hDHVLHpEWR BNYexNsCgR XdPsFzXbwi,hDHVLHpE' VR BNYexNsCgR XdPsFzXbwi,3,0.09375,0.6666666666666666,0.0,0.0,0.9117647058823529
+1,Sharp GT (upper bound),timesR_0077,kQZ cuisVV KWXskpvShG jZLfDwEXsF,kOZ cuis Kl Xskp vShG jZLfDwEXsF,6,0.1875,1.25,0.0,0.0,0.8125
+1,Sharp GT (upper bound),timesR_0038,LDSHpCXBnq SYxgpVaTwe YDQdsmNABT,LDSHpCXBnq SY gpVaTwe YDOdsmNABT,2,0.0625,1.0,0.0,0.0,0.9375
+1,Sharp GT (upper bound),verdanaRef_0058,yu wJLsFdz TunPjxSaad hGCvseqLgL,yu wJLsFdz TunPjxSaad hGCvseqLgL,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),verdanaRef_0027,LcaFcNvknW figNJDaUwx X UCpjqiq,LcaFcNvknW figNJDaUw UCpjqiq,3,0.0967741935483871,0.5,0.0,0.0,0.9032258064516129
+1,Sharp GT (upper bound),verdanaRef_0006,VqvUhpdjey RGChsKynjK mJGtpsisnM,VqvUhpdjey RGChsKynjK mJGtpsisnM,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),verdanaRef_0014,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),verdanaRef_0062,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,rttvHxCwcj fcwAvzYxZy ZXQApTGBFB,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+1,Sharp GT (upper bound),verdanaRef_0025,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,WiNguUPbwi ZTJkuGnnph g UCyFBrGW,1,0.03125,0.25,0.0,0.0,0.96875
+1,Sharp GT (upper bound),verdanaRef_0023,jWuiFsyiv wRVXStHPCM eUhPWDdsjJ,jWuiFsyiv WRVXStHPCM eUhPWDdsj],2,0.06451612903225806,0.6666666666666666,0.0,0.0,0.935483870967742
+1,Sharp GT (upper bound),verdanaRef_0039,eWNfUZmBcJ naUnhPJGRr WNtPYcTaVj,eWNfUZmBc] naUnhPJGRr NNtPYcTaVj,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+1,Sharp GT (upper bound),verdanaRef_0026,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,JuYEKCWaqB gEw WkWccf Emn iFsM,3,0.09375,0.75,0.0,0.0,0.90625
+1,Sharp GT (upper bound),verdanaRef_0053,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,qsEtjUqzjE rKq] ynE vg FjdPTfYsXZ,3,0.09375,1.0,0.0,0.0,0.9090909090909091
+1,Sharp GT (upper bound),verdanaRef_0086,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,sMZAYbjHcP nBZEFtyuw EPMtG gkaT,2,0.0625,0.25,0.0,0.0,0.9375
+1,Sharp GT (upper bound),verdanaRef_0068,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,wHhn kSgRh qFd: V WfmdBm fYZsMzkKuq,3,0.09375,0.75,0.0,0.0,0.9142857142857143
+1,Sharp GT (upper bound),verdanaRef_0080,RLp PZugSt YfDcWSieiV fMWJPdBcBH,RLp PZugst YfDcWSiei fMWJPdBcBH,2,0.0625,0.5,0.0,0.0,0.9375
+1,Sharp GT (upper bound),verdanaRef_0045,yRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,YRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Sharp GT (upper bound),verdanaRef_0043,PcCbZdcKUb DtvuxQemRT YaNzcuPcvc,PcCbzdcKUb DtvuxQemRT YaNzcuPcvc,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Sharp GT (upper bound),verdanaRef_0005,YCP TE TmH DPJscaDsPk srWYwPFCvy,YCP TE TmH DPJscaDsPk srW WPFCv,3,0.09375,0.4,0.0,0.0,0.90625
+1,Sharp GT (upper bound),verdanaRef_0070,gqxUzMmghP mYYxRdqiKv reyvRX tEB,gqxUzMmghP my 7 xRdqiki reyvRX tEB,6,0.1875,0.75,0.0,0.0,0.8235294117647058
+1,Sharp GT (upper bound),verdanaRef_0078,qLVL EURef idDgjGxqEz rHyrx xqaR,qLVL EURef idDgjGxqEz rHyr xqaR,1,0.03125,0.2,0.0,0.0,0.96875
+1,Sharp GT (upper bound),verdanaRef_0031,cVhegKKELA mtCuVbbBFs DGPFgtgADH,cVhegKKELA mtCuVbbBFs DGPFgtgADH,0,0.0,0.0,1.0,0.0,1.0
+1,Sharp GT (upper bound),verdanaRef_0003,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,ufDuFMfzr FbjusGLnRq BJdZuSAN f,1,0.03125,0.25,0.0,0.0,0.96875
+1,Blurred input,timesR_0043,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0042,TvQvkeQV M EbSgaygHHR x tQJMFgwf,TvQvkeQV M EbSgaygHHR X tQJMFgwf,1,0.03125,0.2,0.0,0.0,0.96875
+1,Blurred input,timesR_0092,pApReWCcGs bHaVmZPqis aTjWvLXwS,pApReWCcGs bHaVmZPqis aTjWvLXwS,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0010,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0066,BbdW QynjG hfkCShvnXN v QGNpNHRX,BbdW QynjG hfkCShvnXN V QGNpNHRX,1,0.03125,0.2,0.0,0.0,0.96875
+1,Blurred input,timesR_0051,nvJLjJWQwy sspPJGGxXq NLynVYbPPi,nvJLjJWQwy sspPJGGxXq NLynVYbPPi,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0002,vT ushQggj WvMZQyiXKt HdsKCZtZxv,vT ushQggj WvMZQyiXKt HdsKCZtZxv,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0071,xKa FfVbJC rZRRWWVbtg rwf ufqHCm,xKa FfVbJC IZRRWWVbtg rwf ufqHCm,1,0.03125,0.2,0.0,0.0,0.96875
+1,Blurred input,timesR_0016,SvqSwBSwj SUQUiMRune AFQSjnhCxN,SvqSwBSwj SUQUiMRune AFQSjnhCxN,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0079,aQbkCZcAvm ucDdVVwvex NgbwmAKizg,aQbkCZcAvm ucDdWVwvex NgbwmAKizg,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,timesR_0074,efhHYZEZUF PVAaUjumwP fMduVhncv,efhHYZEZUF PVAaUjumwP fMduVhncv,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0011,UDhJ LPZvP cXPhHtazmu bpjiwF KV,UDhJ LPZvP cXPhHtazmu bpjiwF KV,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0056,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0057,mz QMwAVd EqdpXDwSUq th DXgKZFP,mz QMwAVd EqdpXDwSUq th DXgKZFP,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0073,v BqweRwHh qjJEpMqhQR tqGyJUHUkv,V BqweRwHh qjJEpMqhQR tqGyJUHUkv,1,0.03125,0.25,0.0,0.0,0.96875
+1,Blurred input,timesR_0046,ZnnSiri gL kxftYUzLUi ceFihyqcau,ZnnSiri gL kxftYUzLUi ceFihyqcau,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,timesR_0049,YrgKVHZawm UgTAPKXrFr uvduAenLjz,Yrg KVHZawm UgTAPKXIFr uvduAenLjz,2,0.0625,1.0,0.0,0.0,0.9393939393939394
+1,Blurred input,timesR_0093,hDHVLHpEWR BNYexNsCgR XdPsFzXbwi,hDHVLHpEWR BNYexNCgR XdPsFzXbwi,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,timesR_0077,kQZ cuisVV KWXskpvShG jZLfDwEXsF,kOZ cuisVV KWXskpvShG jZLfDwEXsF,1,0.03125,0.25,0.0,0.0,0.96875
+1,Blurred input,timesR_0038,LDSHpCXBnq SYxgpVaTwe YDQdsmNABT,LDSHpCXBnq SYxgp VaTwe YDQdsmNABT,1,0.03125,0.6666666666666666,0.0,0.0,0.9696969696969697
+1,Blurred input,verdanaRef_0058,yu wJLsFdz TunPjxSaad hGCvseqLgL,yu wJLsFdz TunPjxSaad hGCvseqLgL,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0027,LcaFcNvknW figNJDaUwx X UCpjqiq,LcaFcNvknW figNJDaUwx UCpjqiq,2,0.06451612903225806,0.25,0.0,0.0,0.935483870967742
+1,Blurred input,verdanaRef_0006,VqvUhpdjey RGChsKynjK mJGtpsisnM,VqvUhpdjey RGChsKynjk mJGtpsisnM,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0014,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,NsdCD pwHt NMsFrRHZhw vQYJZMbaur,1,0.03125,0.25,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0062,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0025,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0023,jWuiFsyiv wRVXStHPCM eUhPWDdsjJ,jWuiFsyiv wRVXStHPCM eUhPWDdsj],1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+1,Blurred input,verdanaRef_0039,eWNfUZmBcJ naUnhPJGRr WNtPYcTaVj,eWNfUZmBc] naUnhPJGRr WNtPYcTaVj,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0026,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0053,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0086,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0068,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0080,RLp PZugSt YfDcWSieiV fMWJPdBcBH,RLp PZugst YfDcWSieiv fMWJPdBcBH,2,0.0625,0.5,0.0,0.0,0.9375
+1,Blurred input,verdanaRef_0045,yRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,YRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0043,PcCbZdcKUb DtvuxQemRT YaNzcuPcvc,PcCbzdcKUb DtvuxQemRT YaNzcuPcvc,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0005,YCP TE TmH DPJscaDsPk srWYwPFCvy,YCP TE TmH DPJscaDsPk srWYwPFCvy,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0070,gqxUzMmghP mYYxRdqiKv reyvRX tEB,gqxUzMmghP mYYxRdqikv reyvRX tEB,1,0.03125,0.25,0.0,0.0,0.96875
+1,Blurred input,verdanaRef_0078,qLVL EURef idDgjGxqEz rHyrx xqaR,qLVL EURef idDgjGxqEz rHyrx xqaR,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0031,cVhegKKELA mtCuVbbBFs DGPFgtgADH,cVhegKKELA mtCuVbbBFs DGPFgtgADH,0,0.0,0.0,1.0,0.0,1.0
+1,Blurred input,verdanaRef_0003,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0043,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0042,TvQvkeQV M EbSgaygHHR x tQJMFgwf,TvQvkeQV M EbSgaygHHR X tQJMFgwf,1,0.03125,0.2,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0092,pApReWCcGs bHaVmZPqis aTjWvLXwS,pApReWCcGs bHa VmZPqis aTjWvLXwS,1,0.03225806451612903,0.6666666666666666,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0010,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0066,BbdW QynjG hfkCShvnXN v QGNpNHRX,BbdW QynjG hfkCShvnXN V QGNpNHRX,1,0.03125,0.2,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0051,nvJLjJWQwy sspPJGGxXq NLynVYbPPi,nvJLjJWQwy sspPJGGxXq NLyn VYbPPi,1,0.03125,0.6666666666666666,0.0,0.0,0.9696969696969697
+1,Pretrained Restormer,timesR_0002,vT ushQggj WvMZQyiXKt HdsKCZtZxv,VT ushQggj WvMZQyiXKt HdsKCZtZxv,1,0.03125,0.25,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0071,xKa FfVbJC rZRRWWVbtg rwf ufqHCm,xKa FfVbJC IZRRWWVbtg rwf ufqHCm,1,0.03125,0.2,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0016,SvqSwBSwj SUQUiMRune AFQSjnhCxN,SvqSwBSwj SUQUiMRune AFQSjnhCxN,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0079,aQbkCZcAvm ucDdVVwvex NgbwmAKizg,aQbkCZcAvm ucDdWVwvex NgbwmAKizg,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0074,efhHYZEZUF PVAaUjumwP fMduVhncv,efhHYZEZUF PVAaUjumwP fMduVhncv,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0011,UDhJ LPZvP cXPhHtazmu bpjiwF KV,UDhJ LPZvP cXPhHtazmu bpjiwF KV,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0056,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0057,mz QMwAVd EqdpXDwSUq th DXgKZFP,mz QMwAVd EqdpXDwSUq th DXgKZFP,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0073,v BqweRwHh qjJEpMqhQR tqGyJUHUkv,V BqweRwHh qJEpMqhQR tqGyJUHUkv,2,0.0625,0.5,0.0,0.0,0.9375
+1,Pretrained Restormer,timesR_0046,ZnnSiri gL kxftYUzLUi ceFihyqcau,ZnnSiri gL kxftYUzLUi ceFihyqcau,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0049,YrgKVHZawm UgTAPKXrFr uvduAenLjz,Yrg KVHZawm UgTAPKXIFr uvduAenLjz,2,0.0625,1.0,0.0,0.0,0.9393939393939394
+1,Pretrained Restormer,timesR_0093,hDHVLHpEWR BNYexNsCgR XdPsFzXbwi,hDHVLHpEWR BNYexNsCgR XdPsFzXbwi,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,timesR_0077,kQZ cuisVV KWXskpvShG jZLfDwEXsF,kOZ cuisVV KWXskpvShG jZLfDwEXsF,1,0.03125,0.25,0.0,0.0,0.96875
+1,Pretrained Restormer,timesR_0038,LDSHpCXBnq SYxgpVaTwe YDQdsmNABT,LDSHpCXBnq SYxgp VaTwe YDQdsmNABT,1,0.03125,0.6666666666666666,0.0,0.0,0.9696969696969697
+1,Pretrained Restormer,verdanaRef_0058,yu wJLsFdz TunPjxSaad hGCvseqLgL,yu wJLsFdz TunPjxSaad hGCvseqLgL,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0027,LcaFcNvknW figNJDaUwx X UCpjqiq,LcaFcNvknW figNJDaUwx UCpjqiq,2,0.06451612903225806,0.25,0.0,0.0,0.935483870967742
+1,Pretrained Restormer,verdanaRef_0006,VqvUhpdjey RGChsKynjK mJGtpsisnM,VqvUhpdjey RGChsKynjk mJGtpsisnM,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0014,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,NsdCD pwHt NMsFrRHZhw vQYJZMbaur,1,0.03125,0.25,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0062,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0025,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0023,jWuiFsyiv wRVXStHPCM eUhPWDdsjJ,jWuiFsyiv wRVXStHPCM eUhPWDdsj],1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+1,Pretrained Restormer,verdanaRef_0039,eWNfUZmBcJ naUnhPJGRr WNtPYcTaVj,eWNfUZmBc] naUnhPJGRr WNtPYcTaVj,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0026,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0053,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0086,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0068,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0080,RLp PZugSt YfDcWSieiV fMWJPdBcBH,RLp PZugst YfDcWSieiv fMWJPdBcBH,2,0.0625,0.5,0.0,0.0,0.9375
+1,Pretrained Restormer,verdanaRef_0045,yRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,YRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0043,PcCbZdcKUb DtvuxQemRT YaNzcuPcvc,PcCbzdcKUb DtvuxQemRT YaNzcuPcvc,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0005,YCP TE TmH DPJscaDsPk srWYwPFCvy,YCP TE TmH DPJscaDsPk srWYwPFCvy,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0070,gqxUzMmghP mYYxRdqiKv reyvRX tEB,gqxUzMmghP mYYxRdqikv reyvRX tEB,1,0.03125,0.25,0.0,0.0,0.96875
+1,Pretrained Restormer,verdanaRef_0078,qLVL EURef idDgjGxqEz rHyrx xqaR,qLVL EURef idDgjGxqEz rHyrx xqaR,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0031,cVhegKKELA mtCuVbbBFs DGPFgtgADH,cVhegKKELA mtCuVbbBFs DGPFgtgADH,0,0.0,0.0,1.0,0.0,1.0
+1,Pretrained Restormer,verdanaRef_0003,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,timesR_0043,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,AYH KUwfMu ecrkpPtzfR LSVsjkkmBi,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,timesR_0042,TvQvkeQV M EbSgaygHHR x tQJMFgwf,T zkeQ M EbSgaygHHR X tQJMFgwf,5,0.15625,0.6,0.0,0.0,0.84375
+1,Fine-tuned Restormer,timesR_0092,pApReWCcGs bHaVmZPqis aTjWvLXwS,pApRe CcGs bHa m ZPqis aTj VLX wS,6,0.1935483870967742,2.6666666666666665,0.0,0.0,0.8181818181818181
+1,Fine-tuned Restormer,timesR_0010,NKQAGQfbRZ mcWHGuYxNT DJnfxqruyK,NKOAGOfbRZ mcWHGuYxNT DJnfxqruyK,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+1,Fine-tuned Restormer,timesR_0066,BbdW QynjG hfkCShvnXN v QGNpNHRX,Bbd QynjG hfkCShvnXN 2GNpNHRX,4,0.125,0.6,0.0,0.0,0.875
+1,Fine-tuned Restormer,timesR_0051,nvJLjJWQwy sspPJGGxXq NLynVYbPPi,"n"" JLjJ sspPJGG (q NLyn VYbPPi",9,0.28125,2.0,0.0,0.0,0.71875
+1,Fine-tuned Restormer,timesR_0002,vT ushQggj WvMZQyiXKt HdsKCZtZxv,T ushQggj MZQyiXKt HdsKCZtZ,5,0.15625,0.75,0.0,0.0,0.84375
+1,Fine-tuned Restormer,timesR_0071,xKa FfVbJC rZRRWWVbtg rwf ufqHCm,xKa FfVbJC IZRRW Vbtg wf ufqHCm,3,0.09375,0.6,0.0,0.0,0.90625
+1,Fine-tuned Restormer,timesR_0016,SvqSwBSwj SUQUiMRune AFQSjnhCxN,SvqSwBSwj SUQUiMRune AFQSjnhCxN,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,timesR_0079,aQbkCZcAvm ucDdVVwvex NgbwmAKizg,aQbkCZcA m ucDd CX NgbwmAKizg,7,0.21875,1.3333333333333333,0.0,0.0,0.78125
+1,Fine-tuned Restormer,timesR_0074,efhHYZEZUF PVAaUjumwP fMduVhncv,efhHYZEZUF PVAaUjumwP fMduVhncv,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,timesR_0011,UDhJ LPZvP cXPhHtazmu bpjiwF KV,UDhJ LPZvP XPhHtazmu bpjiwF KV,1,0.03225806451612903,0.2,0.0,0.0,0.967741935483871
+1,Fine-tuned Restormer,timesR_0056,wjH zT kzC xnwKEjRcaE ekAzxBmSkR,wjH zT kzC XnW KEjRcaE ekA xBmSkR,4,0.125,0.8,0.0,0.0,0.8787878787878788
+1,Fine-tuned Restormer,timesR_0057,mz QMwAVd EqdpXDwSUq th DXgKZFP,mz OMwAVd EqdpXD SUq th DXgKZFP,2,0.06451612903225806,0.6,0.0,0.0,0.935483870967742
+1,Fine-tuned Restormer,timesR_0073,v BqweRwHh qjJEpMqhQR tqGyJUHUkv,Bq veRwHh qjJEpMqhQR tqGyJUHUk,5,0.15625,0.75,0.0,0.0,0.84375
+1,Fine-tuned Restormer,timesR_0046,ZnnSiri gL kxftYUzLUi ceFihyqcau,ZnnSiri gL kxftYUzLUi ceFihyqcau,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,timesR_0049,YrgKVHZawm UgTAPKXrFr uvduAenLjz,YrgKVHZawm UgTAPKXIFr U vduAenLjz,3,0.09375,1.0,0.0,0.0,0.9090909090909091
+1,Fine-tuned Restormer,timesR_0093,hDHVLHpEWR BNYexNsCgR XdPsFzXbwi,hDHVLHpE VR BNYexNsCgR XdPsFzXbwi,2,0.0625,0.6666666666666666,0.0,0.0,0.9393939393939394
+1,Fine-tuned Restormer,timesR_0077,kQZ cuisVV KWXskpvShG jZLfDwEXsF,kOZ cuis K XskpvShG jZLfDwEXsF,4,0.125,1.0,0.0,0.0,0.875
+1,Fine-tuned Restormer,timesR_0038,LDSHpCXBnq SYxgpVaTwe YDQdsmNABT,LDSHpC XBnq SYxgp JaTw YDOdsmNABT,5,0.15625,1.6666666666666667,0.0,0.0,0.8484848484848485
+1,Fine-tuned Restormer,verdanaRef_0058,yu wJLsFdz TunPjxSaad hGCvseqLgL,Yu wJLsFdz TunPjxSaad hGCvseqLgL,1,0.03125,0.25,0.0,0.0,0.96875
+1,Fine-tuned Restormer,verdanaRef_0027,LcaFcNvknW figNJDaUwx X UCpjqiq,LcaFcNvknW figNJDaUw UCpjqiq,3,0.0967741935483871,0.5,0.0,0.0,0.9032258064516129
+1,Fine-tuned Restormer,verdanaRef_0006,VqvUhpdjey RGChsKynjK mJGtpsisnM,JqvUhpdjey RGChsKynjk mJGtpsisnM,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+1,Fine-tuned Restormer,verdanaRef_0014,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,NsdCD pwHt NMsFrRHZhw VQYJZMbaur,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,verdanaRef_0062,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,vttvHxCwcj fcwAvZYxZy ZXQApTGBFB,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,verdanaRef_0025,WiNguUPbwi ZTJkuGnnph g uCyFBrGW,WiNguUPbwi ZTJkuGnnph g UCyFBrGW,1,0.03125,0.25,0.0,0.0,0.96875
+1,Fine-tuned Restormer,verdanaRef_0023,jWuiFsyiv wRVXStHPCM eUhPWDdsjJ,jWuiFsyii WRVXStHPCM eUhPWDdsj],3,0.0967741935483871,1.0,0.0,0.0,0.9032258064516129
+1,Fine-tuned Restormer,verdanaRef_0039,eWNfUZmBcJ naUnhPJGRr WNtPYcTaVj,eWNfUZmBc] naUnhPJGRr WNtPYcTaVj,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Fine-tuned Restormer,verdanaRef_0026,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,JuYEKCWaqB gEwXWkWccf Emn iFsMwx,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,verdanaRef_0053,qsEtjUqzjE rKqJvynEvg FjdPTfYsXZ,qsEtjUqzjE rKq] ynEvg FjdPTfYsXZ,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+1,Fine-tuned Restormer,verdanaRef_0086,sMZAYbjHcP nBZEFtyuWx EPMtG gkaT,sMZAYbjHcP nBZEFtyuw EPMtG gkat,3,0.09375,0.5,0.0,0.0,0.90625
+1,Fine-tuned Restormer,verdanaRef_0068,wHhn kSgRh qFdVWfmdBm fYZsMzkKuq,wHhn kSgRh qFdV WfmdBm fYZsMzkKuq,1,0.03125,0.5,0.0,0.0,0.9696969696969697
+1,Fine-tuned Restormer,verdanaRef_0080,RLp PZugSt YfDcWSieiV fMWJPdBcBH,RLp PZugst YfDcWSiei fMWJPdBcBH,2,0.0625,0.5,0.0,0.0,0.9375
+1,Fine-tuned Restormer,verdanaRef_0045,yRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,YRjYXNAjPs sUDsTuUKTH PAhLKvdeqb,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Fine-tuned Restormer,verdanaRef_0043,PcCbZdcKUb DtvuxQemRT YaNzcuPcvc,PcCbzdcKUb DtvuxQemRT YaNzcuPcvc,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+1,Fine-tuned Restormer,verdanaRef_0005,YCP TE TmH DPJscaDsPk srWYwPFCvy,YCP TE TmH DPJscaDsPk SrWYwPFCv,2,0.0625,0.2,0.0,0.0,0.9375
+1,Fine-tuned Restormer,verdanaRef_0070,gqxUzMmghP mYYxRdqiKv reyvRX tEB,gqxUzMmghP mn xRdqiKv reyvRX tEB,2,0.0625,0.5,0.0,0.0,0.9375
+1,Fine-tuned Restormer,verdanaRef_0078,qLVL EURef idDgjGxqEz rHyrx xqaR,qL VL EURef idDgjGxqEz rHyrx xqaR,1,0.03125,0.4,0.0,0.0,0.9696969696969697
+1,Fine-tuned Restormer,verdanaRef_0031,cVhegKKELA mtCuVbbBFs DGPFgtgADH,cVhegKKELA mtCuVbbBFs DGPFgtgADH,0,0.0,0.0,1.0,0.0,1.0
+1,Fine-tuned Restormer,verdanaRef_0003,ufDuFMfzrV FbjusGLnRq BJdZuSAN f,ufDuFMfzr FbjusGLnRq BJdZuSAN f,1,0.03125,0.25,0.0,0.0,0.96875
+2,Sharp GT (upper bound),timesR_0043,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),timesR_0042,i RzPPajqB BUHGfrnHFi UVMVVmyMsA,i RzPPajqB BUHGfrnHFi UVMT m YMsA,4,0.125,0.75,0.0,0.0,0.8787878787878788
+2,Sharp GT (upper bound),timesR_0092,zsKxqzDDHK KeDEAESxjw sRjQZkgpwG,zSKxqzDDHK KeDEAESxj sRjQZkgp (,4,0.125,1.3333333333333333,0.0,0.0,0.875
+2,Sharp GT (upper bound),timesR_0010,MfALW Yphn fzUQFnSkFf BPskFdxGmy,MfALT Yphn fzUOFnSkFf BPskFdxGm,3,0.09375,0.75,0.0,0.0,0.90625
+2,Sharp GT (upper bound),timesR_0066,SLphVPteXQ YWsEtBQTDF VwvgbtCWdx,SLphVPteX sEtBOTDF gbtC d,9,0.28125,1.3333333333333333,0.0,0.0,0.71875
+2,Sharp GT (upper bound),timesR_0051,XuiCcSRYG vzETBwgGzf DtwrMZyee,XuiCcSRYG ZETBwgGzf Dtwr MZyee,3,0.1,1.0,0.0,0.0,0.9
+2,Sharp GT (upper bound),timesR_0002,vzreABTctK HZhzSWbUPg AhrPNHnHQf,vzreABTctK HZhzSE WbUPg AhrPNHnHOf,3,0.09375,1.0,0.0,0.0,0.9117647058823529
+2,Sharp GT (upper bound),timesR_0071,RNzHJYXzny QGNkETwSiS DSxTJmVSvm,RNZHJY zny 2GNkETwSiS DSxTJm TSvm,5,0.15625,1.6666666666666667,0.0,0.0,0.8484848484848485
+2,Sharp GT (upper bound),timesR_0016,SDgfWDfkAR nMdRruDxcg NQQShbZfSQ,SDgf NDfkAR nMdRruD XcS NOOShbZfso,9,0.28125,1.6666666666666667,0.0,0.0,0.7352941176470589
+2,Sharp GT (upper bound),timesR_0079,WKq PpytDi KuyhbftiYu gfGnYNpjAS,VKq PpytDi Ku vhbftiYu gfGnYNpjAS,3,0.09375,0.75,0.0,0.0,0.9090909090909091
+2,Sharp GT (upper bound),timesR_0074,rmFSunbtBY NnwNfrdfwP mfeyWHysSd,rmFSunbtBY NnwNfrdfwP mfeWHysSd,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Sharp GT (upper bound),timesR_0011,bGTVbCBZZb gTbYMSyaZu zQhnRHeS A,bGTVbCBZZb gTbYMSyaZu zOhnRHeS,3,0.09375,0.5,0.0,0.0,0.90625
+2,Sharp GT (upper bound),timesR_0056,CAH izLsm tRkGTqiJLX kkrJhzEtV,CAH izLsm tRkGTqJL kkrJhzEt,3,0.1,0.5,0.0,0.0,0.9
+2,Sharp GT (upper bound),timesR_0057,PPxhcUe bs bGtsBWyZHd yUtvCgxeuf,PPxhcUe bs bGtsBM VZHd yUtvCgxeuf,3,0.09375,0.5,0.0,0.0,0.9090909090909091
+2,Sharp GT (upper bound),timesR_0073,jGXcBaHqhW DFnzUAwwxs SCuJgxG Xj,jGXcBaHqh DFnzUA SCuJgxG Xj,5,0.15625,0.5,0.0,0.0,0.84375
+2,Sharp GT (upper bound),timesR_0046,qzJjyZjbEp uXHbRSaGCd SQyEghtryz,qzJjyZjbEp XHbRSaGCd SQyEghtryz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Sharp GT (upper bound),timesR_0049,cctBHSyRtN ueRGGxPWsb GugzziLYps,cctBHSyRtN ueRGG P sb GugzziLYps,2,0.0625,1.0,0.0,0.0,0.9375
+2,Sharp GT (upper bound),timesR_0093,mRzha jtWk eguAzsJsRL xWeHYtJfUM,mRzha jtWk eguAzsJsRL VeHYtJfUM,2,0.0625,0.25,0.0,0.0,0.9375
+2,Sharp GT (upper bound),timesR_0077,RKepHcdWMs MYRUqZerkv vSjkUdhReL,RKepHcd Ms MYRUqZerk SjkUdhReL,3,0.09375,1.3333333333333333,0.0,0.0,0.90625
+2,Sharp GT (upper bound),timesR_0038,jkHesNKyTp GbxChbDHAs uvALSNWKgg,jkHesNKylp GbxChbDHAs UV ALSNT Kgg,6,0.1875,1.3333333333333333,0.0,0.0,0.8235294117647058
+2,Sharp GT (upper bound),verdanaRef_0058,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0027,MngCPvrehF zfpAHARmHX NkJQHPmaqa,MngCPvrehF zfpAHARmHX NkJQHPmaqa,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0006,vSr RCmXDe SDWmynQiTj FXLhHCSaLR,VSr RCmxDe SDWmynQiTj FXLhHCSaLR,2,0.0625,0.5,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0014,AduYaCtC x mjhnftuFaQ BFAPfwGTmU,AduYaCtc mjhnftuFaQ BFAPfwGTmU,3,0.09375,0.5,0.0,0.0,0.90625
+2,Sharp GT (upper bound),verdanaRef_0062,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0025,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0023,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0039,nbMzncFhjJ JYVMkTxzYw iVcwNvkCZz,nbMzncFhj] JYVMkTxzY iVcwNvkCZz,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0026,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,0,0.0,0.0,1.0,0.0,1.0
+2,Sharp GT (upper bound),verdanaRef_0053,qeXZWSZxkC YsdDBmHRAf WfCykdmeCK,qeXZWSZxkC YsdDBmHRAf NfCykdmeCk,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0086,XdXPXrbkvp fBsFLVtZcf XZfdNNQrPJ,XdXPXrbkvp fBsFLVtzcf XZfdNNQrP],2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0068,WKmnB uywr augLqcNzQf ZQVutpaMei,NKmnB uywr augLqcNzQf ZQVutpaMei,1,0.03125,0.25,0.0,0.0,0.96875
+2,Sharp GT (upper bound),verdanaRef_0080,njbpjpNmEs DGnMEKXBin fvJ qAYTAF,njbpjpNmEs DGnMEKXBin fv] qAYTAF,1,0.03125,0.25,0.0,0.0,0.96875
+2,Sharp GT (upper bound),verdanaRef_0045,wAheckskML CxfhcFqTAx migub UPpT,WAheckskML XxfhcFqTA migub UPpT,3,0.09375,0.5,0.0,0.0,0.90625
+2,Sharp GT (upper bound),verdanaRef_0043,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Sharp GT (upper bound),verdanaRef_0005,RJJmsrrgZw DcAVfQazUJ ThKdjQHq A,RJJmsrrgzw DcAVfQazUj ThKdjQHq,4,0.125,0.75,0.0,0.0,0.875
+2,Sharp GT (upper bound),verdanaRef_0070,rGyDtvGJKA WNrxVydwRb eKymVUZYEz,rGyDtvGJKA NNr} ydwRb eKymVUZYEz,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Sharp GT (upper bound),verdanaRef_0078,Ebqnfpe Rg DRTiyHmsbW xqZugUdGqx,Ebqnfpe Rg DRTiyHmsbw xqZugUdGq,2,0.0625,0.5,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0031,ZAZUSAJyHm fwssNHgjuK VsRwZUsTpN,ZAZUSAJyHm fwssNHgjuk sRwZUsTpN,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Sharp GT (upper bound),verdanaRef_0003,rFtiQkVRXr GmYsTahmSk GXgY DZyA,rFtiQkVRXr GmYsTahmSk GXgY DZyA,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,timesR_0043,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,AsMuhLMDks fEtWJfGdFJ RDsLqqwILK,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,timesR_0042,i RzPPajqB BUHGfrnHFi UVMVVmyMsA,i RzPPajqB BUHGfrHFi UVMWVmyMsA,2,0.0625,0.5,0.0,0.0,0.9375
+2,Blurred input,timesR_0092,zsKxqzDDHK KeDEAESxjw sRjQZkgpwG,ZSKxqDDHK KeDEAESxjw sRjQZkgpwG,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+2,Blurred input,timesR_0010,MfALW Yphn fzUQFnSkFf BPskFdxGmy,MIALW Yphn [zUQFnSkFf BPskFdxGmy,2,0.0625,0.5,0.0,0.0,0.9375
+2,Blurred input,timesR_0066,SLphVPteXQ YWsEtBQTDF VwvgbtCWdx,SLphVPteXQ YWsEtBOTDF Vwvgbt C Wdx,3,0.09375,1.3333333333333333,0.0,0.0,0.9117647058823529
+2,Blurred input,timesR_0051,XuiCcSRYG vzETBwgGzf DtwrMZyee,XuiCeSRYG VzETBwgGzf DtwrMZyee,2,0.06666666666666667,0.6666666666666666,0.0,0.0,0.9333333333333333
+2,Blurred input,timesR_0002,vzreABTctK HZhzSWbUPg AhrPNHnHQf,VZICABTctK HZISWbUPg AhPNHnHOf,8,0.25,1.0,0.0,0.0,0.75
+2,Blurred input,timesR_0071,RNzHJYXzny QGNkETwSiS DSxTJmVSvm,"RN,HJYXzny QGNkETwSiS DSx T Jm VSvmn",5,0.15625,1.6666666666666667,0.0,0.0,0.8611111111111112
+2,Blurred input,timesR_0016,SDgfWDfkAR nMdRruDxcg NQQShbZfSQ,SDgfWDkAR nMdRruDxcg NQoShbZiSQ,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Blurred input,timesR_0079,WKq PpytDi KuyhbftiYu gfGnYNpjAS,WKq PpyDi KuyhbftiYu efGnYNpjAS,2,0.0625,0.5,0.0,0.0,0.9375
+2,Blurred input,timesR_0074,rmFSunbtBY NnwNfrdfwP mfeyWHysSd,rmFSunbtBY NnwNfrdfwP mfeWWHysSd,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,timesR_0011,bGTVbCBZZb gTbYMSyaZu zQhnRHeS A,bGTVbCBZZb gTbYMSyaZu OhnRHeS A,2,0.0625,0.25,0.0,0.0,0.9375
+2,Blurred input,timesR_0056,CAH izLsm tRkGTqiJLX kkrJhzEtV,CAH iz [ SI tRkGTqJLX kkrJhEtV,7,0.23333333333333334,1.25,0.0,0.0,0.7666666666666666
+2,Blurred input,timesR_0057,PPxhcUe bs bGtsBWyZHd yUtvCgxeuf,PPxhcUe bs bGtsBWyZHd vUtCgxeuf,2,0.0625,0.25,0.0,0.0,0.9375
+2,Blurred input,timesR_0073,jGXcBaHqhW DFnzUAwwxs SCuJgxG Xj,jGXcBaHqhW DFMUAwwXS SCuJgxG Xj,4,0.125,0.25,0.0,0.0,0.875
+2,Blurred input,timesR_0046,qzJjyZjbEp uXHbRSaGCd SQyEghtryz,qJjyZjbEp UXHbRSaGCd SQyEghtryz,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Blurred input,timesR_0049,cctBHSyRtN ueRGGxPWsb GugzziLYps,CctBHSvRtN ueRGGxPWsb GugziLYps,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Blurred input,timesR_0093,mRzha jtWk eguAzsJsRL xWeHYtJfUM,mRzha jtWk eguAzsJsRI xWeHYufUM,3,0.09375,0.5,0.0,0.0,0.90625
+2,Blurred input,timesR_0077,RKepHcdWMs MYRUqZerkv vSjkUdhReL,RKepHedWMs MYRUqZerkv vSjk UdhReL,2,0.0625,1.0,0.0,0.0,0.9393939393939394
+2,Blurred input,timesR_0038,jkHesNKyTp GbxChbDHAs uvALSNWKgg,jkHesNKyTp GbxChbDHAS WVALSNWKgg,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Blurred input,verdanaRef_0058,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0027,MngCPvrehF zfpAHARmHX NkJQHPmaqa,MngCPvrehF zfpAHARmHX NkJQHPmaqa,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0006,vSr RCmXDe SDWmynQiTj FXLhHCSaLR,vSr RCmXDe SDWmynQiTj FXLhHcSaLR,1,0.03125,0.25,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0014,AduYaCtC x mjhnftuFaQ BFAPfwGTmU,AduYaCtC X mjhnftuFaQ BFAPfwGTmU,1,0.03125,0.25,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0062,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0025,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0023,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0039,nbMzncFhjJ JYVMkTxzYw iVcwNvkCZz,nbMzncFhj] JYVMkTxzYw iVcwNvkCZz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0026,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0053,qeXZWSZxkC YsdDBmHRAf WfCykdmeCK,qeXZWSZxkc YsdDBmHRAf WfCykdmeCk,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Blurred input,verdanaRef_0086,XdXPXrbkvp fBsFLVtZcf XZfdNNQrPJ,XdXPXrbkvp fBsFLVtZcf XZfdNNQrP],1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0068,WKmnB uywr augLqcNzQf ZQVutpaMei,WKmnB uywr augLqcNzQf zQVutpaMei,1,0.03125,0.25,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0080,njbpjpNmEs DGnMEKXBin fvJ qAYTAF,njbpjpNmEs DGnMEKXBin fv] QAYTAF,2,0.0625,0.5,0.0,0.0,0.9375
+2,Blurred input,verdanaRef_0045,wAheckskML CxfhcFqTAx migub UPpT,wAheckskML CxfhcFqTAx migub UPpT,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0043,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,0,0.0,0.0,1.0,0.0,1.0
+2,Blurred input,verdanaRef_0005,RJJmsrrgZw DcAVfQazUJ ThKdjQHq A,RJJmsrrgZw DcAVfQazU] ThKdjQHq A,1,0.03125,0.25,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0070,rGyDtvGJKA WNrxVydwRb eKymVUZYEz,rGyDtvGJKA WNrxVydwRb eKymVUZYEZ,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0078,Ebqnfpe Rg DRTiyHmsbW xqZugUdGqx,Ebqnfpe Rg DRTiyHmsbw xqZugUdGqx,1,0.03125,0.25,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0031,ZAZUSAJyHm fwssNHgjuK VsRwZUsTpN,ZAZUSAJyHm fwssNHgjuk VsRwZUsTpN,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Blurred input,verdanaRef_0003,rFtiQkVRXr GmYsTahmSk GXgY DZyA,rFtiQkVRXr GmYsTahmSk GXgY DZyA,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,timesR_0043,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,AsMuhLMDks [EtWJGdFJ RDsLqqwfLK,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+2,Pretrained Restormer,timesR_0042,i RzPPajqB BUHGfrnHFi UVMVVmyMsA,i RzPPajqB BUHGfrnHFi UVMWVmyMsA,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0092,zsKxqzDDHK KeDEAESxjw sRjQZkgpwG,ZSKxqzDDHK KeDEAESxjw sRjOZkgpwG,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Pretrained Restormer,timesR_0010,MfALW Yphn fzUQFnSkFf BPskFdxGmy,MfALW Yphn [zUQFnSkFf BPskFdxGmy,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0066,SLphVPteXQ YWsEtBQTDF VwvgbtCWdx,SLphVPteXo YWsEt BOTDF Vwvgbt C Wdx,5,0.15625,2.0,0.0,0.0,0.8571428571428572
+2,Pretrained Restormer,timesR_0051,XuiCcSRYG vzETBwgGzf DtwrMZyee,XuiCcSRYG VzETBwgGzf DtwrMZyee,1,0.03333333333333333,0.3333333333333333,0.0,0.0,0.9666666666666667
+2,Pretrained Restormer,timesR_0002,vzreABTctK HZhzSWbUPg AhrPNHnHQf,VZICABTctK HZIzSWbUPg AhrPNHnHOf,6,0.1875,1.0,0.0,0.0,0.8125
+2,Pretrained Restormer,timesR_0071,RNzHJYXzny QGNkETwSiS DSxTJmVSvm,RNzHJYXzny QGNkETwSiS DSx JmVSvm,1,0.03125,0.6666666666666666,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0016,SDgfWDfkAR nMdRruDxcg NQQShbZfSQ,SDgfWDfkAR nMdRmuDxcg NQoShbZiSQ,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Pretrained Restormer,timesR_0079,WKq PpytDi KuyhbftiYu gfGnYNpjAS,WKq PpyDi KuyhbftiYu gfGnYNpjAS,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0074,rmFSunbtBY NnwNfrdfwP mfeyWHysSd,rmFSunbtBY NnwNfrdfwP mfewWHysSd,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0011,bGTVbCBZZb gTbYMSyaZu zQhnRHeS A,bGTVbCBZZb gTbYMSyaZu ZQhnRHeS A,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0056,CAH izLsm tRkGTqiJLX kkrJhzEtV,CAH i[ SI tRkGTqiJLX kkrJhEtV,5,0.16666666666666666,0.75,0.0,0.0,0.8333333333333334
+2,Pretrained Restormer,timesR_0057,PPxhcUe bs bGtsBWyZHd yUtvCgxeuf,PPxhcUe bs bGtsBWyZHd yUtCgxeuf,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,timesR_0073,jGXcBaHqhW DFnzUAwwxs SCuJgxG Xj,jGXcBaHqhW DF#UAwwXS SCuJgxG Xj,4,0.125,0.25,0.0,0.0,0.875
+2,Pretrained Restormer,timesR_0046,qzJjyZjbEp uXHbRSaGCd SQyEghtryz,qzJjyljbEp UXHbRSaGCd SQyEghtryz,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Pretrained Restormer,timesR_0049,cctBHSyRtN ueRGGxPWsb GugzziLYps,CctBHSvRN UeRGGxPWsb GugziLYps,5,0.15625,1.0,0.0,0.0,0.84375
+2,Pretrained Restormer,timesR_0093,mRzha jtWk eguAzsJsRL xWeHYtJfUM,mRzha jtWk eguAzsJsRI xWeHYufUM,3,0.09375,0.5,0.0,0.0,0.90625
+2,Pretrained Restormer,timesR_0077,RKepHcdWMs MYRUqZerkv vSjkUdhReL,RKepHedWMs MYRUqZerkv vSjk UdhReL,2,0.0625,1.0,0.0,0.0,0.9393939393939394
+2,Pretrained Restormer,timesR_0038,jkHesNKyTp GbxChbDHAs uvALSNWKgg,jkHesNKyp GbxChbDHAS WVALSNWKgg,4,0.125,1.0,0.0,0.0,0.875
+2,Pretrained Restormer,verdanaRef_0058,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0027,MngCPvrehF zfpAHARmHX NkJQHPmaqa,MngCPvrehF zfpAHARmHX NkJQHPmaqa,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0006,vSr RCmXDe SDWmynQiTj FXLhHCSaLR,vSr RCmXDe SDWmynQiTj FXLhHcSaLR,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0014,AduYaCtC x mjhnftuFaQ BFAPfwGTmU,AduYaCtC X mjhnftuFaQ BFAPfwGTmU,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0062,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0025,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0023,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0039,nbMzncFhjJ JYVMkTxzYw iVcwNvkCZz,nbMzncFhj] JYVMkTxzYw iVcwNvkCZz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0026,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0053,qeXZWSZxkC YsdDBmHRAf WfCykdmeCK,qeXZWSZxkc YsdDBmHRAf WfCykdmeCk,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Pretrained Restormer,verdanaRef_0086,XdXPXrbkvp fBsFLVtZcf XZfdNNQrPJ,XdXPXrbkvp fBsFLVtZcf XZfdNNQrP],1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0068,WKmnB uywr augLqcNzQf ZQVutpaMei,WKmnB uywr augLqcNzQf zQVutpaMei,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0080,njbpjpNmEs DGnMEKXBin fvJ qAYTAF,njbpjpNmEs DGnMEKXBin fv] QAYTAF,2,0.0625,0.5,0.0,0.0,0.9375
+2,Pretrained Restormer,verdanaRef_0045,wAheckskML CxfhcFqTAx migub UPpT,wAheckskML CxfhcFqTAx migub UPpT,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0043,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0005,RJJmsrrgZw DcAVfQazUJ ThKdjQHq A,RJJmsrrgZw DcAVfQazU] ThKdjQHq A,1,0.03125,0.25,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0070,rGyDtvGJKA WNrxVydwRb eKymVUZYEz,rGyDtvGJKA WNrxVydwRb eKymVUZYEZ,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0078,Ebqnfpe Rg DRTiyHmsbW xqZugUdGqx,Ebqnfpe Rg DRTiyHmsbW xqZugUdGqx,0,0.0,0.0,1.0,0.0,1.0
+2,Pretrained Restormer,verdanaRef_0031,ZAZUSAJyHm fwssNHgjuK VsRwZUsTpN,ZAZUSAJyHm fwssNHgjuk VsRwZUsTpN,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Pretrained Restormer,verdanaRef_0003,rFtiQkVRXr GmYsTahmSk GXgY DZyA,rFtiQkVRXr GmYsTahmSk GXgY DZyA,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0043,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,AsMuhLMDks fEtWJfGdFJ RDsLqqwfLK,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0042,i RzPPajqB BUHGfrnHFi UVMVVmyMsA,i RzPPajqB BUHGfrnHFi UVMWVmyMsA,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0092,zsKxqzDDHK KeDEAESxjw sRjQZkgpwG,zsKxqzDDHK KeDEAESxj sRjQZkgpwG,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0010,MfALW Yphn fzUQFnSkFf BPskFdxGmy,MfALW Yphn fzUOFnSkFf BPskFdxGmy,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0066,SLphVPteXQ YWsEtBQTDF VwvgbtCWdx,SLphVPteXQ WsEtBOTDF gbtC Vd,8,0.25,1.0,0.0,0.0,0.75
+2,Fine-tuned Restormer,timesR_0051,XuiCcSRYG vzETBwgGzf DtwrMZyee,XuiCcSRYG ZETBwgGzf Dtwr) MZyee,4,0.13333333333333333,1.0,0.0,0.0,0.8709677419354839
+2,Fine-tuned Restormer,timesR_0002,vzreABTctK HZhzSWbUPg AhrPNHnHQf,zreABTctK HZhzSWbUPg AhPNHnHOf,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+2,Fine-tuned Restormer,timesR_0071,RNzHJYXzny QGNkETwSiS DSxTJmVSvm,RNzHYXzny QGNkETwSis DSxTJnVSvm,3,0.09375,1.0,0.0,0.0,0.90625
+2,Fine-tuned Restormer,timesR_0016,SDgfWDfkAR nMdRruDxcg NQQShbZfSQ,SDgfWDfkAR nMdRruDxcg NQOShbZfso,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+2,Fine-tuned Restormer,timesR_0079,WKq PpytDi KuyhbftiYu gfGnYNpjAS,WKq PpytDi KuyhbftiYu gfGnYNpjAS,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0074,rmFSunbtBY NnwNfrdfwP mfeyWHysSd,rmFSunbtBY NnwNfrdfwP mfeyWHysSd,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0011,bGTVbCBZZb gTbYMSyaZu zQhnRHeS A,bGTVbCBZZb gTbYMSyaZu zOhnRHeS A,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0056,CAH izLsm tRkGTqiJLX kkrJhzEtV,CAH izLsm tRkGTqJLX kkrJhzEtV,1,0.03333333333333333,0.25,0.0,0.0,0.9666666666666667
+2,Fine-tuned Restormer,timesR_0057,PPxhcUe bs bGtsBWyZHd yUtvCgxeuf,PPxhcUe bs bGtsBWyZHd yUtvCgxeuf,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0073,jGXcBaHqhW DFnzUAwwxs SCuJgxG Xj,jGXcBaHqhW DFnzUA SCuJgxG Xj,4,0.125,0.25,0.0,0.0,0.875
+2,Fine-tuned Restormer,timesR_0046,qzJjyZjbEp uXHbRSaGCd SQyEghtryz,qzJjyZjbEp UXHbRSaGCd SQyEghtryz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0049,cctBHSyRtN ueRGGxPWsb GugzziLYps,cctBHSyRtN ueRGGxPWsb GugzziLYps,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,timesR_0093,mRzha jtWk eguAzsJsRL xWeHYtJfUM,mRzha jtWk eguAzsJsRL WeHYtJfUM,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,timesR_0077,RKepHcdWMs MYRUqZerkv vSjkUdhReL,RKepHcdWMs MYRUqZerk SjkUdhReL,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Fine-tuned Restormer,timesR_0038,jkHesNKyTp GbxChbDHAs uvALSNWKgg,jkHesNKylp GbxChbDHAs UVALSNF WKgg,5,0.15625,1.0,0.0,0.0,0.8529411764705882
+2,Fine-tuned Restormer,verdanaRef_0058,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,XjAfXRUQDw ddMkgtwGnf LtAah FUEh,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0027,MngCPvrehF zfpAHARmHX NkJQHPmaqa,MngCPvrehF zfpAHARmHX NkJQHPmaqa,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0006,vSr RCmXDe SDWmynQiTj FXLhHCSaLR,vSr RCmxDe SDWmynQiTj FXLhHCSaLR,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0014,AduYaCtC x mjhnftuFaQ BFAPfwGTmU,AduYaCtC X mjhnftuFaQ BFAPfwGTmU,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0062,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,UcFQPZafnp NKWadmSxPM jbpcGLXhLE,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0025,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,ZUEsthjUU QHkUzZmcYf gWiqzuzqTm,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0023,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,RGxtaenPEq NpQZbGMsuF EdEMCyhRxt,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0039,nbMzncFhjJ JYVMkTxzYw iVcwNvkCZz,nbMzncFhj] JYVMkTxzYw iVcwNvkCZz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0026,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,gb aqXQpcU HgUhnVPrEK hebXqrsCuN,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0053,qeXZWSZxkC YsdDBmHRAf WfCykdmeCK,qeXZWSZxkC YsdDBmHRAf WfCykdmeCk,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0086,XdXPXrbkvp fBsFLVtZcf XZfdNNQrPJ,XdXPXrbkvp fBsFLVtzcf XZfdNNQrP],2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+2,Fine-tuned Restormer,verdanaRef_0068,WKmnB uywr augLqcNzQf ZQVutpaMei,WKmnB uywr augLqcNzQf ZQVutpaMei,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0080,njbpjpNmEs DGnMEKXBin fvJ qAYTAF,njbpjpNmEs DGnMEKXBin fv] qAYTAF,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0045,wAheckskML CxfhcFqTAx migub UPpT,WAheckskML CxfhcFqTAx migub UPpT,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0043,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,wrDQhvjJCD iBvTqJtvRZ inYEdAKtrx,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0005,RJJmsrrgZw DcAVfQazUJ ThKdjQHq A,RJJmsrrgZw DcAVfQazU] ThKdjQHq A,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0070,rGyDtvGJKA WNrxVydwRb eKymVUZYEz,rGyDtvGJKA WNrxVydwRb eKymVUZYEz,0,0.0,0.0,1.0,0.0,1.0
+2,Fine-tuned Restormer,verdanaRef_0078,Ebqnfpe Rg DRTiyHmsbW xqZugUdGqx,Ebqnfpe Rg DRTiyHmsbw xqZugUdGqx,1,0.03125,0.25,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0031,ZAZUSAJyHm fwssNHgjuK VsRwZUsTpN,ZAZUSAJyHm fwssNHgjuk VsRwZUsTpN,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+2,Fine-tuned Restormer,verdanaRef_0003,rFtiQkVRXr GmYsTahmSk GXgY DZyA,rFtiQkVRXr GmYsTahmSk GXgY DZyA,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),timesR_0043,UsTCcQbCxf dRGLKWgnjk mvzFeGUuAe,UsTCcQbCxf dRGLK gnjk m vzFeGUuAe,2,0.0625,1.3333333333333333,0.0,0.0,0.9393939393939394
+3,Sharp GT (upper bound),timesR_0042,ufwVWq NwU cQjBpAUwbn mkjhHVAgEe,ufw vq NwU QjBpAUwbn mkjhHVAgEe,3,0.09375,0.75,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0092,pKDHmxRZDz MNdiuybCst L ApikFDQm,pKDHmxRZDz MNdiuybCst L ApikFDQm,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),timesR_0010,jkzfPWdeuk cgpTZwrWvv JfUphVzpty,jkzfPWdeuk cgpTZwr JfUphVzpty,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0066,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),timesR_0051,jkn gqNhAq MNiWdsVkPh TTjmWxgJiD,"jkn gqNhAq MNi"" dsVkPh TTjm gJiD",4,0.125,1.0,0.0,0.0,0.875
+3,Sharp GT (upper bound),timesR_0002,xkKXmdSLHX GbmPUJcGtV y Vmdp Jci,rkKXmdSLHX GbmPUJcGt V mdp Jci,4,0.125,0.8,0.0,0.0,0.875
+3,Sharp GT (upper bound),timesR_0071,z bQapTFHk wKtURPicFS Em NkngnYQ,z bQapTFHk KtURPicFS Em NkngnY(,2,0.0625,0.4,0.0,0.0,0.9375
+3,Sharp GT (upper bound),timesR_0016,QxeEQPE mX LkBHmrzbbX ZsrKfgH hJ,XeEOPE IL LkBHmrzbbX ZsrKfgH hJ,5,0.15625,0.4,0.0,0.0,0.84375
+3,Sharp GT (upper bound),timesR_0079,kycSCDNtpR MApjnKKBBZ nxvaGmiAP,kycSCDNtpR MApjnKKBBZ IL aGmiAP,3,0.0967741935483871,0.6666666666666666,0.0,0.0,0.9032258064516129
+3,Sharp GT (upper bound),timesR_0074,vjQuzsiGEy gptBvefhHL exvzyLfQhr,Vj 0 uzSi GEy gptBvefhHL ZyLfQhr,10,0.3125,1.6666666666666667,0.0,0.0,0.6875
+3,Sharp GT (upper bound),timesR_0011,CucTMWqhZp nZmATCdmdz TDgHZhTsJi,UcTMT qhZp nZmATCdmdz TDgHZhTsJi,4,0.125,0.6666666666666666,0.0,0.0,0.875
+3,Sharp GT (upper bound),timesR_0056,DrcGMXzkzU nVhHEvXtfv PPxfdA uMN,DrcGMXzkzU nVhHEvXtfv PPxfdA UMN,1,0.03125,0.25,0.0,0.0,0.96875
+3,Sharp GT (upper bound),timesR_0057,dsLVWaj aX BrudBSnffE MYgPPsceAM,dsLI aj a BrudBSnffE MYgPPsceAM,3,0.09375,0.75,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0073,Wmg KdCdeX JRCRnEtFmM iLCv tWST,mg KdCde JRCRnEtFmM iL t ST,5,0.16129032258064516,1.0,0.0,0.0,0.8387096774193549
+3,Sharp GT (upper bound),timesR_0046,TsMZbknmAR QLSMudAdRu haNMCWW hy,TsMZbknmAR OLSMudAdRu haNMC hy,3,0.09375,0.5,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0049,BNsFUdjBjd LHFGzMYAQy u fURpf Pd,BNsFUdjBjd LHFGzMYAC U fURpf Pd,3,0.09375,0.4,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0093,ttxBnMkvdF jmmiSLExmq KnCUwWTLfy,ttxBnMkvdF jmmSLExmq KnCU TLfy,3,0.09375,1.0,0.0,0.0,0.90625
+3,Sharp GT (upper bound),timesR_0077,Ls emYtnnf wYpNWQKdPi TUPMaarrMq,Ls emYtnnf YpN OKdPi TUPMaarr Mq,4,0.125,1.0,0.0,0.0,0.875
+3,Sharp GT (upper bound),timesR_0038,fptFBdPvct mkjYTHpuvH bDivfCxmeU,fptFBdPvct mkjYTHpUe H bDivfCxmeU,3,0.09375,0.6666666666666666,0.0,0.0,0.9090909090909091
+3,Sharp GT (upper bound),verdanaRef_0058,gTawbxmh z ZRAfrhdpNM FLB vLZVpz,gTawbxmh 2 ZRAfrhdpNM FLB V LZVpz,3,0.09375,0.6,0.0,0.0,0.9090909090909091
+3,Sharp GT (upper bound),verdanaRef_0027,BwYFXsGZs LvRiHVsVAj SGGFtxXuzT,BwYFXsGZs LvRiHVsVAj SGGFtxXuzt,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+3,Sharp GT (upper bound),verdanaRef_0006,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),verdanaRef_0014,Qnbnqwj vc MmPhZKRMHE AUvqYTBpia,Qnbnqwj VC MmPhZKRMHE AUvqYTBpia,2,0.0625,0.25,0.0,0.0,0.9375
+3,Sharp GT (upper bound),verdanaRef_0062,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,pRgfidzesh JRQGHSRKh GtqATWpU,4,0.125,0.75,0.0,0.0,0.875
+3,Sharp GT (upper bound),verdanaRef_0025,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),verdanaRef_0023,qDqbdmFQgP CxekabKujA RYY dqusta,qDqbdmFQgP CxekabKujA RYL dqusta,1,0.03125,0.25,0.0,0.0,0.96875
+3,Sharp GT (upper bound),verdanaRef_0039,yYBvvsqiBs EmAQAZwBxG FBBSHmgqsd,YBv 'vsqiBs EmAQAZwBxG FBBSHmgqsd,3,0.09375,0.6666666666666666,0.0,0.0,0.9090909090909091
+3,Sharp GT (upper bound),verdanaRef_0026,gLuxpgPRUj TzfUxvaraT KDNsQjKfPi,gLuxpgPRUj TzfUxvarat KDNsQjKfPi,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Sharp GT (upper bound),verdanaRef_0053,Xayp ZedHP nddrGQBsNu ssNryGqVSh,Xayp ZedHP nddrGQBsNu sSNryGqVSh,1,0.03125,0.25,0.0,0.0,0.96875
+3,Sharp GT (upper bound),verdanaRef_0086,YTxyeKbKct vTJLNCbVpb mc qeiEgnM,O yeKbKct TJLNCbVpb mc qeiEgnM,4,0.125,0.75,0.0,0.0,0.875
+3,Sharp GT (upper bound),verdanaRef_0068,ECyBVFctNc ifRBGvKDdR xJrf UduQH,ECyBVFctNc ifRBGvKDdR xJrf UduQH,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),verdanaRef_0080,pUBkgSmpKk AVzXbJiWyG vwKBCUfLsC,pUBkgSmpKk VzXbJiWyG WKBCUfLsC,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+3,Sharp GT (upper bound),verdanaRef_0045,eUNTbqhZYy CnHYhXTUTY zEAeAvnKJb,eUNTbqhzy CnHYhXTUTY ZEAeAvnKJb,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+3,Sharp GT (upper bound),verdanaRef_0043,WvbEgYFhzK feBmspnsJb suntLqhEdF,vbEgYFhzk feBmspnsJb suntLqhEdF,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+3,Sharp GT (upper bound),verdanaRef_0005,RRUPbvhxuv HeamWzQbdC LLBiwGqCUW,RRUPbvhxuv HeamWzQbdC LLBiwGqCUM,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Sharp GT (upper bound),verdanaRef_0070,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),verdanaRef_0078,tHdgZM i s VgmjWwDzXx dMzGtftzTU,tHdgZM i s VgmjWwDz dMzGtftzTU,2,0.0625,0.2,0.0,0.0,0.9375
+3,Sharp GT (upper bound),verdanaRef_0031,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,0,0.0,0.0,1.0,0.0,1.0
+3,Sharp GT (upper bound),verdanaRef_0003,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,0,0.0,0.0,1.0,0.0,1.0
+3,Blurred input,timesR_0043,UsTCcQbCxf dRGLKWgnjk mvzFeGUuAe,UsTCcOha) dRGLKWenjk M]cGUuc,13,0.40625,1.0,0.0,0.0,0.59375
+3,Blurred input,timesR_0042,ufwVWq NwU cQjBpAUwbn mkjhHVAgEe,ufw WWq Nw U cOjBpAUwbn mkjhVAeE,7,0.21875,1.5,0.0,0.0,0.78125
+3,Blurred input,timesR_0092,pKDHmxRZDz MNdiuybCst L ApikFDQm,pKDHmRZD MNdibCst Apik DOm,8,0.25,1.0,0.0,0.0,0.75
+3,Blurred input,timesR_0010,jkzfPWdeuk cgpTZwrWvv JfUphVzpty,iklWdcuk cep)ZwWiv JiUphWpty,12,0.375,1.0,0.0,0.0,0.625
+3,Blurred input,timesR_0066,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,pXjbKFmNd pMMcXUqldi LNalkdsRY,8,0.25,1.0,0.0,0.0,0.75
+3,Blurred input,timesR_0051,jkn gqNhAq MNiWdsVkPh TTjmWxgJiD,ju eqNhIq MNWdsVkPh TTMWuJiD),10,0.3125,1.0,0.0,0.0,0.6875
+3,Blurred input,timesR_0002,xkKXmdSLHX GbmPUJcGtV y Vmdp Jci,UKYdSHY GbmPUJcGtV Vmndp Jci,9,0.28125,0.6,0.0,0.0,0.71875
+3,Blurred input,timesR_0071,z bQapTFHk wKtURPicFS Em NkngnYQ,bOapMk K KUkFicl $ Lm NkenY 0,19,0.59375,1.4,0.0,0.0,0.40625
+3,Blurred input,timesR_0016,QxeEQPE mX LkBHmrzbbX ZsrKfgH hJ,OxLOP M LBHmrbbX ISKH Iu,16,0.5,1.0,0.0,0.0,0.5
+3,Blurred input,timesR_0079,kycSCDNtpR MApjnKKBBZ nxvaGmiAP,NcScDMpk M ApjnKKBBZ MAGAP,13,0.41935483870967744,1.3333333333333333,0.0,0.0,0.5806451612903225
+3,Blurred input,timesR_0074,vjQuzsiGEy gptBvefhHL exvzyLfQhr,VJQWsGE PptBvcthH cuOlr,19,0.59375,1.0,0.0,0.0,0.40625
+3,Blurred input,timesR_0011,CucTMWqhZp nZmATCdmdz TDgHZhTsJi,Cuc [MWqh/p M MATCdmdz TDMhsi,11,0.34375,1.6666666666666667,0.0,0.0,0.65625
+3,Blurred input,timesR_0056,DrcGMXzkzU nVhHEvXtfv PPxfdA uMN,"DrcGMkU ""VhHEXtv FFud| UMN",12,0.375,1.0,0.0,0.0,0.625
+3,Blurred input,timesR_0057,dsLVWaj aX BrudBSnffE MYgPPsceAM,dsl !W 1A BndBSu MY PEsccAM,16,0.5,1.5,0.0,0.0,0.5
+3,Blurred input,timesR_0073,Wmg KdCdeX JRCRnEtFmM iLCv tWST,WWn Kdcdc X JRCKultFmM U (( (WS/,14,0.45161290322580644,1.4,0.0,0.0,0.5625
+3,Blurred input,timesR_0046,TsMZbknmAR QLSMudAdRu haNMCWW hy,KMbAk Ol SMudAdKu I NMcWW Ky,15,0.46875,1.5,0.0,0.0,0.53125
+3,Blurred input,timesR_0049,BNsFUdjBjd LHFGzMYAQy u fURpf Pd,BNs/ UdjBid LFGMYAQY U IURpl Pd,9,0.28125,1.0,0.0,0.0,0.71875
+3,Blurred input,timesR_0093,ttxBnMkvdF jmmiSLExmq KnCUwWTLfy,ABnMldl JMSLEq KncU WTUY,17,0.53125,1.3333333333333333,0.0,0.0,0.46875
+3,Blurred input,timesR_0077,Ls emYtnnf wYpNWQKdPi TUPMaarrMq,LS cm)un #YpNWOKdli [UPMaanMq,12,0.375,1.0,0.0,0.0,0.625
+3,Blurred input,timesR_0038,fptFBdPvct mkjYTHpuvH bDivfCxmeU,IptF Bdlvct mky) Hpuh bDicucU,14,0.4375,1.6666666666666667,0.0,0.0,0.5625
+3,Blurred input,verdanaRef_0058,gTawbxmh z ZRAfrhdpNM FLB vLZVpz,gTawbxmh 2 ZRAfrhdpNM FLB VLZVpz,2,0.0625,0.4,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0027,BwYFXsGZs LvRiHVsVAj SGGFtxXuzT,BwYFXsGZs LvRiHVsVAJ SGGF Xuzt,4,0.12903225806451613,1.0,0.0,0.0,0.8709677419354839
+3,Blurred input,verdanaRef_0006,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,TEWPPKsgzt JbfYAFZCiY BLWJUSEPCD,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+3,Blurred input,verdanaRef_0014,Qnbnqwj vc MmPhZKRMHE AUvqYTBpia,Qnbnawj VC MmPhZKRMHE AUvaYTBpia,4,0.125,0.75,0.0,0.0,0.875
+3,Blurred input,verdanaRef_0062,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,pRgfiazeSh JRQGHSRKhV GtqATWpU Y,1,0.03125,0.25,0.0,0.0,0.96875
+3,Blurred input,verdanaRef_0025,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,ABKTTZYnTB NhxEnzLCyN ubhrNxRFWN,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Blurred input,verdanaRef_0023,qDqbdmFQgP CxekabKujA RYY dqusta,aDabamFQgP CxekabKujA RYY dqusta,3,0.09375,0.25,0.0,0.0,0.90625
+3,Blurred input,verdanaRef_0039,yYBvvsqiBs EmAQAZwBxG FBBSHmgqsd,YYBvvsqiBs EmAQAZwBxG FBBSHmgasd,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0026,gLuxpgPRUj TzfUxvaraT KDNsQjKfPi,gLuxpgPRUJ TzfUxvarat KDNsQjKfPi,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0053,Xayp ZedHP nddrGQBsNu ssNryGqVSh,Xayp ZedhP nddrGQBsNu ssNryGqvSh,2,0.0625,0.5,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0086,YTxyeKbKct vTJLNCbVpb mc qeiEgnM,YTxyekbKct VTJLNCbVpb mc qeiEgnM,2,0.0625,0.5,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0068,ECyBVFctNc ifRBGvKDdR xJrf UduQH,ECyBVFctNc IfRBGvKDdR XJr Uduoh,5,0.15625,0.75,0.0,0.0,0.84375
+3,Blurred input,verdanaRef_0080,pUBkgSmpKk AVzXbJiWyG vwKBCUfLsC,pUBkgSmpkk AVzXbJiWyG VWKBCUfLSC,4,0.125,0.6666666666666666,0.0,0.0,0.875
+3,Blurred input,verdanaRef_0045,eUNTbqhZYy CnHYhXTUTY zEAeAvnKJb,eUNTbahZyy CnHYhXTUTY zEAeavnkJb,4,0.125,0.6666666666666666,0.0,0.0,0.875
+3,Blurred input,verdanaRef_0043,WvbEgYFhzK feBmspnsJb suntLqhEdF,WvbEgYFhzk feBmspnsjb suntLqhEdF,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Blurred input,verdanaRef_0005,RRUPbvhxuv HeamWzQbdC LLBiwGqCUW,RRUPbvhxuv HeamWzObac LLBiwGGCUw,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+3,Blurred input,verdanaRef_0070,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,QKSiTierp 2XCrHNpF EjGDYhWTzR,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+3,Blurred input,verdanaRef_0078,tHdgZM i s VgmjWwDzXx dMzGtftzTU,[HdgzM | S VgmjwwDzXx dMzGtitzTU,6,0.1875,1.0,0.0,0.0,0.8125
+3,Blurred input,verdanaRef_0031,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,FuRLT Jbcp dtPTgDKPpk NibeKLKsjr,1,0.03125,0.25,0.0,0.0,0.96875
+3,Blurred input,verdanaRef_0003,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,0,0.0,0.0,1.0,0.0,1.0
+3,Pretrained Restormer,timesR_0043,UsTCcQbCxf dRGLKWgnjk mvzFeGUuAe,UsT CcObe dRGLKWenjk M[cGUuc,13,0.40625,1.3333333333333333,0.0,0.0,0.59375
+3,Pretrained Restormer,timesR_0042,ufwVWq NwU cQjBpAUwbn mkjhHVAgEe,utu WWq Nv U cOjBpAUwbn mkjhHVAelc,10,0.3125,1.5,0.0,0.0,0.7058823529411764
+3,Pretrained Restormer,timesR_0092,pKDHmxRZDz MNdiuybCst L ApikFDQm,pKDHmxRZD MNdubCst ApikF DQm,6,0.1875,1.0,0.0,0.0,0.8125
+3,Pretrained Restormer,timesR_0010,jkzfPWdeuk cgpTZwrWvv JfUphVzpty,ikIPWdcuk cep [ZwrWwv JiUphVpty,10,0.3125,1.3333333333333333,0.0,0.0,0.6875
+3,Pretrained Restormer,timesR_0066,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,pXjbKWFmNd pMcXUqPdl UVGkdsRY,8,0.25,1.0,0.0,0.0,0.75
+3,Pretrained Restormer,timesR_0051,jkn gqNhAq MNiWdsVkPh TTjmWxgJiD,jk #qNhAq MNAWdsVPh TFTu W 1 Jil),12,0.375,1.75,0.0,0.0,0.6363636363636364
+3,Pretrained Restormer,timesR_0002,xkKXmdSLHX GbmPUJcGtV y Vmdp Jci,UKYdShHX GbmPUJcGtV Vmdp Jci,7,0.21875,0.4,0.0,0.0,0.78125
+3,Pretrained Restormer,timesR_0071,z bQapTFHk wKtURPicFS Em NkngnYQ,bOapk #KURPicl $ Han NknenYo,16,0.5,1.0,0.0,0.0,0.5
+3,Pretrained Restormer,timesR_0016,QxeEQPE mX LkBHmrzbbX ZsrKfgH hJ,OvFOP MLA LBHmcbbx [sKcH Iu,19,0.59375,1.0,0.0,0.0,0.40625
+3,Pretrained Restormer,timesR_0079,kycSCDNtpR MApjnKKBBZ nxvaGmiAP,KcScDMpR MApJAKKBBZ IWAGAP,13,0.41935483870967744,1.0,0.0,0.0,0.5806451612903225
+3,Pretrained Restormer,timesR_0074,vjQuzsiGEy gptBvefhHL exvzyLfQhr,VQwsiGlV Ppt BvcthH[ c Olr,20,0.625,1.6666666666666667,0.0,0.0,0.375
+3,Pretrained Restormer,timesR_0011,CucTMWqhZp nZmATCdmdz TDgHZhTsJi,Cuc TMWql/p MMA TCdmdz TDMZAsi,12,0.375,1.6666666666666667,0.0,0.0,0.625
+3,Pretrained Restormer,timesR_0056,DrcGMXzkzU nVhHEvXtfv PPxfdA uMN,DrcGMNkU nMEXtv PFud| uMN,12,0.375,0.75,0.0,0.0,0.625
+3,Pretrained Restormer,timesR_0057,dsLVWaj aX BrudBSnffE MYgPPsceAM,dsl !Waj 4 BndBSuMM MY PPsccAM,13,0.40625,1.5,0.0,0.0,0.59375
+3,Pretrained Restormer,timesR_0073,Wmg KdCdeX JRCRnEtFmM iLCv tWST,Wi? KaedcX JRCKultFm H (1 (WS /,16,0.5161290322580645,1.4,0.0,0.0,0.4838709677419355
+3,Pretrained Restormer,timesR_0046,TsMZbknmAR QLSMudAdRu haNMCWW hy,IsMZbkAR Ol SMudAdKu IuNMc WW hy,11,0.34375,1.25,0.0,0.0,0.65625
+3,Pretrained Restormer,timesR_0049,BNsFUdjBjd LHFGzMYAQy u fURpf Pd,BNsT UdjBid LI GMYAQY U IURpl Pd,10,0.3125,1.2,0.0,0.0,0.6875
+3,Pretrained Restormer,timesR_0093,ttxBnMkvdF jmmiSLExmq KnCUwWTLfy,IBnMkvdl JISLEnq KncU WTLV,14,0.4375,1.3333333333333333,0.0,0.0,0.5625
+3,Pretrained Restormer,timesR_0077,Ls emYtnnf wYpNWQKdPi TUPMaarrMq,I6 cm)t #YpNWOKal'i [UPMaanMq,15,0.46875,1.0,0.0,0.0,0.53125
+3,Pretrained Restormer,timesR_0038,fptFBdPvct mkjYTHpuvH bDivfCxmeU,Ipt[ Bdlvct mkj) [puw bDiva ucU,14,0.4375,2.0,0.0,0.0,0.5625
+3,Pretrained Restormer,verdanaRef_0058,gTawbxmh z ZRAfrhdpNM FLB vLZVpz,gTawbxmh 2 ZRAfrhapNM FLB VLZVpz,3,0.09375,0.6,0.0,0.0,0.90625
+3,Pretrained Restormer,verdanaRef_0027,BwYFXsGZs LvRiHVsVAj SGGFtxXuzT,BwyFXsGZs LvRIHVsVAJ SGGF Xuzt,6,0.1935483870967742,1.3333333333333333,0.0,0.0,0.8064516129032258
+3,Pretrained Restormer,verdanaRef_0006,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,TEWPPKsgzt JbfYAFZCiy BLWJUSEPCD,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Pretrained Restormer,verdanaRef_0014,Qnbnqwj vc MmPhZKRMHE AUvqYTBpia,Qnbnaw) VC MmPnZKRMHE AUvqYTBpia,5,0.15625,0.75,0.0,0.0,0.84375
+3,Pretrained Restormer,verdanaRef_0062,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,0,0.0,0.0,1.0,0.0,1.0
+3,Pretrained Restormer,verdanaRef_0025,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,ABKTTZYnTB NnxEnzLCyN ubhrNxRFWN,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Pretrained Restormer,verdanaRef_0023,qDqbdmFQgP CxekabKujA RYY dqusta,aDabamFQgP CxekabKujA RYY dqusta,3,0.09375,0.25,0.0,0.0,0.90625
+3,Pretrained Restormer,verdanaRef_0039,yYBvvsqiBs EmAQAZwBxG FBBSHmgqsd,YYBvvsqiBs EmAQAZwBxG FBBSHmgasd,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Pretrained Restormer,verdanaRef_0026,gLuxpgPRUj TzfUxvaraT KDNsQjKfPi,gLuxpgPRUJ TzfUxvarat KDNsQjKfPi,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Pretrained Restormer,verdanaRef_0053,Xayp ZedHP nddrGQBsNu ssNryGqVSh,Xayp ZedhP nddrGQBsNu ssNryGqvSh,2,0.0625,0.5,0.0,0.0,0.9375
+3,Pretrained Restormer,verdanaRef_0086,YTxyeKbKct vTJLNCbVpb mc qeiEgnM,YTxyeKbKct VTJLNCbVpb mc qeiEgnM,1,0.03125,0.25,0.0,0.0,0.96875
+3,Pretrained Restormer,verdanaRef_0068,ECyBVFctNc ifRBGvKDdR xJrf UduQH,ECyBVFctNc IfRBGvKDdR xJrf Uduoh,3,0.09375,0.5,0.0,0.0,0.90625
+3,Pretrained Restormer,verdanaRef_0080,pUBkgSmpKk AVzXbJiWyG vwKBCUfLsC,PUBkgSmpkk AVzXbJiWyG VWKBCUfLSC,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+3,Pretrained Restormer,verdanaRef_0045,eUNTbqhZYy CnHYhXTUTY zEAeAvnKJb,eUNTbahZYy CnHyhXTUTY zEAeavnkJD,5,0.15625,1.0,0.0,0.0,0.84375
+3,Pretrained Restormer,verdanaRef_0043,WvbEgYFhzK feBmspnsJb suntLqhEdF,WvbEgYFhzk feBmspnsJb suntLanEdF,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+3,Pretrained Restormer,verdanaRef_0005,RRUPbvhxuv HeamWzQbdC LLBiwGqCUW,RRUPbvhxuv HeamWzObac LLBiWGqCUW,4,0.125,0.6666666666666666,0.0,0.0,0.875
+3,Pretrained Restormer,verdanaRef_0070,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,QKSIVTierp ZXCrHNpF EJGDYhWTzR,6,0.1875,1.0,0.0,0.0,0.8125
+3,Pretrained Restormer,verdanaRef_0078,tHdgZM i s VgmjWwDzXx dMzGtftzTU,[HdgZM | 5 VgmjWwDzXx dMzGiftzTu,5,0.15625,0.8,0.0,0.0,0.84375
+3,Pretrained Restormer,verdanaRef_0031,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,FuRLT Jbcp dtPTgDKPpk NibeKLKsjr,1,0.03125,0.25,0.0,0.0,0.96875
+3,Pretrained Restormer,verdanaRef_0003,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,NGwRxiqVGA HbmGpxrtFm axzPkSmTNJ,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Fine-tuned Restormer,timesR_0043,UsTCcQbCxf dRGLKWgnjk mvzFeGUuAe,UsTCcQbCxf dRGLKWgnjk mvzFeGUuAe,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0042,ufwVWq NwU cQjBpAUwbn mkjhHVAgEe,ufw Wq NwUU cQjBpAUwbn mkjhHVAgEe,2,0.0625,0.75,0.0,0.0,0.9393939393939394
+3,Fine-tuned Restormer,timesR_0092,pKDHmxRZDz MNdiuybCst L ApikFDQm,pKDHmxRZDZ MNdiuybCst L ApikFDQm,1,0.03125,0.25,0.0,0.0,0.96875
+3,Fine-tuned Restormer,timesR_0010,jkzfPWdeuk cgpTZwrWvv JfUphVzpty,jkzfPWdeuk cgpTZwrWvv JfUphVzpty,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0066,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,pXjbKVFmNd pTMeXUqPdf LzXaGkdsRY,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0051,jkn gqNhAq MNiWdsVkPh TTjmWxgJiD,jkn gqNhAq MNiWdsVkPh TTjmWxgJiD,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0002,xkKXmdSLHX GbmPUJcGtV y Vmdp Jci,xkKXmdSLHX GbmPUJcGtV y Vmdp Jci,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0071,z bQapTFHk wKtURPicFS Em NkngnYQ,Z bQapTFHk wKtURPicFS Em NkngnYQ,1,0.03125,0.2,0.0,0.0,0.96875
+3,Fine-tuned Restormer,timesR_0016,QxeEQPE mX LkBHmrzbbX ZsrKfgH hJ,QxeEQPE mX LkBHmrzbbX ZsrKfgH hJ,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0079,kycSCDNtpR MApjnKKBBZ nxvaGmiAP,kycSCDNtpR MApjnKKBBZ nxvaGmiAP,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0074,vjQuzsiGEy gptBvefhHL exvzyLfQhr,vjQuzsiGEy gptBvefhHL exvzyLfQhr,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0011,CucTMWqhZp nZmATCdmdz TDgHZhTsJi,CucTMWqhZp nZmATCdmdz TDgHZhTsJi,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0056,DrcGMXzkzU nVhHEvXtfv PPxfdA uMN,DrcGMXzkzU nVhHEvXtfv PPxfdA UMN,1,0.03125,0.25,0.0,0.0,0.96875
+3,Fine-tuned Restormer,timesR_0057,dsLVWaj aX BrudBSnffE MYgPPsceAM,dsLWWaj aX BrudBSnffE MYgPPsceAM,1,0.03125,0.25,0.0,0.0,0.96875
+3,Fine-tuned Restormer,timesR_0073,Wmg KdCdeX JRCRnEtFmM iLCv tWST,Wmg KdCdeX JRCRnEtFmM iLCv tWST,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0046,TsMZbknmAR QLSMudAdRu haNMCWW hy,TsMZbknmAR QLSMudAdRu haNMCWW hy,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0049,BNsFUdjBjd LHFGzMYAQy u fURpf Pd,BNsFUdjBjd LHFGzMYAQy u fURpf Pd,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0093,ttxBnMkvdF jmmiSLExmq KnCUwWTLfy,ttxBnMkvdF jmmiSLExmq KnCUwWTLfy,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0077,Ls emYtnnf wYpNWQKdPi TUPMaarrMq,Ls emYtnnf wYpNWQKdPi TUPMaarrMq,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,timesR_0038,fptFBdPvct mkjYTHpuvH bDivfCxmeU,fptFBdPvct mkjYTHpuvH bDivfCxmeU,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0058,gTawbxmh z ZRAfrhdpNM FLB vLZVpz,gTawbxmh 2 ZRAfrhdpNM FLB VLZVpz,2,0.0625,0.4,0.0,0.0,0.9375
+3,Fine-tuned Restormer,verdanaRef_0027,BwYFXsGZs LvRiHVsVAj SGGFtxXuzT,BwYFXsGZs LvRiHVSVAj SGGFtxXuzt,2,0.06451612903225806,0.6666666666666666,0.0,0.0,0.935483870967742
+3,Fine-tuned Restormer,verdanaRef_0006,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,TEWPPKsgzt jbfYAFZCiy BLWJUSEpCD,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0014,Qnbnqwj vc MmPhZKRMHE AUvqYTBpia,Qnbnqwj VC MmPhZKRMHE AUvqYTBpia,2,0.0625,0.25,0.0,0.0,0.9375
+3,Fine-tuned Restormer,verdanaRef_0062,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,pRgfidzeSh JRQGHSRKhV GtqATWpU Y,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0025,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,ABKfTZYnTB NhxEnzLCyN ubhrNxRFWN,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0023,qDqbdmFQgP CxekabKujA RYY dqusta,qDqbdmFQgP CxekabKujA RYY dqusta,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0039,yYBvvsqiBs EmAQAZwBxG FBBSHmgqsd,yYBvvsqiBs EmAQAZwBxG FBBSHmgqsd,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0026,gLuxpgPRUj TzfUxvaraT KDNsQjKfPi,gLuxpgPRUj TzfUxvarat KDNsQjKfPi,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Fine-tuned Restormer,verdanaRef_0053,Xayp ZedHP nddrGQBsNu ssNryGqVSh,Xayp ZedHP nddrGQBsNu ssNryGqVSh,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0086,YTxyeKbKct vTJLNCbVpb mc qeiEgnM,YTxyeKbKct VTJLNCbVpb mc qeiEgnM,1,0.03125,0.25,0.0,0.0,0.96875
+3,Fine-tuned Restormer,verdanaRef_0068,ECyBVFctNc ifRBGvKDdR xJrf UduQH,ECyBVFctNc ifRBGvKDdR xJrf UduQH,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0080,pUBkgSmpKk AVzXbJiWyG vwKBCUfLsC,pUBkgSmpKk AVzXbJiWyG VWKBCUfLsC,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+3,Fine-tuned Restormer,verdanaRef_0045,eUNTbqhZYy CnHYhXTUTY zEAeAvnKJb,eUNTbqhzYy CnHYhXTUTY ZEAeAvnKJb,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+3,Fine-tuned Restormer,verdanaRef_0043,WvbEgYFhzK feBmspnsJb suntLqhEdF,WvbEgYFhzk feBmspnsJb suntLqhEdF,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Fine-tuned Restormer,verdanaRef_0005,RRUPbvhxuv HeamWzQbdC LLBiwGqCUW,RRUPbvhxuv HeamWzQbdc LLBiwGqCUW,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+3,Fine-tuned Restormer,verdanaRef_0070,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,QKSiVTierp zxCrrjHNpF EjGDYhWTzR,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0078,tHdgZM i s VgmjWwDzXx dMzGtftzTU,tHdgzM i S VgmjWwDzXx dMzGtftzTU,2,0.0625,0.4,0.0,0.0,0.9375
+3,Fine-tuned Restormer,verdanaRef_0031,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,FuRLT jbcp dtPTgDKPpk NibeKLKsjr,0,0.0,0.0,1.0,0.0,1.0
+3,Fine-tuned Restormer,verdanaRef_0003,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,NGwRxiqVGA HbmGpxrtFm axzPkSmTNj,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),timesR_0043,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),timesR_0042,h hrDATuPU EefCSehrmC gwJapWARMs,h hDATuPU EefCSehrmC GW Jap ARMs,5,0.15625,1.0,0.0,0.0,0.84375
+4,Sharp GT (upper bound),timesR_0092,JkymHeGgEF yHHEWfPJyG UxMdqEGFQt,Jky mmHeGgEF YHHEE fPJyG UxMdqEGFQt,5,0.15625,1.3333333333333333,0.0,0.0,0.8571428571428572
+4,Sharp GT (upper bound),timesR_0010,exCinaR RV nYrfSLNhLV RHzSAjfNUF,exi inaR RV nYrfSLNHLV RHZSAjfNUF,4,0.125,1.0,0.0,0.0,0.8787878787878788
+4,Sharp GT (upper bound),timesR_0066,RxK DdSBVJ wewieYEJUv hLnWvR ruH,RxK DdSBVJ wieYEJUv hLn VR ruH,4,0.125,0.6,0.0,0.0,0.875
+4,Sharp GT (upper bound),timesR_0051,ShdPbsWJWR ThQQZfMAZW YPVTewwDi,ShdPbsWJWR ThOOZfMAZ YPVTev Di,5,0.16129032258064516,1.0,0.0,0.0,0.8387096774193549
+4,Sharp GT (upper bound),timesR_0002,LaXnekiXyR LyqDwQvifR ZqtNhd Erf,La neki YR LyqD vifR ZqtNhd Erf,5,0.15625,1.25,0.0,0.0,0.84375
+4,Sharp GT (upper bound),timesR_0071,suErURvFgt vAnzrbBxSN dBjWXhtgmL,sUErURvFgt nzrbBxSN dBj XhtgmL,4,0.125,1.3333333333333333,0.0,0.0,0.875
+4,Sharp GT (upper bound),timesR_0016,uEcLTyQKKU GHVrDQQUrd q TFhsBGt,UEcLTyOKKU GHVDQQUrd q TFhsBGt,3,0.0967741935483871,0.5,0.0,0.0,0.9032258064516129
+4,Sharp GT (upper bound),timesR_0079,SKhVxnkeKd weQjxQqBnC Cs ugytRhu,SKh xnkeKd VC QjxQqBnC Cs ugytRhu,4,0.125,1.0,0.0,0.0,0.8787878787878788
+4,Sharp GT (upper bound),timesR_0074,r SbvsTCwP bKKWyZVMDM b fTKngGQA,r SbvsTCwP bKKE VZVMDM b fTKngGe,5,0.15625,0.6,0.0,0.0,0.84375
+4,Sharp GT (upper bound),timesR_0011,LMZJiRWRAF VJTPZwXwdT eRJKBPhTdU,LMZJiRWRAF VJTPZ wdT eRJKBPhTdU,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+4,Sharp GT (upper bound),timesR_0056,qHCnYGySTc cFfRzFUJmk GwjBaAGyJG,qHC n YGySTc FfRzFUUJmk U wjBaAGyJG,6,0.1875,2.0,0.0,0.0,0.8285714285714285
+4,Sharp GT (upper bound),timesR_0057,eDAjZJcgCZ WXTHVfPSTy Fi uajeqWR,eDAjZJcgCZ XTHVfPSTy Fi uajeq VR,3,0.09375,0.75,0.0,0.0,0.90625
+4,Sharp GT (upper bound),timesR_0073,ZbCBTTiqK JQsdHNJtei L w ndFsMm,ZbCBTTiqK JOsdHNJtei L ndFsMm,3,0.0967741935483871,0.4,0.0,0.0,0.9032258064516129
+4,Sharp GT (upper bound),timesR_0046,rkwufXFZxu kfWpSzmENQ HmhnCMJSsX,rk UXFZxu kfWpSzmENQ HmhnCMJSs_,4,0.125,1.0,0.0,0.0,0.875
+4,Sharp GT (upper bound),timesR_0049,eSx sVsXcZ GinVdTMtTm vDsiVhuyhG,eSx S VsXcZ GinVdTMtTm DsiVhuyhG,3,0.09375,0.75,0.0,0.0,0.90625
+4,Sharp GT (upper bound),timesR_0093,AhauQ c hp RCqvUwepHf XP EZbNQWK,Ahaue C hp RCqvUwepHf XP EZbNOWK,3,0.09375,0.5,0.0,0.0,0.90625
+4,Sharp GT (upper bound),timesR_0077,HGmbidQmis eTyLcnBaKN jwhjjxSZAD,HGmbidOmis eTyLcnBaKN whjjxSZAD,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+4,Sharp GT (upper bound),timesR_0038,tFbNxqwXLv JhNyVkrEtm nmUTGdnnaX,tFbNxq XLV JhNyVkrEtm nmUTGdnna,3,0.09375,1.0,0.0,0.0,0.90625
+4,Sharp GT (upper bound),verdanaRef_0058,LxBabvigYU RmEXvMhrnU yetnGPjxBX,LxBabvigYU RmEXvMhrnU yetnGPjxBX,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),verdanaRef_0027,sAPVQXAhQF KSBAwrQUXj dwkYftmMym,SAPVQXAhQF KSBAwrQUXj dwkYftmMym,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Sharp GT (upper bound),verdanaRef_0006,XgKEthVbVG gFHkNVLGgH PATRSPDFRC,XgKEthVbVG gFHkNVLGgH PATRSPDFRC,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),verdanaRef_0014,wNXKk vwv hBrmcqjjfF DttCEJy cV,WNXKk hBrmcqjjfF DttCEJ cl,7,0.22580645161290322,0.8,0.0,0.0,0.7741935483870968
+4,Sharp GT (upper bound),verdanaRef_0062,zXttxsmujP ghGPRdyCRk urxHwVjksx,zXttxsmujP ghGPRdyCRk urxHw Jjksx,2,0.0625,0.6666666666666666,0.0,0.0,0.9393939393939394
+4,Sharp GT (upper bound),verdanaRef_0025,KjCrEwjbxM TiSgYpdUDa VannwUUmYA,KjCrEwjbxM TiSgYpdUDa JannwUUmYA,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Sharp GT (upper bound),verdanaRef_0023,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),verdanaRef_0039,eAMWUJR um evEAykEjrW LBvbZLzjB,eAMWUJR um ev EAykEjrW LBvbZLZjB,2,0.06451612903225806,0.75,0.0,0.0,0.9375
+4,Sharp GT (upper bound),verdanaRef_0026,cSVutEUPid wmCgUBNsRk PhjFkukrHX,cSVutEUPid wmCgUBNsRk PhjFkukrHX,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),verdanaRef_0053,adrW tTLcp PHkEnYRnpt BuUcybAeXS,adrW tTLcp PHkEnYRnpt BuUcybAeXs,1,0.03125,0.25,0.0,0.0,0.96875
+4,Sharp GT (upper bound),verdanaRef_0086,pyYkuYRrE RRugiLgcPr AcJLGsGswK,pyYkuYRrE RRugiLgcPr AcJLGsGswk,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+4,Sharp GT (upper bound),verdanaRef_0068,RAsBNZkaRA xMSTsaprQQ F Jc qiRWR,RAsBNZkaRA MSTsaprQq F Jc qiRWR,2,0.0625,0.2,0.0,0.0,0.9375
+4,Sharp GT (upper bound),verdanaRef_0080,cfaRtfWcPG BEnrPchAgX tZLwdQqAWS,cfaRtfWcPG BEnrPchAg tZLwdQqAWS,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Sharp GT (upper bound),verdanaRef_0045,GWheEPMyYL UPKGMHWWuq aNKkX mLWa,GWheEPMyYL UPKGMHWWuq aNKkX mLWa,0,0.0,0.0,1.0,0.0,1.0
+4,Sharp GT (upper bound),verdanaRef_0043,wHXFFePYmK fUZNVJbRGH XVuafpMVcq,wHXFFePYmk fUZNVJbRGH luafpM Vcq,4,0.125,1.0,0.0,0.0,0.875
+4,Sharp GT (upper bound),verdanaRef_0005,zLuDEEjcpE xZmrMqUPUn gryaGhLGQD,ZLuDEEjcpE ZmrMqUPUn gryaGhLGQD,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+4,Sharp GT (upper bound),verdanaRef_0070,bLpEjKqinU WNjfdhVCxd Nn qRziuNJ,bLpEjKqinU NNjfdhVCxd Nn qRziuNJ,1,0.03125,0.25,0.0,0.0,0.96875
+4,Sharp GT (upper bound),verdanaRef_0078,BWKseXyzuF eMEQtuJcrt KNrwXWpqvD,BWKse YzUF eMEQtuJcrt KNrw Npq VD,7,0.21875,1.6666666666666667,0.0,0.0,0.7878787878787878
+4,Sharp GT (upper bound),verdanaRef_0031,GWpjyUxbWr znWBLXszTC XxhwQxbzRc,GWpjyUxbWr znWBLXsZTC xhwQxbzRc,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+4,Sharp GT (upper bound),verdanaRef_0003,nmZekSn T zSDWtnfXqr xkxAJGxaaU,nmzekSn T ZSDWtnf= Xqr xkxAJGxaaU,4,0.12903225806451613,0.75,0.0,0.0,0.8787878787878788
+4,Blurred input,timesR_0043,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,Mlt 3 F V Ma,27,0.84375,1.25,0.0,0.0,0.15625
+4,Blurred input,timesR_0042,h hrDATuPU EefCSehrmC gwJapWARMs,Mu Iull 0l Ium JpWAKM,23,0.71875,1.25,0.0,0.0,0.28125
+4,Blurred input,timesR_0092,JkymHeGgEF yHHEWfPJyG UxMdqEGFQt,mMc MMWJ Mdal 0,25,0.78125,1.3333333333333333,0.0,0.0,0.21875
+4,Blurred input,timesR_0010,exCinaR RV nYrfSLNhLV RHzSAjfNUF,Ki 4Y hl KM,27,0.84375,1.0,0.0,0.0,0.15625
+4,Blurred input,timesR_0066,RxK DdSBVJ wewieYEJUv hLnWvR ruH,WSW Ml Al K ml,28,0.875,1.0,0.0,0.0,0.125
+4,Blurred input,timesR_0051,ShdPbsWJWR ThQQZfMAZW YPVTewwDi,wl MK hoomm E 1,28,0.9032258064516129,1.6666666666666667,0.0,0.0,0.09677419354838712
+4,Blurred input,timesR_0002,LaXnekiXyR LyqDwQvifR ZqtNhd Erf,Mt K 4 0 IK,29,0.90625,1.25,0.0,0.0,0.09375
+4,Blurred input,timesR_0071,suErURvFgt vAnzrbBxSN dBjWXhtgmL,Kt mbin #n,28,0.875,1.0,0.0,0.0,0.125
+4,Blurred input,timesR_0016,uEcLTyQKKU GHVrDQQUrd q TFhsBGt,Ok I JOlU eno,28,0.9032258064516129,1.0,0.0,0.0,0.09677419354838712
+4,Blurred input,timesR_0079,SKhVxnkeKd weQjxQqBnC Cs ugytRhu,Iah M -On ln Kid,27,0.84375,1.25,0.0,0.0,0.15625
+4,Blurred input,timesR_0074,r SbvsTCwP bKKWyZVMDM b fTKngGQA,e Mv 0,29,0.90625,1.0,0.0,0.0,0.09375
+4,Blurred input,timesR_0011,LMZJiRWRAF VJTPZwXwdT eRJKBPhTdU,IJkWK J du KUKMFWal,25,0.78125,1.3333333333333333,0.0,0.0,0.21875
+4,Blurred input,timesR_0056,qHCnYGySTc cFfRzFUJmk GwjBaAGyJG,4( Fk} Jm K Jot,27,0.84375,1.6666666666666667,0.0,0.0,0.15625
+4,Blurred input,timesR_0057,eDAjZJcgCZ WXTHVfPSTy Fi uajeqWR,MV,31,0.96875,1.0,0.0,0.0,0.03125
+4,Blurred input,timesR_0073,ZbCBTTiqK JQsdHNJtei L w ndFsMm,K Jur 0 WMWc 0l tn,26,0.8387096774193549,1.2,0.0,0.0,0.16129032258064513
+4,Blurred input,timesR_0046,rkwufXFZxu kfWpSzmENQ HmhnCMJSsX,Kpym ~O Mmn MJY,25,0.78125,1.3333333333333333,0.0,0.0,0.21875
+4,Blurred input,timesR_0049,eSx sVsXcZ GinVdTMtTm vDsiVhuyhG,d Ain,29,0.90625,1.0,0.0,0.0,0.09375
+4,Blurred input,timesR_0093,AhauQ c hp RCqvUwepHf XP EZbNQWK,0 14 Kt ePM Tok,28,0.875,1.0,0.0,0.0,0.125
+4,Blurred input,timesR_0077,HGmbidQmis eTyLcnBaKN jwhjjxSZAD,MGmbdOme M,25,0.78125,1.0,0.0,0.0,0.21875
+4,Blurred input,timesR_0038,tFbNxqwXLv JhNyVkrEtm nmUTGdnnaX,J 4 Am,29,0.90625,1.0,0.0,0.0,0.09375
+4,Blurred input,verdanaRef_0058,LxBabvigYU RmEXvMhrnU yetnGPjxBX,(Babviq Rme ynmnu etngjib},18,0.5625,1.3333333333333333,0.0,0.0,0.4375
+4,Blurred input,verdanaRef_0027,sAPVQXAhQF KSBAwrQUXj dwkYftmMym,"Pvo nof 58 FQu 0, Ixvm",27,0.84375,2.0,0.0,0.0,0.15625
+4,Blurred input,verdanaRef_0006,XgKEthVbVG gFHkNVLGgH PATRSPDFRC,0 :nVovg 9F *NVLGgH 9; RSPDFRc,16,0.5,2.0,0.0,0.0,0.5
+4,Blurred input,verdanaRef_0014,wNXKk vwv hBrmcqjjfF DttCEJy cV,nBrmcqli Otcs C,23,0.7419354838709677,1.0,0.0,0.0,0.25806451612903225
+4,Blurred input,verdanaRef_0062,zXttxsmujP ghGPRdyCRk urxHwVjksx,Anujp Ghgprdycr V,24,0.75,1.0,0.0,0.0,0.25
+4,Blurred input,verdanaRef_0025,KjCrEwjbxM TiSgYpdUDa VannwUUmYA,"IC ""Jorh 60 Ddudj JannmUum",23,0.71875,1.6666666666666667,0.0,0.0,0.28125
+4,Blurred input,verdanaRef_0023,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,RGCPC BXQ pKCmPeu JC Xo,18,0.5625,1.25,0.0,0.0,0.4375
+4,Blurred input,verdanaRef_0039,eAMWUJR um evEAykEjrW LBvbZLzjB,"'UjR V L6)"" 3 621zjB",23,0.7419354838709677,1.25,0.0,0.0,0.25806451612903225
+4,Blurred input,verdanaRef_0026,cSVutEUPid wmCgUBNsRk PhjFkukrHX,(svueupid McqubrsR Phjfku 1,20,0.625,1.3333333333333333,0.0,0.0,0.375
+4,Blurred input,verdanaRef_0053,adrW tTLcp PHkEnYRnpt BuUcybAeXS,40r Lc? Eef (Rnp: BuUcyd '0,18,0.5625,1.5,0.0,0.0,0.4375
+4,Blurred input,verdanaRef_0086,pyYkuYRrE RRugiLgcPr AcJLGsGswK,0 Iu Irr Rruqilocpt Olgsgs,21,0.6774193548387096,1.6666666666666667,0.0,0.0,0.32258064516129037
+4,Blurred input,verdanaRef_0068,RAsBNZkaRA xMSTsaprQQ F Jc qiRWR,savZ 4R 'sTsaptoo Jc QiR Y 2,20,0.625,1.2,0.0,0.0,0.375
+4,Blurred input,verdanaRef_0080,cfaRtfWcPG BEnrPchAgX tZLwdQqAWS,"0 ""PG BenmPchaq} T dQo^ 45",22,0.6875,2.0,0.0,0.0,0.3125
+4,Blurred input,verdanaRef_0045,GWheEPMyYL UPKGMHWWuq aNKkX mLWa,Grneeph U? 1 GH wuo,26,0.8125,1.25,0.0,0.0,0.1875
+4,Blurred input,verdanaRef_0043,wHXFFePYmK fUZNVJbRGH XVuafpMVcq,67 {uzmvjdrgh Vuoxvcg,27,0.84375,1.0,0.0,0.0,0.15625
+4,Blurred input,verdanaRef_0005,zLuDEEjcpE xZmrMqUPUn gryaGhLGQD,Ludeejcpe ZmNqupun 9n #Gnlcod,20,0.625,1.3333333333333333,0.0,0.0,0.375
+4,Blurred input,verdanaRef_0070,bLpEjKqinU WNjfdhVCxd Nn qRziuNJ,Jepe Qinu Njanvcrd Grziun,21,0.65625,1.0,0.0,0.0,0.34375
+4,Blurred input,verdanaRef_0078,BWKseXyzuF eMEQtuJcrt KNrwXWpqvD,"3/ zur 3 EQtujcr ""pqvd",19,0.59375,1.6666666666666667,0.0,0.0,0.40625
+4,Blurred input,verdanaRef_0031,GWpjyUxbWr znWBLXszTC XxhwQxbzRc,GwojutDw Znwbl TC InOrozRc,22,0.6875,1.3333333333333333,0.0,0.0,0.3125
+4,Blurred input,verdanaRef_0003,nmZekSn T zSDWtnfXqr xkxAJGxaaU,n LC Sn Sov Ti 0 JGiau,22,0.7096774193548387,1.75,0.0,0.0,0.29032258064516125
+4,Pretrained Restormer,timesR_0043,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,mr~ IJpI Mrnc,27,0.84375,1.0,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0042,h hrDATuPU EefCSehrmC gwJapWARMs,# Mmll Ccl Mum LpWAKM,24,0.75,1.25,0.0,0.0,0.25
+4,Pretrained Restormer,timesR_0092,JkymHeGgEF yHHEWfPJyG UxMdqEGFQt,"mlce"" WFJi Mdql 6 0",24,0.75,1.6666666666666667,0.0,0.0,0.25
+4,Pretrained Restormer,timesR_0010,exCinaR RV nYrfSLNhLV RHzSAjfNUF,K KI IY Yhl KM,27,0.84375,1.25,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0066,RxK DdSBVJ wewieYEJUv hLnWvR ruH,K i UUSMJ Ml Jl K ml,25,0.78125,1.4,0.0,0.0,0.21875
+4,Pretrained Restormer,timesR_0051,ShdPbsWJWR ThQQZfMAZW YPVTewwDi,mull WMWK Joon ),27,0.8709677419354839,1.3333333333333333,0.0,0.0,0.12903225806451613
+4,Pretrained Restormer,timesR_0002,LaXnekiXyR LyqDwQvifR ZqtNhd Erf,#C t 4D OK Fen,28,0.875,1.25,0.0,0.0,0.125
+4,Pretrained Restormer,timesR_0071,suErURvFgt vAnzrbBxSN dBjWXhtgmL,Ktl mttB JB Jurm,27,0.84375,1.3333333333333333,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0016,uEcLTyQKKU GHVrDQQUrd q TFhsBGt,Okr GWDOOUud MnRG,24,0.7741935483870968,1.0,0.0,0.0,0.22580645161290325
+4,Pretrained Restormer,timesR_0079,SKhVxnkeKd weQjxQqBnC Cs ugytRhu,Yh Iek conellnt Ki,27,0.84375,1.0,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0074,r SbvsTCwP bKKWyZVMDM b fTKngGQA,blh MDT R '0,26,0.8125,1.0,0.0,0.0,0.1875
+4,Pretrained Restormer,timesR_0011,LMZJiRWRAF VJTPZwXwdT eRJKBPhTdU,7 JAki J 4 ckKMTdl,25,0.78125,1.6666666666666667,0.0,0.0,0.21875
+4,Pretrained Restormer,timesR_0056,qHCnYGySTc cFfRzFUJmk GwjBaAGyJG,allo i I MUm K W,28,0.875,2.0,0.0,0.0,0.125
+4,Pretrained Restormer,timesR_0057,eDAjZJcgCZ WXTHVfPSTy Fi uajeqWR,a WW 4K,29,0.90625,1.0,0.0,0.0,0.09375
+4,Pretrained Restormer,timesR_0073,ZbCBTTiqK JQsdHNJtei L w ndFsMm,MI Jun Jo MNJtc ml Mm,22,0.7096774193548387,1.2,0.0,0.0,0.29032258064516125
+4,Pretrained Restormer,timesR_0046,rkwufXFZxu kfWpSzmENQ HmhnCMJSsX,pym ~O Hmm WS,26,0.8125,1.3333333333333333,0.0,0.0,0.1875
+4,Pretrained Restormer,timesR_0049,eSx sVsXcZ GinVdTMtTm vDsiVhuyhG,Vmldl A D Merh(,27,0.84375,1.0,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0093,AhauQ c hp RCqvUwepHf XP EZbNQWK,a 14' K( cpM ~owi,27,0.84375,1.0,0.0,0.0,0.15625
+4,Pretrained Restormer,timesR_0077,HGmbidQmis eTyLcnBaKN jwhjjxSZAD,Mombjom uuh A,26,0.8125,1.0,0.0,0.0,0.1875
+4,Pretrained Restormer,timesR_0038,tFbNxqwXLv JhNyVkrEtm nmUTGdnnaX,Jht ' m Gdml,26,0.8125,1.3333333333333333,0.0,0.0,0.1875
+4,Pretrained Restormer,verdanaRef_0058,LxBabvigYU RmEXvMhrnU yetnGPjxBX,{Baorig YU Rme Ihinu etng?i 8,18,0.5625,2.0,0.0,0.0,0.4375
+4,Pretrained Restormer,verdanaRef_0027,sAPVQXAhQF KSBAwrQUXj dwkYftmMym,"Po nof SBNoux d"" TmNym",23,0.71875,1.6666666666666667,0.0,0.0,0.28125
+4,Pretrained Restormer,verdanaRef_0006,XgKEthVbVG gFHkNVLGgH PATRSPDFRC,9Ke nvdvg 9Fh 4lGgh Pa RGPOFRc,21,0.65625,2.0,0.0,0.0,0.34375
+4,Pretrained Restormer,verdanaRef_0014,wNXKk vwv hBrmcqjjfF DttCEJy cV,nBrmcql Dtce) F <,22,0.7096774193548387,1.0,0.0,0.0,0.29032258064516125
+4,Pretrained Restormer,verdanaRef_0062,zXttxsmujP ghGPRdyCRk urxHwVjksx,# Smujp 9nGpRdycrl VnX,22,0.6875,1.3333333333333333,0.0,0.0,0.3125
+4,Pretrained Restormer,verdanaRef_0025,KjCrEwjbxM TiSgYpdUDa VannwUUmYA,KCrE Joxh T S9ypduda Jann Uum 1,15,0.46875,2.3333333333333335,0.0,0.0,0.53125
+4,Pretrained Restormer,verdanaRef_0023,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,RGCPC BQ OKCmPEu 4* Jce Wo,17,0.53125,1.5,0.0,0.0,0.46875
+4,Pretrained Restormer,verdanaRef_0039,eAMWUJR um evEAykEjrW LBvbZLzjB,AHwujr Vn eva; Keja Bvoile,22,0.7096774193548387,1.25,0.0,0.0,0.29032258064516125
+4,Pretrained Restormer,verdanaRef_0026,cSVutEUPid wmCgUBNsRk PhjFkukrHX,"cSVuteupid ""Mcqub sR Phjfkukt",15,0.46875,1.3333333333333333,0.0,0.0,0.53125
+4,Pretrained Restormer,verdanaRef_0053,adrW tTLcp PHkEnYRnpt BuUcybAeXS,40n LCD Pr Kentrnpt Buucioa 6,21,0.65625,1.5,0.0,0.0,0.34375
+4,Pretrained Restormer,verdanaRef_0086,pyYkuYRrE RRugiLgcPr AcJLGsGswK,0 *utrre Rruqilocp( Cilgsgs,21,0.6774193548387096,1.3333333333333333,0.0,0.0,0.32258064516129037
+4,Pretrained Restormer,verdanaRef_0068,RAsBNZkaRA xMSTsaprQQ F Jc qiRWR,sBrZ*ar IHsTsad oo Jc QirwR,18,0.5625,0.8,0.0,0.0,0.4375
+4,Pretrained Restormer,verdanaRef_0080,cfaRtfWcPG BEnrPchAgX tZLwdQqAWS,C dRcPG BEniPchaq 7 Mdoc WS,17,0.53125,2.0,0.0,0.0,0.46875
+4,Pretrained Restormer,verdanaRef_0045,GWheEPMyYL UPKGMHWWuq aNKkX mLWa,Gneepx Upkghhwuq Ml,25,0.78125,1.0,0.0,0.0,0.21875
+4,Pretrained Restormer,verdanaRef_0043,wHXFFePYmK fUZNVJbRGH XVuafpMVcq,enym {uznvjbRgh VuatoxVca,21,0.65625,1.0,0.0,0.0,0.34375
+4,Pretrained Restormer,verdanaRef_0005,zLuDEEjcpE xZmrMqUPUn gryaGhLGQD,Ludeejcde Zm #qupun Gn #Gnlcod,21,0.65625,1.6666666666666667,0.0,0.0,0.34375
+4,Pretrained Restormer,verdanaRef_0070,bLpEjKqinU WNjfdhVCxd Nn qRziuNJ,Dljeioinu Mnjtanvcka Kn qrzium),21,0.65625,1.0,0.0,0.0,0.34375
+4,Pretrained Restormer,verdanaRef_0078,BWKseXyzuF eMEQtuJcrt KNrwXWpqvD,"37, ~u eMeoucn {Mn ""Povd",24,0.75,1.6666666666666667,0.0,0.0,0.25
+4,Pretrained Restormer,verdanaRef_0031,GWpjyUxbWr znWBLXszTC XxhwQxbzRc,Gepiurow zn*BL TC InxOrbzrc,19,0.59375,1.3333333333333333,0.0,0.0,0.40625
+4,Pretrained Restormer,verdanaRef_0003,nmZekSn T zSDWtnfXqr xkxAJGxaaU,"An € Sn Sdvntxar JG,aau",20,0.6451612903225806,1.25,0.0,0.0,0.3548387096774194
+4,Fine-tuned Restormer,timesR_0043,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,ptBsPrM PN gTYbNFmjpf VBuwtctnXu,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0042,h hrDATuPU EefCSehrmC gwJapWARMs,h IDATuPU EefCSehmmC gwJapWARMs,3,0.09375,0.5,0.0,0.0,0.90625
+4,Fine-tuned Restormer,timesR_0092,JkymHeGgEF yHHEWfPJyG UxMdqEGFQt,JkymHeGgEF YHHEWIPJyG UxMdqEGFQt,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+4,Fine-tuned Restormer,timesR_0010,exCinaR RV nYrfSLNhLV RHzSAjfNUF,exCinaR RV nYIfSLNHLV RHZSAjINUF,4,0.125,0.5,0.0,0.0,0.875
+4,Fine-tuned Restormer,timesR_0066,RxK DdSBVJ wewieYEJUv hLnWvR ruH,RxK DdSBVJ wewieYEJUv hLnWvR mH,2,0.0625,0.2,0.0,0.0,0.9375
+4,Fine-tuned Restormer,timesR_0051,ShdPbsWJWR ThQQZfMAZW YPVTewwDi,ShdPbsWJWR ThQQZMMAZW YPVTewwDi,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+4,Fine-tuned Restormer,timesR_0002,LaXnekiXyR LyqDwQvifR ZqtNhd Erf,LaXnekiXyR LyqDwQvifR ZqtNhd Erf,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0071,suErURvFgt vAnzrbBxSN dBjWXhtgmL,suErURvFgt vAnzrbBxSN dBjWXhtgmL,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0016,uEcLTyQKKU GHVrDQQUrd q TFhsBGt,uEcLTyQKKU GHVDQQUrd q TFhsBGt,1,0.03225806451612903,0.25,0.0,0.0,0.967741935483871
+4,Fine-tuned Restormer,timesR_0079,SKhVxnkeKd weQjxQqBnC Cs ugytRhu,SKhVxnkeKd weQjxQqBnC Cs ugytRhu,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0074,r SbvsTCwP bKKWyZVMDM b fTKngGQA,I SbvsTCwP bKKWyZVMDM b fTKngGQA,1,0.03125,0.2,0.0,0.0,0.96875
+4,Fine-tuned Restormer,timesR_0011,LMZJiRWRAF VJTPZwXwdT eRJKBPhTdU,LMZJiRWRAF VJTPZwXwdT eRJKBPhTdU,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0056,qHCnYGySTc cFfRzFUJmk GwjBaAGyJG,qHCnYGySTc cFIRzFUJmk GwjBaAGyJG,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,timesR_0057,eDAjZJcgCZ WXTHVfPSTy Fi uajeqWR,eDAjZJcgCZ WXTHVIPSTy Fi uajeqWR,1,0.03125,0.25,0.0,0.0,0.96875
+4,Fine-tuned Restormer,timesR_0073,ZbCBTTiqK JQsdHNJtei L w ndFsMm,ZbCBTTiqK JQsdHNJtei L w ndFsMm,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0046,rkwufXFZxu kfWpSzmENQ HmhnCMJSsX,rkwuXFZxu kWpSzmENQ HmhnCMJSsX,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+4,Fine-tuned Restormer,timesR_0049,eSx sVsXcZ GinVdTMtTm vDsiVhuyhG,eSx sVsXcZ GinVdTMtTm vDsiVhuyhG,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,timesR_0093,AhauQ c hp RCqvUwepHf XP EZbNQWK,AhauQ c hwp RCqvUwepHf XP EZbNQWK,1,0.03125,0.16666666666666666,0.0,0.0,0.9696969696969697
+4,Fine-tuned Restormer,timesR_0077,HGmbidQmis eTyLcnBaKN jwhjjxSZAD,HGmbidQmis eTylcnBaKN jwhjjxSZAD,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,timesR_0038,tFbNxqwXLv JhNyVkrEtm nmUTGdnnaX,tFbNxqwXLv JhNyVkrEtm nmUTGdnnaX,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0058,LxBabvigYU RmEXvMhrnU yetnGPjxBX,LxBabvigYU RmEXvMhrnU yetnGPjxBX,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0027,sAPVQXAhQF KSBAwrQUXj dwkYftmMym,SAPVQXAhQF KSBAwrQUXj dwkYftmMym,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0006,XgKEthVbVG gFHkNVLGgH PATRSPDFRC,XgKEthVbVG gFHKNVLGgH PATRSPDFRC,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0014,wNXKk vwv hBrmcqjjfF DttCEJy cV,WNXKk VWV hBrmcqjjfF DttCEJy cV,4,0.12903225806451613,0.4,0.0,0.0,0.8709677419354839
+4,Fine-tuned Restormer,verdanaRef_0062,zXttxsmujP ghGPRdyCRk urxHwVjksx,zXttxsmujP ghGPRdyCRk urxHwVjksx,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0025,KjCrEwjbxM TiSgYpdUDa VannwUUmYA,KjCrEwjbxM TiSgYpdUDa VannwUUmYA,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0023,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,RGCpC BXQj pkCmPEUXXe jcjzLyrWyp,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0039,eAMWUJR um evEAykEjrW LBvbZLzjB,eAMWUJR um evEAykEjrw LBvbZLZjB,2,0.06451612903225806,0.5,0.0,0.0,0.935483870967742
+4,Fine-tuned Restormer,verdanaRef_0026,cSVutEUPid wmCgUBNsRk PhjFkukrHX,cSVutEUPid wmCgUBNsRk PhjFkukrHX,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0053,adrW tTLcp PHkEnYRnpt BuUcybAeXS,adrW tTLcp PHkEnYRnpt BuUcybAeXs,1,0.03125,0.25,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0086,pyYkuYRrE RRugiLgcPr AcJLGsGswK,PyYkuYRrE RRugiLgcPr AcJLGsGswK,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+4,Fine-tuned Restormer,verdanaRef_0068,RAsBNZkaRA xMSTsaprQQ F Jc qiRWR,RAsBNZkaRA xMSTsaprQQ F Jc qiRWR,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0080,cfaRtfWcPG BEnrPchAgX tZLwdQqAWS,cfaRtfWcPG BEnrPchAgX tZLwdQqAWS,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0045,GWheEPMyYL UPKGMHWWuq aNKkX mLWa,GWheEPMYYL UPKGMHWWuq aNKkX mLWa,1,0.03125,0.25,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0043,wHXFFePYmK fUZNVJbRGH XVuafpMVcq,wHXFFePYmk fUZNVJbRGH XVuafpMVcq,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0005,zLuDEEjcpE xZmrMqUPUn gryaGhLGQD,ZLuDEEjcpE xZmrMqUPUn gryaGhLGQD,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+4,Fine-tuned Restormer,verdanaRef_0070,bLpEjKqinU WNjfdhVCxd Nn qRziuNJ,bLpEjKqinU WNjfdhVCxd Nn qRziuNJ,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0078,BWKseXyzuF eMEQtuJcrt KNrwXWpqvD,BWKseXyzuF eMEQtuJcrt KNrwXWpqvD,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0031,GWpjyUxbWr znWBLXszTC XxhwQxbzRc,GWpjyUxbWr znWBLXszTC XxhwQxbzRc,0,0.0,0.0,1.0,0.0,1.0
+4,Fine-tuned Restormer,verdanaRef_0003,nmZekSn T zSDWtnfXqr xkxAJGxaaU,nmZekSn T zSDWtnfXqr xkxAJGxaaU,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),timesR_0043,xfCnkQGCEL CMWAPEhpNh BmhjUAEcXJ,xfCnkQGCEL CM APEhpNh BmhjUAEcXJ,1,0.03125,0.6666666666666666,0.0,0.0,0.96875
+5,Sharp GT (upper bound),timesR_0042,HYbadPXyvM LEQbscxEnu uP dvHDeZA,HYbadPX WVM LEObscxEnu uP dvHDeZA,4,0.125,0.75,0.0,0.0,0.8787878787878788
+5,Sharp GT (upper bound),timesR_0092,hSeh SZNA BnNJQUNBRj sHqWrBUuHh,hSeh SZNA BnNJQUNBRj sHq rBUuHh,1,0.03225806451612903,0.5,0.0,0.0,0.967741935483871
+5,Sharp GT (upper bound),timesR_0010,nZFWmydYXT pLnGqrquhc duMtGZQiKi,nZF mVdYXT pLnGgrquhc duMtGzOiKi,5,0.15625,1.3333333333333333,0.0,0.0,0.84375
+5,Sharp GT (upper bound),timesR_0066,vqDWniiLxV dAMNdsWnGj SYeCwbUGZb,VqD niiLx dAMNds nGj SYeCwbUGzZb,5,0.15625,1.6666666666666667,0.0,0.0,0.84375
+5,Sharp GT (upper bound),timesR_0051,zEQYuXDDfw zAwKcpVCMQ zpMbFttZLt,zEOYuXDDfw Z Kcp VCMO zpMbFttZLt,6,0.1875,1.3333333333333333,0.0,0.0,0.8125
+5,Sharp GT (upper bound),timesR_0002,emMbEFDg h crghHezcFU CDrVsUxpuL,emMbEFDg h crghHezcFU CDrVsUxpuL,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),timesR_0071,chPrUJZMQj kTYYvNimjm kKKZFiUkxr,chPrUJZMQi kTYYvNimjm kKKZFiUkxr,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Sharp GT (upper bound),timesR_0016,CKEfDDCYmu CbgtRFbnQg yiDLffyZqq,CKEfDDCYmu CbgtRFbn Og yiDLffyLqq,3,0.09375,1.0,0.0,0.0,0.9090909090909091
+5,Sharp GT (upper bound),timesR_0079,kGFyezWASf JnTWVCTHzD XKAsKNg Vi,kGFyezWASf JnT TCTHzD XKAsKNg Vi,2,0.0625,0.5,0.0,0.0,0.9375
+5,Sharp GT (upper bound),timesR_0074,XKvdCdbDMA LkYVcdScpn pphEzwPFXe,XKvdCdbDMA LkY JcdScpn pphEzwPFXe,2,0.0625,0.6666666666666666,0.0,0.0,0.9393939393939394
+5,Sharp GT (upper bound),timesR_0011,Z KJdFMpgr tctxehTLkQ fXHKAn wSu,Z KJdFMpgr tctxehTLkO EXHKAn Su,3,0.09375,0.6,0.0,0.0,0.90625
+5,Sharp GT (upper bound),timesR_0056,ZANhsLHSeb AkaDKPdnut BZjvBRgSdk,ZANhsLHSeb AkaDKPdnut BZjvBRgSdk,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),timesR_0057,RuyaPsgihU cKTPKZfZMD bGtTyhNccG,RuyaPsgihU KTPKZfZMD bGtTyhNccG,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Sharp GT (upper bound),timesR_0073,pukqg H Jy bvyyiYCrjM DySesPAepu,pukgg H Jy bvyyiYCrjM DySesPAepu,1,0.03125,0.2,0.0,0.0,0.96875
+5,Sharp GT (upper bound),timesR_0046,PFdBMGMfyj wyfJSCFACe JhWNYdsZwh,PFdBMGMfyj TJSCFACe Jh NYdsZwh,4,0.125,1.0,0.0,0.0,0.875
+5,Sharp GT (upper bound),timesR_0049,YAHScBVnQb mzmXVLfFZC awxRPDdFR,YAHScBVnQb IZIL VLfFZC aV RPDdFR,7,0.22580645161290322,1.3333333333333333,0.0,0.0,0.78125
+5,Sharp GT (upper bound),timesR_0093,JqdUXvuhit niuxJRQMYg U mVeJPETd,JqdUXvuhit nw JRQMYg U mVeJPETd,3,0.09375,0.5,0.0,0.0,0.90625
+5,Sharp GT (upper bound),timesR_0077,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),timesR_0038,ucJcvatszc jpphQELZTX eqBsvBSGKM,ucJcvatszc jpphQELZTX eqBsv BSGKM,1,0.03125,0.6666666666666666,0.0,0.0,0.9696969696969697
+5,Sharp GT (upper bound),verdanaRef_0058,Q hKHuBPBT yBeTGvSjYP GHQjwmpn s,Q hKHuBPBT BeTGvSjYP GHQjwmpn S,2,0.0625,0.4,0.0,0.0,0.9375
+5,Sharp GT (upper bound),verdanaRef_0027,QJtzfWtkYE zJbsPvrFCx rtAYMTYwb,QJtzfWtkYE zlbsPvrFCx rtAYMTYwb,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+5,Sharp GT (upper bound),verdanaRef_0006,ZcYghUzEQ mZKZijctXB VWGZqnuTmV,ZcYghUzEQ mZKzijctXB WGZqnuTm,3,0.0967741935483871,0.6666666666666666,0.0,0.0,0.9032258064516129
+5,Sharp GT (upper bound),verdanaRef_0014,HGzMtF VZp MbWitUrBgp PEiM CvrPC,HGzMtF VZp MbWitUrBgp PEiM CvrPC,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0062,qqPFVYzref VVpDEsCgnc VUaQntCHFF,qqPF Yzref IpDEsCgnc VUaQntCHFF,3,0.09375,1.0,0.0,0.0,0.90625
+5,Sharp GT (upper bound),verdanaRef_0025,xCBKDXiSah hikaKMcAmL YuDxdgrvWx,XCBKDXiSah hikaKMcAmL YuDxdgrv,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+5,Sharp GT (upper bound),verdanaRef_0023,rFzLubKsdW dpYFHUEYaf AWERM vQqH,rFzLubKsdW dpYFHUEYaf AWERM vQqH,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0039,eucbVqhZUA uuaAGbZtkf BrmncfyAHy,eucbVqhZUA uuaAGbztkf Brmncf AH,3,0.09375,1.0,0.0,0.0,0.90625
+5,Sharp GT (upper bound),verdanaRef_0026,mPXrjFdKYG ApgcbqFrpm ZUuNxvnm G,mPXrjFdKYG ApgcbqFrpm ZUuNx vnm G,1,0.03125,0.5,0.0,0.0,0.9696969696969697
+5,Sharp GT (upper bound),verdanaRef_0053,qXfQAUtpwX vjMzpAVdie iEtmCZNgwC,qXfQAUtpw vjMzpAVdie iEtmCZNgwC,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Sharp GT (upper bound),verdanaRef_0086,KMjjMAbm a BBcrfDVUGj ahLKNSa n,KMjjMAbm a BBcrfDVUGj ahLKNSa n,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0068,cKmMsnHyYm pDTwWzYmit txHLLiePeP,cKmMsnH IYm pDTwWzYmit txHLLiePeP,2,0.0625,0.6666666666666666,0.0,0.0,0.9393939393939394
+5,Sharp GT (upper bound),verdanaRef_0080,cEBGeLYxcp CXpReAHGfb eZLHs hVgQ,cEBGeLYxcp cXpReAHGfb eZLHs hVgQ,1,0.03125,0.25,0.0,0.0,0.96875
+5,Sharp GT (upper bound),verdanaRef_0045,DgK UuurH NYsZsvWDiw HWxjADjsTg,DgK UuurH NYsZsvWDiw HWxjADjsTg,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0043,zpAsTDkv p EAUvXrBcim cVcrCEDpXj,ZpAsTDkv p EAUvXrBcim C VcrCEDpXj,3,0.09375,0.75,0.0,0.0,0.9090909090909091
+5,Sharp GT (upper bound),verdanaRef_0005,Mkt qiiGZg USBqRQhaXt ghsLCKbZnp,Mkt qiiGZg USBqRQhaXt ghsLCKbZnp,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0070,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,0,0.0,0.0,1.0,0.0,1.0
+5,Sharp GT (upper bound),verdanaRef_0078,iuqDhUfkfi kWGwrEFYNa dNpUAMnTFV,iuqDhUfkfi kWGwrEFYNa dNpUAMnTF,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Sharp GT (upper bound),verdanaRef_0031,RazPvQhqQj QZCgVjVGEH fxHpNUKvkE,RazPvQhqqj QZCgVjVGEH fxHpNUKvkE,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Sharp GT (upper bound),verdanaRef_0003,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,0,0.0,0.0,1.0,0.0,1.0
+5,Blurred input,timesR_0043,xfCnkQGCEL CMWAPEhpNh BmhjUAEcXJ,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0042,HYbadPXyvM LEQbscxEnu uP dvHDeZA,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0092,hSeh SZNA BnNJQUNBRj sHqWrBUuHh,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0010,nZFWmydYXT pLnGqrquhc duMtGZQiKi,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0066,vqDWniiLxV dAMNdsWnGj SYeCwbUGZb,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0051,zEQYuXDDfw zAwKcpVCMQ zpMbFttZLt,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0002,emMbEFDg h crghHezcFU CDrVsUxpuL,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0071,chPrUJZMQj kTYYvNimjm kKKZFiUkxr,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0016,CKEfDDCYmu CbgtRFbnQg yiDLffyZqq,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0079,kGFyezWASf JnTWVCTHzD XKAsKNg Vi,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0074,XKvdCdbDMA LkYVcdScpn pphEzwPFXe,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0011,Z KJdFMpgr tctxehTLkQ fXHKAn wSu,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0056,ZANhsLHSeb AkaDKPdnut BZjvBRgSdk,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0057,RuyaPsgihU cKTPKZfZMD bGtTyhNccG,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0073,pukqg H Jy bvyyiYCrjM DySesPAepu,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0046,PFdBMGMfyj wyfJSCFACe JhWNYdsZwh,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0049,YAHScBVnQb mzmXVLfFZC awxRPDdFR,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0093,JqdUXvuhit niuxJRQMYg U mVeJPETd,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0077,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,timesR_0038,ucJcvatszc jpphQELZTX eqBsvBSGKM,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0058,Q hKHuBPBT yBeTGvSjYP GHQjwmpn s,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0027,QJtzfWtkYE zJbsPvrFCx rtAYMTYwb,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0006,ZcYghUzEQ mZKZijctXB VWGZqnuTmV,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0014,HGzMtF VZp MbWitUrBgp PEiM CvrPC,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0062,qqPFVYzref VVpDEsCgnc VUaQntCHFF,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0025,xCBKDXiSah hikaKMcAmL YuDxdgrvWx,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0023,rFzLubKsdW dpYFHUEYaf AWERM vQqH,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0039,eucbVqhZUA uuaAGbZtkf BrmncfyAHy,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0026,mPXrjFdKYG ApgcbqFrpm ZUuNxvnm G,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0053,qXfQAUtpwX vjMzpAVdie iEtmCZNgwC,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0086,KMjjMAbm a BBcrfDVUGj ahLKNSa n,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0068,cKmMsnHyYm pDTwWzYmit txHLLiePeP,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0080,cEBGeLYxcp CXpReAHGfb eZLHs hVgQ,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0045,DgK UuurH NYsZsvWDiw HWxjADjsTg,,31,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0043,zpAsTDkv p EAUvXrBcim cVcrCEDpXj,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0005,Mkt qiiGZg USBqRQhaXt ghsLCKbZnp,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0070,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0078,iuqDhUfkfi kWGwrEFYNa dNpUAMnTFV,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0031,RazPvQhqQj QZCgVjVGEH fxHpNUKvkE,,32,1.0,1.0,0.0,1.0,0.0
+5,Blurred input,verdanaRef_0003,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0043,xfCnkQGCEL CMWAPEhpNh BmhjUAEcXJ,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0042,HYbadPXyvM LEQbscxEnu uP dvHDeZA,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0092,hSeh SZNA BnNJQUNBRj sHqWrBUuHh,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0010,nZFWmydYXT pLnGqrquhc duMtGZQiKi,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0066,vqDWniiLxV dAMNdsWnGj SYeCwbUGZb,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0051,zEQYuXDDfw zAwKcpVCMQ zpMbFttZLt,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0002,emMbEFDg h crghHezcFU CDrVsUxpuL,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0071,chPrUJZMQj kTYYvNimjm kKKZFiUkxr,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0016,CKEfDDCYmu CbgtRFbnQg yiDLffyZqq,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0079,kGFyezWASf JnTWVCTHzD XKAsKNg Vi,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0074,XKvdCdbDMA LkYVcdScpn pphEzwPFXe,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0011,Z KJdFMpgr tctxehTLkQ fXHKAn wSu,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0056,ZANhsLHSeb AkaDKPdnut BZjvBRgSdk,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0057,RuyaPsgihU cKTPKZfZMD bGtTyhNccG,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0073,pukqg H Jy bvyyiYCrjM DySesPAepu,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0046,PFdBMGMfyj wyfJSCFACe JhWNYdsZwh,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0049,YAHScBVnQb mzmXVLfFZC awxRPDdFR,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0093,JqdUXvuhit niuxJRQMYg U mVeJPETd,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0077,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,timesR_0038,ucJcvatszc jpphQELZTX eqBsvBSGKM,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0058,Q hKHuBPBT yBeTGvSjYP GHQjwmpn s,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0027,QJtzfWtkYE zJbsPvrFCx rtAYMTYwb,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0006,ZcYghUzEQ mZKZijctXB VWGZqnuTmV,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0014,HGzMtF VZp MbWitUrBgp PEiM CvrPC,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0062,qqPFVYzref VVpDEsCgnc VUaQntCHFF,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0025,xCBKDXiSah hikaKMcAmL YuDxdgrvWx,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0023,rFzLubKsdW dpYFHUEYaf AWERM vQqH,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0039,eucbVqhZUA uuaAGbZtkf BrmncfyAHy,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0026,mPXrjFdKYG ApgcbqFrpm ZUuNxvnm G,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0053,qXfQAUtpwX vjMzpAVdie iEtmCZNgwC,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0086,KMjjMAbm a BBcrfDVUGj ahLKNSa n,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0068,cKmMsnHyYm pDTwWzYmit txHLLiePeP,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0080,cEBGeLYxcp CXpReAHGfb eZLHs hVgQ,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0045,DgK UuurH NYsZsvWDiw HWxjADjsTg,,31,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0043,zpAsTDkv p EAUvXrBcim cVcrCEDpXj,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0005,Mkt qiiGZg USBqRQhaXt ghsLCKbZnp,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0070,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0078,iuqDhUfkfi kWGwrEFYNa dNpUAMnTFV,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0031,RazPvQhqQj QZCgVjVGEH fxHpNUKvkE,,32,1.0,1.0,0.0,1.0,0.0
+5,Pretrained Restormer,verdanaRef_0003,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,,32,1.0,1.0,0.0,1.0,0.0
+5,Fine-tuned Restormer,timesR_0043,xfCnkQGCEL CMWAPEhpNh BmhjUAEcXJ,xCnkQGCEL CMWAPElpNh BmhjUAEcXJ,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+5,Fine-tuned Restormer,timesR_0042,HYbadPXyvM LEQbscxEnu uP dvHDeZA,HYbadPXyvM LEQbscxEnu UP dvHDeZA,1,0.03125,0.25,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0092,hSeh SZNA BnNJQUNBRj sHqWrBUuHh,hSeh SZNA BnNJQUNBRj sHqWBUuHh,1,0.03225806451612903,0.25,0.0,0.0,0.967741935483871
+5,Fine-tuned Restormer,timesR_0010,nZFWmydYXT pLnGqrquhc duMtGZQiKi,nZFWmydYXT pLnGgrquhc duMtGZQiKi,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0066,vqDWniiLxV dAMNdsWnGj SYeCwbUGZb,vqDWniiLxV dAMNdsWnGj SYeCwbUGZb,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0051,zEQYuXDDfw zAwKcpVCMQ zpMbFttZLt,ZEQYuXDDfw ZAwKcpVCMQ @MbFttZLt,4,0.125,1.0,0.0,0.0,0.875
+5,Fine-tuned Restormer,timesR_0002,emMbEFDg h crghHezcFU CDrVsUxpuL,emMbEFDg h crghHezcFU CDrVsUxpuL,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0071,chPrUJZMQj kTYYvNimjm kKKZFiUkxr,chPrUJZMQj kTYYvNimjm kKKZFiUkxr,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0016,CKEfDDCYmu CbgtRFbnQg yiDLffyZqq,CKEfDDCYmu CbgtRFbnQg yDLffyZqq,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0079,kGFyezWASf JnTWVCTHzD XKAsKNg Vi,kGFyezWASf JnTWVCTHzD XKAsKNg Vi,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0074,XKvdCdbDMA LkYVcdScpn pphEzwPFXe,XKvdCdbDMA LkYVcdScpn pphEzwPFXe,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0011,Z KJdFMpgr tctxehTLkQ fXHKAn wSu,Z KJdFMpgr (ctxehTLkQ XHKAn wSu,2,0.0625,0.4,0.0,0.0,0.9375
+5,Fine-tuned Restormer,timesR_0056,ZANhsLHSeb AkaDKPdnut BZjvBRgSdk,ZANhsLHScb AkaDKPdnut BZjvBRgSdk,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0057,RuyaPsgihU cKTPKZfZMD bGtTyhNccG,RuyaPsgihU cKTPKZIZMD bGtTyiNccG,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+5,Fine-tuned Restormer,timesR_0073,pukqg H Jy bvyyiYCrjM DySesPAepu,pukag H Jy bvyyiYCrjM DySesPAepu,1,0.03125,0.2,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0046,PFdBMGMfyj wyfJSCFACe JhWNYdsZwh,PFdBMGMfyj WwYJSCFACe JhWNYdsZwh,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+5,Fine-tuned Restormer,timesR_0049,YAHScBVnQb mzmXVLfFZC awxRPDdFR,YAHScBVnQb mmXVLfFZC awxRPDdFR,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+5,Fine-tuned Restormer,timesR_0093,JqdUXvuhit niuxJRQMYg U mVeJPETd,JqdUXvuhit nitxJRQMYg U mVeJPETd,1,0.03125,0.25,0.0,0.0,0.96875
+5,Fine-tuned Restormer,timesR_0077,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,dbtqbDSwjC tiYDUPJyaS bsKnHgQ hp,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,timesR_0038,ucJcvatszc jpphQELZTX eqBsvBSGKM,ucJcvatszc jpphQELZTX eqBsvBSGKM,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0058,Q hKHuBPBT yBeTGvSjYP GHQjwmpn s,Q hKHuBPBT YBeTGvSjYP GHQjwmpn 5,2,0.0625,0.4,0.0,0.0,0.9375
+5,Fine-tuned Restormer,verdanaRef_0027,QJtzfWtkYE zJbsPvrFCx rtAYMTYwb,QJtzfWtkYE ZJbsPvrFCx rtAYMTYwb,1,0.03225806451612903,0.3333333333333333,0.0,0.0,0.967741935483871
+5,Fine-tuned Restormer,verdanaRef_0006,ZcYghUzEQ mZKZijctXB VWGZqnuTmV,ZcYghUzEQ mZKZijctXB WGZqnuTml,2,0.06451612903225806,0.3333333333333333,0.0,0.0,0.935483870967742
+5,Fine-tuned Restormer,verdanaRef_0014,HGzMtF VZp MbWitUrBgp PEiM CvrPC,HGzMtF VZp MbWitUrBgp PEiM CvrPC,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0062,qqPFVYzref VVpDEsCgnc VUaQntCHFF,qqPFV Yzref VpDEsCgnc VUaQntCHFF,2,0.0625,1.0,0.0,0.0,0.9375
+5,Fine-tuned Restormer,verdanaRef_0025,xCBKDXiSah hikaKMcAmL YuDxdgrvWx,xCBKDXiSah hikaKMcAmL YuDxdgrvWx,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0023,rFzLubKsdW dpYFHUEYaf AWERM vQqH,rFzLubKsdW dpYFHUEYaf AWERM vQqH,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0039,eucbVqhZUA uuaAGbZtkf BrmncfyAHy,eucbVqhZUA uuaAGbztkf BrncfyAHy,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+5,Fine-tuned Restormer,verdanaRef_0026,mPXrjFdKYG ApgcbqFrpm ZUuNxvnm G,mPXrjFdKYG ApgcbqFrpm ZUuNxvnm G,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0053,qXfQAUtpwX vjMzpAVdie iEtmCZNgwC,QXfQAUtpwX vjMzpAVdie iEtmCZNgwC,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+5,Fine-tuned Restormer,verdanaRef_0086,KMjjMAbm a BBcrfDVUGj ahLKNSa n,KMjjMAbm a BBcrfDVUGj ahLKNSa n,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0068,cKmMsnHyYm pDTwWzYmit txHLLiePeP,cKmMsnHyYm pDTwWzYmit txHLLiePeP,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0080,cEBGeLYxcp CXpReAHGfb eZLHs hVgQ,cEBGeLYxcp CXpReAHGfb eZLHs hVgq,1,0.03125,0.25,0.0,0.0,0.96875
+5,Fine-tuned Restormer,verdanaRef_0045,DgK UuurH NYsZsvWDiw HWxjADjsTg,DgkK Uuurh NYsZsvWDiw HWxjADjsTg,2,0.06451612903225806,0.5,0.0,0.0,0.9375
+5,Fine-tuned Restormer,verdanaRef_0043,zpAsTDkv p EAUvXrBcim cVcrCEDpXj,ZpAsTDkv p EAUvXrBcim cVcrCEDpXj,1,0.03125,0.25,0.0,0.0,0.96875
+5,Fine-tuned Restormer,verdanaRef_0005,Mkt qiiGZg USBqRQhaXt ghsLCKbZnp,Mkt qiiGZg USBqRQhaxt ghsLCKbZnp,1,0.03125,0.25,0.0,0.0,0.96875
+5,Fine-tuned Restormer,verdanaRef_0070,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,UqiJHGZZNC QBkdpFWJPz dmaUxWxpFv,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0078,iuqDhUfkfi kWGwrEFYNa dNpUAMnTFV,iuqDhUfkfi kWGwrEFYMa dMpUAMnTF,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+5,Fine-tuned Restormer,verdanaRef_0031,RazPvQhqQj QZCgVjVGEH fxHpNUKvkE,RazPvQhqQj QZCgVjVGEH fxHpNUKvkE,0,0.0,0.0,1.0,0.0,1.0
+5,Fine-tuned Restormer,verdanaRef_0003,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,rMbbpZtbMh nJPmyRjsBW e EQDLjgBe,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),timesR_0043,Dp bvhCuuX jcnSmhYDvV JqjQcJUA Y,Dp bvhCu jcnSmhYD JqjQcJUA Y,4,0.125,0.4,0.0,0.0,0.875
+6,Sharp GT (upper bound),timesR_0042,YG jAFxvyU PDLhFGJJUk NRZeYGiwCf,YG jAR yU PDLhFGJJUk NRZeYGiwCf,3,0.09375,0.5,0.0,0.0,0.90625
+6,Sharp GT (upper bound),timesR_0092,GEzhuKwFT TVXVyNfhFq yjwbxFD em,GEzhuKwFT TT yNfhFq yjwbxFD em,3,0.0967741935483871,0.5,0.0,0.0,0.9032258064516129
+6,Sharp GT (upper bound),timesR_0010,ZScfqHQmuh teeMLXHhQR MHsDqRBtAD,ZScfqHQmuh teeMLXHhOR MHsDqRBtAD,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),timesR_0066,hSFkjkYMVZ VffQVPwcBC x PnHsHwxZ,hSFkjkYMVZ VffOVP cBC PnHsH,7,0.21875,0.75,0.0,0.0,0.78125
+6,Sharp GT (upper bound),timesR_0051,QjLJMry SX HcPEsyCUwL ZPvaswDeVk,QjLJMry SX HcPEsvCUwL ZPvaswDeVk,1,0.03125,0.25,0.0,0.0,0.96875
+6,Sharp GT (upper bound),timesR_0002,RhysUe BYa ZcUxMAvpup zMsVrtiJjH,RhysUe BYa ZcUxMAvpup zMsVrtiJjH,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),timesR_0071,rUxjPdncEd AbtFuvhdRw YnppFjEAmP,rUxjPdncEd AbtFuvhdRw YnppFjEAmP,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),timesR_0016,qabPTQtBhn ULzsWfCTte vmauFfwDfK,qabPTQtBhn ULzsWfCTte vmauFfwDfK,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),timesR_0079,bRmmAWTuDH uEiSbJRVwv dGhXUEHZMg,bRmmAWTuDH uEiSbJRW dGhXUEHZMg,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+6,Sharp GT (upper bound),timesR_0074,wgZXhjNVuN eAnPcbreLt iY FjZEKUC,gZXhjNVuN eAnPcbreLt iY FjZEKUC,1,0.03125,0.25,0.0,0.0,0.96875
+6,Sharp GT (upper bound),timesR_0011,whdTcNEbex DEVZtEBUxW baqPDydDtJ,whdTcNEbex DEVZEBU baqPDydDtJ,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+6,Sharp GT (upper bound),timesR_0056,KKDxYgdYma sBZtVBMQyX sUhctnivUA,KKDxYgdYma SBZtVBM 0 sUhctnivUA,4,0.125,0.6666666666666666,0.0,0.0,0.875
+6,Sharp GT (upper bound),timesR_0057,Ee GmEiKux cWMDNhkpGd jYAgSNsuwL,Ee GmEiKux N MDNhkpGd jYAgSNsuwL,2,0.0625,0.5,0.0,0.0,0.9375
+6,Sharp GT (upper bound),timesR_0073,yNJhJBmXAd SmzjTXbzkf MRxnxYUyZi,yNJhJBm Ad SmzjTXbzkf MRxn YUyZi,2,0.0625,1.3333333333333333,0.0,0.0,0.9375
+6,Sharp GT (upper bound),timesR_0046,HVbwtdkNrA pPpDcqNDjD hFme vCVBy,HVbwtdkNrA pPpDcqNDjD hFme CWBy,2,0.0625,0.25,0.0,0.0,0.9375
+6,Sharp GT (upper bound),timesR_0049,sfVQSXvxjs teLpKvzkxx WDryYFxrRz,sfVQSXvxjs teLpKvzk VryYFxRz,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+6,Sharp GT (upper bound),timesR_0093,ZDaSrrDnwr dniqwisphv ff WNKxtg,ZDaSrrDnwr dniq wisphv ff NKxtg,2,0.06451612903225806,0.75,0.0,0.0,0.935483870967742
+6,Sharp GT (upper bound),timesR_0077,iRgDhajHSa WhmrmQeRav nLy QZDefS,iRgDhajHSa VhrmOeRa nLy OZDefs,6,0.1875,0.5,0.0,0.0,0.8125
+6,Sharp GT (upper bound),timesR_0038,c Th BUXZR PUuyJwKfxF NPhHQsgQfA,Th BUXZR PUuy) wKfxF NPhHQsgQfA,4,0.125,0.6,0.0,0.0,0.875
+6,Sharp GT (upper bound),verdanaRef_0058,Nzw wZVWb XWyADJiEvR PPJD y kGL,Nzw WZV Wb W ADJiEvR PPJD kGL,6,0.1935483870967742,0.8333333333333334,0.0,0.0,0.8064516129032258
+6,Sharp GT (upper bound),verdanaRef_0027,DgunepEPYX LDmjAiNCDR BLNPEMbgrc,DgunepEPY LDmjAiNCDR BLNPEMbgrc,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0006,DseCJx f Q QpMkiVsEWb sXNfDRJTYf,DseCJx 6 Q QpMkiVsEWb SXNfDRJTYf,2,0.0625,0.4,0.0,0.0,0.9375
+6,Sharp GT (upper bound),verdanaRef_0014,myDBdByELw YGNzrZjWXL nFQUNALRtR,myDBdByELw YGNzrZjWXL nFQUNALRtR,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),verdanaRef_0062,TNVBsCtZyT menjdkzxGX s nChZbxe,TNVBsCtZyT menjdkzxGX s nChzbxe,1,0.03225806451612903,0.25,0.0,0.0,0.967741935483871
+6,Sharp GT (upper bound),verdanaRef_0025,xRaeerhPmR KMFJxQrCmk s V fEjUXg,XRaeerhPmR KMFJxQrCmk S fEjUXg,4,0.125,0.6,0.0,0.0,0.875
+6,Sharp GT (upper bound),verdanaRef_0023,wKewTDGtxJ zkbANbDSsM fqWcQzWTDW,wKewTDGtx] zkbANbDSsM fqWcQzWTDW,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0039,AwkuDizNJe MTPSYWRdeg DsEAjJrgRG,AwkuDizNJe MTPSYWRdeg DsEAjJrgRG,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),verdanaRef_0026,zDAqfdLmgE MXgHYhKHku sZibDjcQqh,zDAqfdLmgE MXgHYhKHku sZibDjcQqh,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),verdanaRef_0053,UCdSCFDACJ AcvcTgXemt VgVvjNGscD,UCdSCFDACJ AcvcTgXemt gVvjNGscD,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0086,RGVaSKuAEq sEXrtSExFq eDxYYRkyiy,RGVaSKuAEq sEXrtSExFq eDxYYRkyiy,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),verdanaRef_0068,XUqczHFfbJ ZKfgHBSdeu ewgEzHTHbK,XUqczHFfb] ZKfgHBSdeu ewgEzHTHbK,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0080,qFMVyLpHCw afCLupUnpY cxDnUknTSM,qFM YLpHCw afCLupUnpy cxDnUknTSM,3,0.09375,1.0,0.0,0.0,0.90625
+6,Sharp GT (upper bound),verdanaRef_0045,nwmDQiqPqe uAfCvtLHYY DV zKs jkh,nwmDQiqPqe UAfCvtLHY} DV ZKs jkh,3,0.09375,0.4,0.0,0.0,0.90625
+6,Sharp GT (upper bound),verdanaRef_0043,fyPNsVyPca BNfGxaqWWG YWRxqYF Lq,fyPNs yPca BNfGxaqWWG NRxqYF Lq,3,0.09375,0.75,0.0,0.0,0.90625
+6,Sharp GT (upper bound),verdanaRef_0005,MYjTkeqafZ hbWWcyupDD GzgHSADJJj,MYjTkeqafz hbWWcyupDD GzgHSADJJj,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0070,UZLJL LNnS PAvRVzJKxU QUxbXXH sN,UZLJL LNnS PAvRVZJKxU QUxbXXH sN,1,0.03125,0.2,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0078,fKUGYwHnRS pNmqLvAbss KWKCSZRqVZ,fKUGYwHnRS pNmqLvAbss KWKCSZRqVZ,0,0.0,0.0,1.0,0.0,1.0
+6,Sharp GT (upper bound),verdanaRef_0031,WjtzN tvFE YdSwDCijrj MHKdiJptnx,WjtzN tvFE YdSwDCijrj MHKdiJptn,1,0.03125,0.25,0.0,0.0,0.96875
+6,Sharp GT (upper bound),verdanaRef_0003,duuvZXn uX CVjAtxamEC gBucyN ifk,duuvzxn uX CVjAtxamEC gBucyN ifk,2,0.0625,0.2,0.0,0.0,0.9375
+6,Blurred input,timesR_0043,Dp bvhCuuX jcnSmhYDvV JqjQcJUA Y,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0042,YG jAFxvyU PDLhFGJJUk NRZeYGiwCf,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0092,GEzhuKwFT TVXVyNfhFq yjwbxFD em,,31,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0010,ZScfqHQmuh teeMLXHhQR MHsDqRBtAD,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0066,hSFkjkYMVZ VffQVPwcBC x PnHsHwxZ,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0051,QjLJMry SX HcPEsyCUwL ZPvaswDeVk,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0002,RhysUe BYa ZcUxMAvpup zMsVrtiJjH,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0071,rUxjPdncEd AbtFuvhdRw YnppFjEAmP,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0016,qabPTQtBhn ULzsWfCTte vmauFfwDfK,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0079,bRmmAWTuDH uEiSbJRVwv dGhXUEHZMg,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0074,wgZXhjNVuN eAnPcbreLt iY FjZEKUC,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0011,whdTcNEbex DEVZtEBUxW baqPDydDtJ,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0056,KKDxYgdYma sBZtVBMQyX sUhctnivUA,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0057,Ee GmEiKux cWMDNhkpGd jYAgSNsuwL,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0073,yNJhJBmXAd SmzjTXbzkf MRxnxYUyZi,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0046,HVbwtdkNrA pPpDcqNDjD hFme vCVBy,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0049,sfVQSXvxjs teLpKvzkxx WDryYFxrRz,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0093,ZDaSrrDnwr dniqwisphv ff WNKxtg,,31,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0077,iRgDhajHSa WhmrmQeRav nLy QZDefS,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,timesR_0038,c Th BUXZR PUuyJwKfxF NPhHQsgQfA,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0058,Nzw wZVWb XWyADJiEvR PPJD y kGL,,31,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0027,DgunepEPYX LDmjAiNCDR BLNPEMbgrc,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0006,DseCJx f Q QpMkiVsEWb sXNfDRJTYf,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0014,myDBdByELw YGNzrZjWXL nFQUNALRtR,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0062,TNVBsCtZyT menjdkzxGX s nChZbxe,,31,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0025,xRaeerhPmR KMFJxQrCmk s V fEjUXg,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0023,wKewTDGtxJ zkbANbDSsM fqWcQzWTDW,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0039,AwkuDizNJe MTPSYWRdeg DsEAjJrgRG,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0026,zDAqfdLmgE MXgHYhKHku sZibDjcQqh,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0053,UCdSCFDACJ AcvcTgXemt VgVvjNGscD,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0086,RGVaSKuAEq sEXrtSExFq eDxYYRkyiy,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0068,XUqczHFfbJ ZKfgHBSdeu ewgEzHTHbK,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0080,qFMVyLpHCw afCLupUnpY cxDnUknTSM,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0045,nwmDQiqPqe uAfCvtLHYY DV zKs jkh,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0043,fyPNsVyPca BNfGxaqWWG YWRxqYF Lq,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0005,MYjTkeqafZ hbWWcyupDD GzgHSADJJj,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0070,UZLJL LNnS PAvRVzJKxU QUxbXXH sN,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0078,fKUGYwHnRS pNmqLvAbss KWKCSZRqVZ,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0031,WjtzN tvFE YdSwDCijrj MHKdiJptnx,,32,1.0,1.0,0.0,1.0,0.0
+6,Blurred input,verdanaRef_0003,duuvZXn uX CVjAtxamEC gBucyN ifk,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0043,Dp bvhCuuX jcnSmhYDvV JqjQcJUA Y,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0042,YG jAFxvyU PDLhFGJJUk NRZeYGiwCf,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0092,GEzhuKwFT TVXVyNfhFq yjwbxFD em,,31,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0010,ZScfqHQmuh teeMLXHhQR MHsDqRBtAD,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0066,hSFkjkYMVZ VffQVPwcBC x PnHsHwxZ,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0051,QjLJMry SX HcPEsyCUwL ZPvaswDeVk,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0002,RhysUe BYa ZcUxMAvpup zMsVrtiJjH,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0071,rUxjPdncEd AbtFuvhdRw YnppFjEAmP,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0016,qabPTQtBhn ULzsWfCTte vmauFfwDfK,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0079,bRmmAWTuDH uEiSbJRVwv dGhXUEHZMg,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0074,wgZXhjNVuN eAnPcbreLt iY FjZEKUC,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0011,whdTcNEbex DEVZtEBUxW baqPDydDtJ,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0056,KKDxYgdYma sBZtVBMQyX sUhctnivUA,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0057,Ee GmEiKux cWMDNhkpGd jYAgSNsuwL,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0073,yNJhJBmXAd SmzjTXbzkf MRxnxYUyZi,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0046,HVbwtdkNrA pPpDcqNDjD hFme vCVBy,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0049,sfVQSXvxjs teLpKvzkxx WDryYFxrRz,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0093,ZDaSrrDnwr dniqwisphv ff WNKxtg,,31,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0077,iRgDhajHSa WhmrmQeRav nLy QZDefS,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,timesR_0038,c Th BUXZR PUuyJwKfxF NPhHQsgQfA,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0058,Nzw wZVWb XWyADJiEvR PPJD y kGL,,31,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0027,DgunepEPYX LDmjAiNCDR BLNPEMbgrc,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0006,DseCJx f Q QpMkiVsEWb sXNfDRJTYf,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0014,myDBdByELw YGNzrZjWXL nFQUNALRtR,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0062,TNVBsCtZyT menjdkzxGX s nChZbxe,,31,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0025,xRaeerhPmR KMFJxQrCmk s V fEjUXg,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0023,wKewTDGtxJ zkbANbDSsM fqWcQzWTDW,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0039,AwkuDizNJe MTPSYWRdeg DsEAjJrgRG,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0026,zDAqfdLmgE MXgHYhKHku sZibDjcQqh,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0053,UCdSCFDACJ AcvcTgXemt VgVvjNGscD,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0086,RGVaSKuAEq sEXrtSExFq eDxYYRkyiy,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0068,XUqczHFfbJ ZKfgHBSdeu ewgEzHTHbK,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0080,qFMVyLpHCw afCLupUnpY cxDnUknTSM,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0045,nwmDQiqPqe uAfCvtLHYY DV zKs jkh,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0043,fyPNsVyPca BNfGxaqWWG YWRxqYF Lq,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0005,MYjTkeqafZ hbWWcyupDD GzgHSADJJj,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0070,UZLJL LNnS PAvRVzJKxU QUxbXXH sN,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0078,fKUGYwHnRS pNmqLvAbss KWKCSZRqVZ,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0031,WjtzN tvFE YdSwDCijrj MHKdiJptnx,,32,1.0,1.0,0.0,1.0,0.0
+6,Pretrained Restormer,verdanaRef_0003,duuvZXn uX CVjAtxamEC gBucyN ifk,,32,1.0,1.0,0.0,1.0,0.0
+6,Fine-tuned Restormer,timesR_0043,Dp bvhCuuX jcnSmhYDvV JqjQcJUA Y,Dp bvhCu jcnSmhYDv JqjQcJUA Y,3,0.09375,0.4,0.0,0.0,0.90625
+6,Fine-tuned Restormer,timesR_0042,YG jAFxvyU PDLhFGJJUk NRZeYGiwCf,YG jAFx)U [DLEFGJJUk RZcYGiwCf,6,0.1875,0.75,0.0,0.0,0.8125
+6,Fine-tuned Restormer,timesR_0092,GEzhuKwFT TVXVyNfhFq yjwbxFD em,GEzluKwfT TV Vy NBaFq yjwbxFD cm,7,0.22580645161290322,1.25,0.0,0.0,0.78125
+6,Fine-tuned Restormer,timesR_0010,ZScfqHQmuh teeMLXHhQR MHsDqRBtAD,ZScfG[[Qmuh tecMLXIIHQR MLIsDGRBAD,11,0.34375,1.0,0.0,0.0,0.6764705882352942
+6,Fine-tuned Restormer,timesR_0066,hSFkjkYMVZ VffQVPwcBC x PnHsHwxZ,hSFkjk YMVZ VEQWPwcBC x PlJsIIwxZ,8,0.25,1.0,0.0,0.0,0.7575757575757576
+6,Fine-tuned Restormer,timesR_0051,QjLJMry SX HcPEsyCUwL ZPvaswDeVk,QjUJMry SX LcPEsyCUwL 'agwDcWk,8,0.25,0.75,0.0,0.0,0.75
+6,Fine-tuned Restormer,timesR_0002,RhysUe BYa ZcUxMAvpup zMsVrtiJjH,RhysUc BYa ZcUxMAvpUP MsVUHH,9,0.28125,0.75,0.0,0.0,0.71875
+6,Fine-tuned Restormer,timesR_0071,rUxjPdncEd AbtFuvhdRw YnppFjEAmP,rUxjPcncEd AblFuvhdRw YnppFjEAnP,3,0.09375,1.0,0.0,0.0,0.90625
+6,Fine-tuned Restormer,timesR_0016,qabPTQtBhn ULzsWfCTte vmauFfwDfK,qabPTQEhn ULzsW}C Tte 1mauFfwDtK,6,0.1875,1.3333333333333333,0.0,0.0,0.8125
+6,Fine-tuned Restormer,timesR_0079,bRmmAWTuDH uEiSbJRVwv dGhXUEHZMg,bRmmAWTDII UEiSbJR Vwv dGhXUEIIZMg,7,0.21875,1.3333333333333333,0.0,0.0,0.7941176470588236
+6,Fine-tuned Restormer,timesR_0074,wgZXhjNVuN eAnPcbreLt iY FjZEKUC,wgZXhjl 53 eAnPcbreLt Y FiZEKUC,6,0.1875,1.0,0.0,0.0,0.8125
+6,Fine-tuned Restormer,timesR_0011,whdTcNEbex DEVZtEBUxW baqPDydDtJ,whdTcNEbx DE ZEEUxWv bacPDyDu,9,0.28125,1.3333333333333333,0.0,0.0,0.71875
+6,Fine-tuned Restormer,timesR_0056,KKDxYgdYma sBZtVBMQyX sUhctnivUA,KKDxYgdYma sBZt WEMQyX sUhcurvUA,6,0.1875,1.0,0.0,0.0,0.8125
+6,Fine-tuned Restormer,timesR_0057,Ee GmEiKux cWMDNhkpGd jYAgSNsuwL,Ee GmEiKix cWMDNhkpGd YAg NwuwL,4,0.125,0.75,0.0,0.0,0.875
+6,Fine-tuned Restormer,timesR_0073,yNJhJBmXAd SmzjTXbzkf MRxnxYUyZi,XNJHBmXAd SmzjTXbzkf MRxnxYU;Zi,4,0.125,0.6666666666666666,0.0,0.0,0.875
+6,Fine-tuned Restormer,timesR_0046,HVbwtdkNrA pPpDcqNDjD hFme vCVBy,I[VbwtdkNcA pDcq` DjD FFmc V( VBY,13,0.40625,1.5,0.0,0.0,0.6060606060606061
+6,Fine-tuned Restormer,timesR_0049,sfVQSXvxjs teLpKvzkxx WDryYFxrRz,stWQSXwxjs teLpKvzkxx WDryYFxrRz,3,0.09375,0.3333333333333333,0.0,0.0,0.90625
+6,Fine-tuned Restormer,timesR_0093,ZDaSrrDnwr dniqwisphv ff WNKxtg,EDaSiDnwr dniqwisphv f Wv Kste,8,0.25806451612903225,1.0,0.0,0.0,0.7419354838709677
+6,Fine-tuned Restormer,timesR_0077,iRgDhajHSa WhmrmQeRav nLy QZDefS,igDhajIISa WhmmmQcRav LLy OZDefs,8,0.25,1.0,0.0,0.0,0.75
+6,Fine-tuned Restormer,timesR_0038,c Th BUXZR PUuyJwKfxF NPhHQsgQfA,c Th BUXZR PUu;JwKExF PBIFQsgQL,8,0.25,0.4,0.0,0.0,0.75
+6,Fine-tuned Restormer,verdanaRef_0058,Nzw wZVWb XWyADJiEvR PPJD y kGL,Nzv Zwb KWyADJiEvR PPJD y kGL,5,0.16129032258064516,0.5,0.0,0.0,0.8387096774193549
+6,Fine-tuned Restormer,verdanaRef_0027,DgunepEPYX LDmjAiNCDR BLNPEMbgrc,DgenepEPY LDmjAYNCDR BLNPEMbgrc,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+6,Fine-tuned Restormer,verdanaRef_0006,DseCJx f Q QpMkiVsEWb sXNfDRJTYf,DseClx f Q QpMkHVsEWb SXNCDRJT,6,0.1875,0.6,0.0,0.0,0.8125
+6,Fine-tuned Restormer,verdanaRef_0014,myDBdByELw YGNzrZjWXL nFQUNALRtR,myDBdByELw YGNzrZjWXL nFQUNALRCR,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Fine-tuned Restormer,verdanaRef_0062,TNVBsCtZyT menjdkzxGX s nChZbxe,TNVBsCtzyT merjdkZXGX 5 mChZbxe,6,0.1935483870967742,1.0,0.0,0.0,0.8064516129032258
+6,Fine-tuned Restormer,verdanaRef_0025,xRaeerhPmR KMFJxQrCmk s V fEjUXg,xRaeerkPmR KtfFJxQrCmk S V FEjUXg,5,0.15625,0.8,0.0,0.0,0.8484848484848485
+6,Fine-tuned Restormer,verdanaRef_0023,wKewTDGtxJ zkbANbDSsM fqWcQzWTDW,M'KewTDGtx zkbAMbDSsM fGWcQzWTDW,5,0.15625,1.0,0.0,0.0,0.84375
+6,Fine-tuned Restormer,verdanaRef_0039,AwkuDizNJe MTPSYWRdeg DsEAjJrgRG,AxvkuDizNJe MTPSYWRdeg DsEAjJrgRG,2,0.0625,0.3333333333333333,0.0,0.0,0.9393939393939394
+6,Fine-tuned Restormer,verdanaRef_0026,zDAqfdLmgE MXgHYhKHku sZibDjcQqh,zDAqfdLmgE MXgHYhKHku sZIbDjcQqh,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Fine-tuned Restormer,verdanaRef_0053,UCdSCFDACJ AcvcTgXemt VgVvjNGscD,UCdSCFDACJ AcvcTgXemt Vg VjNGscD,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+6,Fine-tuned Restormer,verdanaRef_0086,RGVaSKuAEq sEXrtSExFq eDxYYRkyiy,RGVaSKuAEq SEXrtSExFq eDx YRkyry,3,0.09375,1.0,0.0,0.0,0.90625
+6,Fine-tuned Restormer,verdanaRef_0068,XUqczHFfbJ ZKfgHBSdeu ewgEzHTHbK,XUqczHFfb] ZKfgHBSdeu ewgEzHTHbK,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+6,Fine-tuned Restormer,verdanaRef_0080,qFMVyLpHCw afCLupUnpY cxDnUknTSM,GFM yLpHCw afCLupUnpy xDrUknTSM,5,0.15625,1.3333333333333333,0.0,0.0,0.84375
+6,Fine-tuned Restormer,verdanaRef_0045,nwmDQiqPqe uAfCvtLHYY DV zKs jkh,nmDQiqPqe UAfCvtLKYY DV ZKs jkh,4,0.125,0.6,0.0,0.0,0.875
+6,Fine-tuned Restormer,verdanaRef_0043,fyPNsVyPca BNfGxaqWWG YWRxqYF Lq,fyPNsVyPca BNFGxaqWWG NRXqYF Lq,4,0.125,0.5,0.0,0.0,0.875
+6,Fine-tuned Restormer,verdanaRef_0005,MYjTkeqafZ hbWWcyupDD GzgHSADJJj,#YjTkeqafz kbWWcYupDD GzgHSADJJj,4,0.125,0.6666666666666666,0.0,0.0,0.875
+6,Fine-tuned Restormer,verdanaRef_0070,UZLJL LNnS PAvRVzJKxU QUxbXXH sN,UZUL LNaS FAvRVzJkxu QUxbXXH sN,6,0.1875,0.6,0.0,0.0,0.8125
+6,Fine-tuned Restormer,verdanaRef_0078,fKUGYwHnRS pNmqLvAbss KWKCSZRqVZ,fKUGYwHaRs pNmqLvAbss KWKCSZRGL,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+6,Fine-tuned Restormer,verdanaRef_0031,WjtzN tvFE YdSwDCijrj MHKdiJptnx,WjtzN tvFE YdSwDCijrj MHKdiJptnz,1,0.03125,0.25,0.0,0.0,0.96875
+6,Fine-tuned Restormer,verdanaRef_0003,duuvZXn uX CVjAtxamEC gBucyN ifk,de@vZXn GX ViAtxamEC gBucyN M,8,0.25,0.8,0.0,0.0,0.75
+7,Sharp GT (upper bound),timesR_0043,HbLuWuYHBe wzMWWdbUzK ffNPevwtxC,HbLu uYHBe ZM dbUUzK ffNPev txl,8,0.25,2.0,0.0,0.0,0.75
+7,Sharp GT (upper bound),timesR_0042,HNnQMHhAXG UsJsmbLftg fVtZPeAWRH,HNnOMHhAXG UsJsmbLftg fVtZPeAWRH,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),timesR_0092,DVEt XbAUN cacCcqmGyL drKkQkgiMr,DVEt XbAUN cacCcqmGyL drKkQkgiMr,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),timesR_0010,nYswfzJggZ txhjgWQSwt i EcBUxzeM,nYswfzJggZ txhjg' OSwt i EcBUUxzeM,4,0.125,0.75,0.0,0.0,0.8823529411764706
+7,Sharp GT (upper bound),timesR_0066,UxZeKttTbX qrjthdHXxV SDSABZdqnq,UxZeKttTbX grjthdHX SDSABZdgnq,4,0.125,0.6666666666666666,0.0,0.0,0.875
+7,Sharp GT (upper bound),timesR_0051,GFBB MSNm sgwtUeUKbk ZqAUUjRzRF,GFBB MSNm sgwtUeUKbk ZqAUUjRzRF,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),timesR_0002,ezKhFmTfNe nunyKGsjkV zJeCWQQnGj,ezKhFmTfNe nunyKGsjk ZJeC OOn Gj,6,0.1875,1.3333333333333333,0.0,0.0,0.8125
+7,Sharp GT (upper bound),timesR_0071,QrMgMXTPnS zycuAWTUHw yVwEMzRkeR,QrMgMXTPnS ZycUA TUH EMzRkeR,7,0.21875,1.0,0.0,0.0,0.78125
+7,Sharp GT (upper bound),timesR_0016,HaHWQpUjtt FWydCWXSND Z AwCZWvUg,HaH QpUjtt FI ydC XSND Z F CZW vUg,7,0.21875,2.0,0.0,0.0,0.7941176470588236
+7,Sharp GT (upper bound),timesR_0079,DxxxgzNHax mnjpSSTjZp MHCX tmsRu,D gzNHax mnjpSSTjZp MHCX tmsRu,3,0.09375,0.5,0.0,0.0,0.90625
+7,Sharp GT (upper bound),timesR_0074,xqDQLvQPKK ZUVNkBFHQc p GcFkumev,XqDQLw OPKK ZUVNkBFHOc p GcFkumev,5,0.15625,0.75,0.0,0.0,0.8484848484848485
+7,Sharp GT (upper bound),timesR_0011,EJbtgShLjs tKKhZKsAmA rTVeVudyia,EJbtgShLjs tKKhZKsAmA rT Ve Tudyia,3,0.09375,1.0,0.0,0.0,0.9117647058823529
+7,Sharp GT (upper bound),timesR_0056,HFmLuREXgP xaYxQfAjgj AxXirMVXaa,HFmLuREXgP xa X QfAjgj irMT Xaa,8,0.25,1.6666666666666667,0.0,0.0,0.75
+7,Sharp GT (upper bound),timesR_0057,aXkikXxJAQ yGvGfeQpsV JHEXCjVGuW,aXkik A yGvGfeQps JHEXCjVGu,6,0.1875,1.3333333333333333,0.0,0.0,0.8125
+7,Sharp GT (upper bound),timesR_0073,sgBey CZUC LLxsAcmWQW bttWXRrdza,sgBey CZUC LLX SAcm 0 btt XRrdza,7,0.21875,1.25,0.0,0.0,0.78125
+7,Sharp GT (upper bound),timesR_0046,Uma Ne nkZ DGzFsWApNV b bDzydUQh,Uma Ne nkZ DGzFs ApNV b bDzydUQh,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),timesR_0049,rkBSSsWzKG nKgHQdMrHU TnvpnGQPBs,rkBSSs zKG nKgHQdMrHU TnvpnGQPBs,1,0.03125,0.6666666666666666,0.0,0.0,0.96875
+7,Sharp GT (upper bound),timesR_0093,pDfYcDfTGB yjTuGqRERj EnymLMWgaF,pDfYcDfTGB yjTuGqRERj EnvmLMW gaF,2,0.0625,0.6666666666666666,0.0,0.0,0.9393939393939394
+7,Sharp GT (upper bound),timesR_0077,UmvtuRtSye kavfkSNBMz NzFDXCyNdy,UmvtuRtSye kavfkSNBMz NzFDXCyNdy,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),timesR_0038,AkAqKwrsQR AybmrhJQWp wXsFTSKeW,AkAqKwrsQR AybmrhJQ Np XsFTSKel,4,0.12903225806451613,1.0,0.0,0.0,0.8709677419354839
+7,Sharp GT (upper bound),verdanaRef_0058,tVmvZResSM kXfLQzQzQZ WnrekBzegm,tVmvzResSM kXfLQzQzQZ WnrekBzegm,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0027,uXtiBGTYci sHsUNwsdXL Pp SRYwte,uXtiBGTYci sHsUNwsdXL Pp SRYwte,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),verdanaRef_0006,xmivYrgmtN mssVqAqnJg nM VqqYZDa,xmivYrgmtN mssVqAqnJg nM VqqYZDa,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),verdanaRef_0014,pqrWSnrWZS RLXSvTPksm bqebpSJtGj,pqrWSnrWZS RLXSvTPksm bqebpsJtGj,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0062,HXeKdH HpH uELaEjZRTi APQVWVLaXP,HXeKdH HpH uELaEjZRTi APQ VLaXP,2,0.0625,0.5,0.0,0.0,0.9375
+7,Sharp GT (upper bound),verdanaRef_0025,rnyLGppRKf umgkXXkAPc HSLhAM FSW,rn LGppRKf umgkXXkAPc HSLhAM FSW,1,0.03125,0.5,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0023,SMRvwuckNm WgcXiyjrAW gye AGgyHP,SMRvwuckNm WgcXiyjrAW gye AGgyHP,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),verdanaRef_0039,mf rBaemHv NfJfpmgaxs VvPnWegQAt,mf rBaemH NfJfpmgaxs vPnWegQAt,2,0.0625,0.5,0.0,0.0,0.9375
+7,Sharp GT (upper bound),verdanaRef_0026,fgsgSTP Hh wCmbDzGCeD WcrfjcmygT,fgsgSTP Hh wCmbDzGCeD WcrfjcmygT,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),verdanaRef_0053,RzNavBCA fEUBiiYmQt vmpNKaTDFL,RzNavBCA fEUBiiYmqt vmpNKaTDFL,1,0.03333333333333333,0.3333333333333333,0.0,0.0,0.9666666666666667
+7,Sharp GT (upper bound),verdanaRef_0086,ZiMDCk jFM JCfgUNGAzP BfuGhGfNfy,ZiMDCk jFM JCfgUNGAZP BfuGhGfNfi,2,0.0625,0.5,0.0,0.0,0.9375
+7,Sharp GT (upper bound),verdanaRef_0068,knxHsEGuVt ZmVeuvuikb yQKp dBYDL,knxHsEGuVt ZmVeuvuikb YQKp dBYDL,1,0.03125,0.25,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0080,ADgtQTysre xEvvygXxcB nxCSgPE sZ,ADgtQTysre E Yg XcB nxCSgPE sZ,6,0.1875,0.75,0.0,0.0,0.8125
+7,Sharp GT (upper bound),verdanaRef_0045,EARthsNXfm uaexcvfkFe yYuyxipvGa,EARthsNXfm uaexcvfkFe YuyxipvGa,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0043,PiheFtmsCD sxNPNYTCjb NHi tSCkFp,PiheFtmscD SxNPNYTCjb NHi tSCkFp,2,0.0625,0.5,0.0,0.0,0.9375
+7,Sharp GT (upper bound),verdanaRef_0005,hiKmkPxhRB kEgSRxZfWg qeFmmEPqz,hiKmkPxhRB kEgSRxZfWg qeFmmEPqz,0,0.0,0.0,1.0,0.0,1.0
+7,Sharp GT (upper bound),verdanaRef_0070,mUHazDRiZj uMBvpJQcNd gQeYAHniqZ,mUHazDRiZj uMBvpJQcNd gQeYAHniqz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0078,zWhTDcGgBh NViPqrNQvC wdpeamaBFp,ZWhTDcGgBh NViPqrNQvC wdpeamaBFp,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Sharp GT (upper bound),verdanaRef_0031,nyNFPSnhQi hbpyetekUT B sAtSBvWK,n YNFPSnhQi hbpyetekUt B SAtSBvWK,4,0.125,1.0,0.0,0.0,0.8787878787878788
+7,Sharp GT (upper bound),verdanaRef_0003,RLzEHciLZm kwujTdUCtM xKnvQ GsWx,RLZEHciLZm kwujTdUCtM XKnvQ Gsw,4,0.125,0.75,0.0,0.0,0.875
+7,Blurred input,timesR_0043,HbLuWuYHBe wzMWWdbUzK ffNPevwtxC,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0042,HNnQMHhAXG UsJsmbLftg fVtZPeAWRH,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0092,DVEt XbAUN cacCcqmGyL drKkQkgiMr,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0010,nYswfzJggZ txhjgWQSwt i EcBUxzeM,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0066,UxZeKttTbX qrjthdHXxV SDSABZdqnq,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0051,GFBB MSNm sgwtUeUKbk ZqAUUjRzRF,,31,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0002,ezKhFmTfNe nunyKGsjkV zJeCWQQnGj,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0071,QrMgMXTPnS zycuAWTUHw yVwEMzRkeR,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0016,HaHWQpUjtt FWydCWXSND Z AwCZWvUg,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0079,DxxxgzNHax mnjpSSTjZp MHCX tmsRu,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0074,xqDQLvQPKK ZUVNkBFHQc p GcFkumev,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0011,EJbtgShLjs tKKhZKsAmA rTVeVudyia,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0056,HFmLuREXgP xaYxQfAjgj AxXirMVXaa,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0057,aXkikXxJAQ yGvGfeQpsV JHEXCjVGuW,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0073,sgBey CZUC LLxsAcmWQW bttWXRrdza,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0046,Uma Ne nkZ DGzFsWApNV b bDzydUQh,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0049,rkBSSsWzKG nKgHQdMrHU TnvpnGQPBs,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0093,pDfYcDfTGB yjTuGqRERj EnymLMWgaF,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0077,UmvtuRtSye kavfkSNBMz NzFDXCyNdy,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,timesR_0038,AkAqKwrsQR AybmrhJQWp wXsFTSKeW,,31,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0058,tVmvZResSM kXfLQzQzQZ WnrekBzegm,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0027,uXtiBGTYci sHsUNwsdXL Pp SRYwte,,31,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0006,xmivYrgmtN mssVqAqnJg nM VqqYZDa,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0014,pqrWSnrWZS RLXSvTPksm bqebpSJtGj,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0062,HXeKdH HpH uELaEjZRTi APQVWVLaXP,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0025,rnyLGppRKf umgkXXkAPc HSLhAM FSW,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0023,SMRvwuckNm WgcXiyjrAW gye AGgyHP,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0039,mf rBaemHv NfJfpmgaxs VvPnWegQAt,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0026,fgsgSTP Hh wCmbDzGCeD WcrfjcmygT,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0053,RzNavBCA fEUBiiYmQt vmpNKaTDFL,,30,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0086,ZiMDCk jFM JCfgUNGAzP BfuGhGfNfy,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0068,knxHsEGuVt ZmVeuvuikb yQKp dBYDL,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0080,ADgtQTysre xEvvygXxcB nxCSgPE sZ,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0045,EARthsNXfm uaexcvfkFe yYuyxipvGa,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0043,PiheFtmsCD sxNPNYTCjb NHi tSCkFp,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0005,hiKmkPxhRB kEgSRxZfWg qeFmmEPqz,,31,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0070,mUHazDRiZj uMBvpJQcNd gQeYAHniqZ,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0078,zWhTDcGgBh NViPqrNQvC wdpeamaBFp,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0031,nyNFPSnhQi hbpyetekUT B sAtSBvWK,,32,1.0,1.0,0.0,1.0,0.0
+7,Blurred input,verdanaRef_0003,RLzEHciLZm kwujTdUCtM xKnvQ GsWx,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0043,HbLuWuYHBe wzMWWdbUzK ffNPevwtxC,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0042,HNnQMHhAXG UsJsmbLftg fVtZPeAWRH,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0092,DVEt XbAUN cacCcqmGyL drKkQkgiMr,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0010,nYswfzJggZ txhjgWQSwt i EcBUxzeM,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0066,UxZeKttTbX qrjthdHXxV SDSABZdqnq,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0051,GFBB MSNm sgwtUeUKbk ZqAUUjRzRF,,31,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0002,ezKhFmTfNe nunyKGsjkV zJeCWQQnGj,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0071,QrMgMXTPnS zycuAWTUHw yVwEMzRkeR,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0016,HaHWQpUjtt FWydCWXSND Z AwCZWvUg,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0079,DxxxgzNHax mnjpSSTjZp MHCX tmsRu,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0074,xqDQLvQPKK ZUVNkBFHQc p GcFkumev,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0011,EJbtgShLjs tKKhZKsAmA rTVeVudyia,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0056,HFmLuREXgP xaYxQfAjgj AxXirMVXaa,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0057,aXkikXxJAQ yGvGfeQpsV JHEXCjVGuW,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0073,sgBey CZUC LLxsAcmWQW bttWXRrdza,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0046,Uma Ne nkZ DGzFsWApNV b bDzydUQh,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0049,rkBSSsWzKG nKgHQdMrHU TnvpnGQPBs,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0093,pDfYcDfTGB yjTuGqRERj EnymLMWgaF,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0077,UmvtuRtSye kavfkSNBMz NzFDXCyNdy,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,timesR_0038,AkAqKwrsQR AybmrhJQWp wXsFTSKeW,,31,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0058,tVmvZResSM kXfLQzQzQZ WnrekBzegm,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0027,uXtiBGTYci sHsUNwsdXL Pp SRYwte,,31,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0006,xmivYrgmtN mssVqAqnJg nM VqqYZDa,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0014,pqrWSnrWZS RLXSvTPksm bqebpSJtGj,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0062,HXeKdH HpH uELaEjZRTi APQVWVLaXP,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0025,rnyLGppRKf umgkXXkAPc HSLhAM FSW,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0023,SMRvwuckNm WgcXiyjrAW gye AGgyHP,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0039,mf rBaemHv NfJfpmgaxs VvPnWegQAt,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0026,fgsgSTP Hh wCmbDzGCeD WcrfjcmygT,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0053,RzNavBCA fEUBiiYmQt vmpNKaTDFL,,30,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0086,ZiMDCk jFM JCfgUNGAzP BfuGhGfNfy,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0068,knxHsEGuVt ZmVeuvuikb yQKp dBYDL,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0080,ADgtQTysre xEvvygXxcB nxCSgPE sZ,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0045,EARthsNXfm uaexcvfkFe yYuyxipvGa,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0043,PiheFtmsCD sxNPNYTCjb NHi tSCkFp,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0005,hiKmkPxhRB kEgSRxZfWg qeFmmEPqz,,31,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0070,mUHazDRiZj uMBvpJQcNd gQeYAHniqZ,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0078,zWhTDcGgBh NViPqrNQvC wdpeamaBFp,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0031,nyNFPSnhQi hbpyetekUT B sAtSBvWK,,32,1.0,1.0,0.0,1.0,0.0
+7,Pretrained Restormer,verdanaRef_0003,RLzEHciLZm kwujTdUCtM xKnvQ GsWx,,32,1.0,1.0,0.0,1.0,0.0
+7,Fine-tuned Restormer,timesR_0043,HbLuWuYHBe wzMWWdbUzK ffNPevwtxC,[lLuWuYHBc' Mz MWdbU;K PenwtxC,12,0.375,1.3333333333333333,0.0,0.0,0.625
+7,Fine-tuned Restormer,timesR_0042,HNnQMHhAXG UsJsmbLftg fVtZPeAWRH,IN HQMHAXG UsJsmbLllk PGA I ZI,17,0.53125,2.0,0.0,0.0,0.46875
+7,Fine-tuned Restormer,timesR_0092,DVEt XbAUN cacCcqmGyL drKkQkgiMr,DIL XhAUN cacCemGyL di ~kQkgiMr,9,0.28125,1.25,0.0,0.0,0.71875
+7,Fine-tuned Restormer,timesR_0010,nYswfzJggZ txhjgWQSwt i EcBUxzeM,[LYswGJj'g LhjeWQS#z i EcEUx M,15,0.46875,1.0,0.0,0.0,0.53125
+7,Fine-tuned Restormer,timesR_0066,UxZeKttTbX qrjthdHXxV SDSABZdqnq,UxZcKuZBX qjtdlEX V SDSABZdynq,11,0.34375,1.3333333333333333,0.0,0.0,0.65625
+7,Fine-tuned Restormer,timesR_0051,GFBB MSNm sgwtUeUKbk ZqAUUjRzRF,GFEB MSNm Sgw UcUKbk ZqAUUjRZRF,5,0.16129032258064516,1.0,0.0,0.0,0.8387096774193549
+7,Fine-tuned Restormer,timesR_0002,ezKhFmTfNe nunyKGsjkV zJeCWQQnGj,"""KhFm]fNe (llYKGsjl V JeCWQQn Gj",11,0.34375,1.6666666666666667,0.0,0.0,0.65625
+7,Fine-tuned Restormer,timesR_0071,QrMgMXTPnS zycuAWTUHw yVwEMzRkeR,QMeMCXTPnS LycuA WTUIIw 4 EMZRkcR,12,0.375,1.6666666666666667,0.0,0.0,0.6363636363636364
+7,Fine-tuned Restormer,timesR_0016,HaHWQpUjtt FWydCWXSND Z AwCZWvUg,Iul IWQpUjtt FWydCXSND 7 AwCZWv Uy,9,0.28125,1.5,0.0,0.0,0.7352941176470589
+7,Fine-tuned Restormer,timesR_0079,DxxxgzNHax mnjpSSTjZp MHCX tmsRu,DzYzN[Lx [jpSSTjZp NFICX tulsRu,13,0.40625,1.0,0.0,0.0,0.59375
+7,Fine-tuned Restormer,timesR_0074,xqDQLvQPKK ZUVNkBFHQc p GcFkumev,xcDQLvQPKK ZUFNKEFITQc D GeFklncv,11,0.34375,1.0,0.0,0.0,0.6666666666666667
+7,Fine-tuned Restormer,timesR_0011,EJbtgShLjs tKKhZKsAmA rTVeVudyia,EJbl SILjs LKKhZKsAlA [T Vudyia,8,0.25,1.6666666666666667,0.0,0.0,0.75
+7,Fine-tuned Restormer,timesR_0056,HFmLuREXgP xaYxQfAjgj AxXirMVXaa,IifLJ GP xaYxOLAjej Xirk Xaa,15,0.46875,1.6666666666666667,0.0,0.0,0.53125
+7,Fine-tuned Restormer,timesR_0057,aXkikXxJAQ yGvGfeQpsV JHEXCjVGuW,aLkikXJJAC yGvGleQps JI {CJVGuW,9,0.28125,1.3333333333333333,0.0,0.0,0.71875
+7,Fine-tuned Restormer,timesR_0073,sgBey CZUC LLxsAcmWQW bttWXRrdza,S_Bey CZUC LLxsAcw' QW hle XRrdza,9,0.28125,1.25,0.0,0.0,0.7272727272727273
+7,Fine-tuned Restormer,timesR_0046,Uma Ne nkZ DGzFsWApNV b bDzydUQh,Um Ne IIkZ DGzTsWApN b bDzydUQl=,7,0.21875,0.6666666666666666,0.0,0.0,0.78125
+7,Fine-tuned Restormer,timesR_0049,rkBSSsWzKG nKgHQdMrHU TnvpnGQPBs,IKESSSRZKG IaIIQdMIIU TuvpnGQPEs,14,0.4375,1.0,0.0,0.0,0.5625
+7,Fine-tuned Restormer,timesR_0093,pDfYcDfTGB yjTuGqRERj EnymLMWgaF,DDfYDITCB sjTuGcRCRj EnyLMWWgaF,9,0.28125,1.0,0.0,0.0,0.71875
+7,Fine-tuned Restormer,timesR_0077,UmvtuRtSye kavfkSNBMz NzFDXCyNdy,UmvLuRSyc kav#SNBNZ N;FDX U Ndy,11,0.34375,1.6666666666666667,0.0,0.0,0.65625
+7,Fine-tuned Restormer,timesR_0038,AkAqKwrsQR AybmrhJQWp wXsFTSKeW,AkAcjKwrsQR AybLJQWp sFTSKcW,8,0.25806451612903225,1.0,0.0,0.0,0.7419354838709677
+7,Fine-tuned Restormer,verdanaRef_0058,tVmvZResSM kXfLQzQzQZ WnrekBzegm,tvmvzResSM XiLQzQzQz WnrekBzegm,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+7,Fine-tuned Restormer,verdanaRef_0027,uXtiBGTYci sHsUNwsdXL Pp SRYwte,uXiiBGTYcl sHsUIwscXL Pp SRYwte,4,0.12903225806451613,0.5,0.0,0.0,0.8709677419354839
+7,Fine-tuned Restormer,verdanaRef_0006,xmivYrgmtN mssVqAqnJg nM VqqYZDa,xnivYrantN nSsVqAqnJg nM VqqYZDa,5,0.15625,0.5,0.0,0.0,0.84375
+7,Fine-tuned Restormer,verdanaRef_0014,pqrWSnrWZS RLXSvTPksm bqebpSJtGj,pgrWSnrwzs RLXSvTPksm bqebpSJtoj,5,0.15625,0.6666666666666666,0.0,0.0,0.84375
+7,Fine-tuned Restormer,verdanaRef_0062,HXeKdH HpH uELaEjZRTi APQVWVLaXP,HXekdH HpH UELaBJZRTI APQWVLaX?,7,0.21875,0.75,0.0,0.0,0.78125
+7,Fine-tuned Restormer,verdanaRef_0025,rnyLGppRKf umgkXXkAPc HSLhAM FSW,rnylGppRKf umgk kAPC HSLhAM FSW,4,0.125,0.75,0.0,0.0,0.875
+7,Fine-tuned Restormer,verdanaRef_0023,SMRvwuckNm WgcXiyjrAW gye AGgyHP,SMRvwuckNrz 'gcXlyjrAw gye AGgyHP,5,0.15625,0.5,0.0,0.0,0.8484848484848485
+7,Fine-tuned Restormer,verdanaRef_0039,mf rBaemHv NfJfpmgaxs VvPnWegQAt,mf rBaemHv Nflfpmgaxs VvPnWegQAt,1,0.03125,0.25,0.0,0.0,0.96875
+7,Fine-tuned Restormer,verdanaRef_0026,fgsgSTP Hh wCmbDzGCeD WcrfjcmygT,fgsg STP Hh wCmbDzGCeD WcrijcmygT,2,0.0625,0.75,0.0,0.0,0.9393939393939394
+7,Fine-tuned Restormer,verdanaRef_0053,RzNavBCA fEUBiiYmQt vmpNKaTDFL,RZNavBCA fEUBliYmQt vm pNKaTDFL,3,0.1,1.3333333333333333,0.0,0.0,0.9032258064516129
+7,Fine-tuned Restormer,verdanaRef_0086,ZiMDCk jFM JCfgUNGAzP BfuGhGfNfy,ZildCk JFM JCfgUNGAzP EfuGhGiN,7,0.21875,0.75,0.0,0.0,0.78125
+7,Fine-tuned Restormer,verdanaRef_0068,knxHsEGuVt ZmVeuvuikb yQKp dBYDL,knxHsEGuVt ZmVeuvulkb YQKp dBYDL,2,0.0625,0.5,0.0,0.0,0.9375
+7,Fine-tuned Restormer,verdanaRef_0080,ADgtQTysre xEvvygXxcB nxCSgPE sZ,KDgtQTysre xEvVYGXXcB nxCSgPE SZ,6,0.1875,0.75,0.0,0.0,0.8125
+7,Fine-tuned Restormer,verdanaRef_0045,EARthsNXfm uaexcvfkFe yYuyxipvGa,EARahsNXfm uaexcvfkFe yYuyxipvGa,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+7,Fine-tuned Restormer,verdanaRef_0043,PiheFtmsCD sxNPNYTCjb NHi tSCkFp,PiheFt sCD SYNPNYTCjb NHI tSCkFp,4,0.125,1.0,0.0,0.0,0.875
+7,Fine-tuned Restormer,verdanaRef_0005,hiKmkPxhRB kEgSRxZfWg qeFmmEPqz,hlkmkPxhRB kEgSRxZFNg qeFmmEPqz,4,0.12903225806451613,0.6666666666666666,0.0,0.0,0.8709677419354839
+7,Fine-tuned Restormer,verdanaRef_0070,mUHazDRiZj uMBvpJQcNd gQeYAHniqZ,nUHazDRIZj uMIBvpJQcNd gQeYAHniqz,4,0.125,1.0,0.0,0.0,0.8787878787878788
+7,Fine-tuned Restormer,verdanaRef_0078,zWhTDcGgBh NViPqrNQvC wdpeamaBFp,ZWhTDcGgEh NViPqrNQvC wdpeamaBFp,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+7,Fine-tuned Restormer,verdanaRef_0031,nyNFPSnhQi hbpyetekUT B sAtSBvWK,nyNFPSnhqi hbpyetekUt B sAiSBvWK,3,0.09375,0.75,0.0,0.0,0.90625
+7,Fine-tuned Restormer,verdanaRef_0003,RLzEHciLZm kwujTdUCtM xKnvQ GsWx,RLZEHciLZm kwujTdUCtM xKnvQ Gsui'x,4,0.125,0.5,0.0,0.0,0.8823529411764706
+8,Sharp GT (upper bound),timesR_0043,NxXTb eivb cSkqHazuBz MtUxbTnEfb,N XTb eivb cSkqHazuBz MtUxbTnEfb,1,0.03125,0.5,0.0,0.0,0.96875
+8,Sharp GT (upper bound),timesR_0042,PJeigqusxJ fbbeXGtDyX pcwgxNWcFP,PJeigqus fbbeXGtDy) pc ZXNV cFP,8,0.25,1.6666666666666667,0.0,0.0,0.75
+8,Sharp GT (upper bound),timesR_0092,thAdTHqk x ZGDuQpvkFN tNYZhWsaDE,thAdTHgk ZGDuQpvkFN tNYZhWsaDE,3,0.09375,0.5,0.0,0.0,0.90625
+8,Sharp GT (upper bound),timesR_0010,tfb hbVLgA LdpdxSepyY QbnQHAGhj,tfb hbVLg LdpdxSepyY QbnQHAGhj,1,0.03225806451612903,0.25,0.0,0.0,0.967741935483871
+8,Sharp GT (upper bound),timesR_0066,pcBmgADXqp MhzBMqSdJp JSQyFEkfAm,pcBmgADXqp MhzBMqSdJp JSQyFEkfAm,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),timesR_0051,eLszDydyeD ERegkwKDXu NyWiVNRXVH,eLszDydyeD ERegk W KDXu Ny iVNRXVH,4,0.125,1.6666666666666667,0.0,0.0,0.8823529411764706
+8,Sharp GT (upper bound),timesR_0002,swQXxHXgTF EdbXPPQzEq WHc pXEvQL,M xHXgTF EdbXPPQzEq Hc pXEve OL,8,0.25,1.25,0.0,0.0,0.75
+8,Sharp GT (upper bound),timesR_0071,qRpdCWtwuT ZZevemrtWa jatuGLHrFB,qRpdC twuT ZZevemrt N a jatuGLHrFB,4,0.125,1.6666666666666667,0.0,0.0,0.8823529411764706
+8,Sharp GT (upper bound),timesR_0016,grwah ksrZ sYpqvASPFp vEDjQH dvW,grwah ksrZ sYpq ASPFp vEDjQH dv,2,0.0625,0.6,0.0,0.0,0.9375
+8,Sharp GT (upper bound),timesR_0079,BHrUhYmxsL rwBmApZQFm WYPTPWC tm,BHrUhYmxsL W BmApZQFm YPTPWC tm,3,0.09375,0.75,0.0,0.0,0.90625
+8,Sharp GT (upper bound),timesR_0074,UKsrVJJuFn CKdkUBiYej Bc zyNVu x,UKsrVJJuFn CKdkUBiYej Bc ZyNVu,3,0.09375,0.4,0.0,0.0,0.90625
+8,Sharp GT (upper bound),timesR_0011,wZNdTCbGEE LpncNcSmfc cJVFfSbEyk,ZNdTCbGEE LpncNcSmfc cJVFfSbEyk,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Sharp GT (upper bound),timesR_0056,uQpLjrJKZ gMbxittLNN XsdeckGuL,U' QpLjrJKZ gMbxittLNN XsdeckGuL,3,0.1,0.6666666666666666,0.0,0.0,0.90625
+8,Sharp GT (upper bound),timesR_0057,TetyUf cSA SbidRGuyWp DmVwwQdzDz,TetyUf cSA SbidRGuy Yp Dm OdzDz,6,0.1875,1.0,0.0,0.0,0.8125
+8,Sharp GT (upper bound),timesR_0073,AQcNRHqQSM EprjTgeexK kRrY uXigU,AQcNRHqQSM EprjTgeexK kRrY U igU,2,0.0625,0.5,0.0,0.0,0.9375
+8,Sharp GT (upper bound),timesR_0046,jCXY PKSXf JHbyFDKXUd RmwCtnmWgq,jCXY PKSXf JHbyFDKXUd RmwCtnm gq,1,0.03125,0.5,0.0,0.0,0.96875
+8,Sharp GT (upper bound),timesR_0049,MGaQuyDpBx UimxNPCFaG LtJRcyKMAa,MGaQuyDpBx UimxNPCFaG LtJRcyKMAa,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),timesR_0093,kEUDANGApb NbnpPMAdiQ VeHfuLW RU,kEUDANGApb NbnpPMAdiQ VeHfuLI RU,1,0.03125,0.25,0.0,0.0,0.96875
+8,Sharp GT (upper bound),timesR_0077,ahHKSTUEiw XdPwLDDiPr umiACiwcUJ,ahHKSTUEiw XdPwLDDiPr umiACi W cUJ,3,0.09375,1.0,0.0,0.0,0.9117647058823529
+8,Sharp GT (upper bound),timesR_0038,SxDXgYHVGu kMWqTMcnpq LYuniJHAET,SxDXgYHVGu kM qTMcnpq LYuniJHAET,1,0.03125,0.6666666666666666,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0058,dGtFPggcHr xPcpVWJCzC CrGVUcX EC,dGtFPggcHr xPcp WJCzC CrGVUcX EC,1,0.03125,0.5,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0027,ajahzNDcs MVayGUguBX MErfbHdXbq,ajahzNDcs MVayGUguBX MErfbHdXbq,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),verdanaRef_0006,Gjiqjm UMJ LFAWyNEEFR gmL LPLxuD,Gjiqjm UMJ LFAW VNEEFR gmL LPLXUD,4,0.125,0.6,0.0,0.0,0.8787878787878788
+8,Sharp GT (upper bound),verdanaRef_0014,nzkpgvuKJk RfRdseKKxH hDvfNtzAJn,nzkpgvuKJk RfRdseKKxH hDvfNtzAJn,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),verdanaRef_0062,ETLVweiLny DJedpGPdte TPF vLj Lv,ETL weiLn DJedpGPdte TPF Lj Lv,3,0.09375,0.6,0.0,0.0,0.90625
+8,Sharp GT (upper bound),verdanaRef_0025,EwpytDEsjs TmHUMsmVxr HKLwTtsjJR,"EwpytDEsjs TmHUMsm"" Xr HKLwTtsjJR",3,0.09375,0.6666666666666666,0.0,0.0,0.9090909090909091
+8,Sharp GT (upper bound),verdanaRef_0023,YVVpmKTgPB sXeCkFbKQC RTTsspZDmt,VpmKTgPB sXeCkFbKQc RTTsspZDmt,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+8,Sharp GT (upper bound),verdanaRef_0039,gkYbf QfjB bvGcaejaeY dTHRbnmCM,gkYbf QfjB bvGcaejaey dTHRbnmcM,2,0.06451612903225806,0.5,0.0,0.0,0.935483870967742
+8,Sharp GT (upper bound),verdanaRef_0026,yCRADCcdev pKtPdisJbp fmPbYcgNeY,YCRADCcdev pKtPdisJbp fmPbYcgNey,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+8,Sharp GT (upper bound),verdanaRef_0053,rXBeg uXVX cjJXKuDkYn cVXLNyyTVC,rXBeg UY cjJXKuDkYn cl XLNy) TVC,8,0.25,1.0,0.0,0.0,0.75
+8,Sharp GT (upper bound),verdanaRef_0086,tkNeGjPQYw sCJDfdXMPM wArSCuZsdc,tkNeGjPQY SCJDfdXMPM NArSCuzsdc,4,0.125,1.0,0.0,0.0,0.875
+8,Sharp GT (upper bound),verdanaRef_0068,pNzMhtvJTx NwAvUHPYap kNfKeuirRS,pNzMhtvJT NwAvUHPYap kNfKeuirRS,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0080,SDxnLXTez GxwygWHcgV LKpvR Veht,"SDxnLXTez G} YgWHcg"" LKpvR Veht",4,0.12903225806451613,0.5,0.0,0.0,0.8709677419354839
+8,Sharp GT (upper bound),verdanaRef_0045,ehveExCBhc reSPURuRXD agSTLjaSkb,ehveExCBhc reSPURuRXD agSTLjaSkb,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),verdanaRef_0043,dnSDp Ft D RsjHCEBjTR ucvpUwxXki,dnSDp Ft D RsjHCEBjTR ucvpUw Xki,1,0.03125,0.4,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0005,qxBDzaJHSk BFzarxACsc guBwzuQGkZ,qxBDzaJHSk BFzarxACsc guBwzuQGkz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0070,dNBcFrXezP HCGDSDkDaD MgaFVmvXFN,dNBcFrXezP HCGDSDkDaD MgaFVmvXFN,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),verdanaRef_0078,ffUSfrpNZK LZfvZDPKtd PLPnYtTRvS,ffUSfrpNZK LZfvZDPKtd PLPnYtTRvs,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Sharp GT (upper bound),verdanaRef_0031,J pTGJUf h yrqJbDGmYB uCAqPpKAir,J pTGJUf h yrqJbDGmYB uCAqPpKAir,0,0.0,0.0,1.0,0.0,1.0
+8,Sharp GT (upper bound),verdanaRef_0003,tPpVTuwKQC RqcvEJGCDU qdJEuWLgbF,tPpVTuwKQc RqcvEJGCDU qdJEuWLgbF,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Blurred input,timesR_0043,NxXTb eivb cSkqHazuBz MtUxbTnEfb,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0042,PJeigqusxJ fbbeXGtDyX pcwgxNWcFP,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0092,thAdTHqk x ZGDuQpvkFN tNYZhWsaDE,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0010,tfb hbVLgA LdpdxSepyY QbnQHAGhj,,31,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0066,pcBmgADXqp MhzBMqSdJp JSQyFEkfAm,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0051,eLszDydyeD ERegkwKDXu NyWiVNRXVH,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0002,swQXxHXgTF EdbXPPQzEq WHc pXEvQL,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0071,qRpdCWtwuT ZZevemrtWa jatuGLHrFB,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0016,grwah ksrZ sYpqvASPFp vEDjQH dvW,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0079,BHrUhYmxsL rwBmApZQFm WYPTPWC tm,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0074,UKsrVJJuFn CKdkUBiYej Bc zyNVu x,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0011,wZNdTCbGEE LpncNcSmfc cJVFfSbEyk,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0056,uQpLjrJKZ gMbxittLNN XsdeckGuL,,30,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0057,TetyUf cSA SbidRGuyWp DmVwwQdzDz,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0073,AQcNRHqQSM EprjTgeexK kRrY uXigU,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0046,jCXY PKSXf JHbyFDKXUd RmwCtnmWgq,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0049,MGaQuyDpBx UimxNPCFaG LtJRcyKMAa,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0093,kEUDANGApb NbnpPMAdiQ VeHfuLW RU,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0077,ahHKSTUEiw XdPwLDDiPr umiACiwcUJ,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,timesR_0038,SxDXgYHVGu kMWqTMcnpq LYuniJHAET,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0058,dGtFPggcHr xPcpVWJCzC CrGVUcX EC,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0027,ajahzNDcs MVayGUguBX MErfbHdXbq,,31,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0006,Gjiqjm UMJ LFAWyNEEFR gmL LPLxuD,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0014,nzkpgvuKJk RfRdseKKxH hDvfNtzAJn,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0062,ETLVweiLny DJedpGPdte TPF vLj Lv,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0025,EwpytDEsjs TmHUMsmVxr HKLwTtsjJR,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0023,YVVpmKTgPB sXeCkFbKQC RTTsspZDmt,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0039,gkYbf QfjB bvGcaejaeY dTHRbnmCM,,31,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0026,yCRADCcdev pKtPdisJbp fmPbYcgNeY,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0053,rXBeg uXVX cjJXKuDkYn cVXLNyyTVC,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0086,tkNeGjPQYw sCJDfdXMPM wArSCuZsdc,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0068,pNzMhtvJTx NwAvUHPYap kNfKeuirRS,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0080,SDxnLXTez GxwygWHcgV LKpvR Veht,,31,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0045,ehveExCBhc reSPURuRXD agSTLjaSkb,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0043,dnSDp Ft D RsjHCEBjTR ucvpUwxXki,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0005,qxBDzaJHSk BFzarxACsc guBwzuQGkZ,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0070,dNBcFrXezP HCGDSDkDaD MgaFVmvXFN,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0078,ffUSfrpNZK LZfvZDPKtd PLPnYtTRvS,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0031,J pTGJUf h yrqJbDGmYB uCAqPpKAir,,32,1.0,1.0,0.0,1.0,0.0
+8,Blurred input,verdanaRef_0003,tPpVTuwKQC RqcvEJGCDU qdJEuWLgbF,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0043,NxXTb eivb cSkqHazuBz MtUxbTnEfb,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0042,PJeigqusxJ fbbeXGtDyX pcwgxNWcFP,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0092,thAdTHqk x ZGDuQpvkFN tNYZhWsaDE,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0010,tfb hbVLgA LdpdxSepyY QbnQHAGhj,,31,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0066,pcBmgADXqp MhzBMqSdJp JSQyFEkfAm,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0051,eLszDydyeD ERegkwKDXu NyWiVNRXVH,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0002,swQXxHXgTF EdbXPPQzEq WHc pXEvQL,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0071,qRpdCWtwuT ZZevemrtWa jatuGLHrFB,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0016,grwah ksrZ sYpqvASPFp vEDjQH dvW,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0079,BHrUhYmxsL rwBmApZQFm WYPTPWC tm,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0074,UKsrVJJuFn CKdkUBiYej Bc zyNVu x,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0011,wZNdTCbGEE LpncNcSmfc cJVFfSbEyk,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0056,uQpLjrJKZ gMbxittLNN XsdeckGuL,,30,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0057,TetyUf cSA SbidRGuyWp DmVwwQdzDz,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0073,AQcNRHqQSM EprjTgeexK kRrY uXigU,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0046,jCXY PKSXf JHbyFDKXUd RmwCtnmWgq,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0049,MGaQuyDpBx UimxNPCFaG LtJRcyKMAa,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0093,kEUDANGApb NbnpPMAdiQ VeHfuLW RU,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0077,ahHKSTUEiw XdPwLDDiPr umiACiwcUJ,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,timesR_0038,SxDXgYHVGu kMWqTMcnpq LYuniJHAET,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0058,dGtFPggcHr xPcpVWJCzC CrGVUcX EC,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0027,ajahzNDcs MVayGUguBX MErfbHdXbq,,31,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0006,Gjiqjm UMJ LFAWyNEEFR gmL LPLxuD,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0014,nzkpgvuKJk RfRdseKKxH hDvfNtzAJn,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0062,ETLVweiLny DJedpGPdte TPF vLj Lv,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0025,EwpytDEsjs TmHUMsmVxr HKLwTtsjJR,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0023,YVVpmKTgPB sXeCkFbKQC RTTsspZDmt,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0039,gkYbf QfjB bvGcaejaeY dTHRbnmCM,,31,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0026,yCRADCcdev pKtPdisJbp fmPbYcgNeY,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0053,rXBeg uXVX cjJXKuDkYn cVXLNyyTVC,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0086,tkNeGjPQYw sCJDfdXMPM wArSCuZsdc,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0068,pNzMhtvJTx NwAvUHPYap kNfKeuirRS,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0080,SDxnLXTez GxwygWHcgV LKpvR Veht,,31,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0045,ehveExCBhc reSPURuRXD agSTLjaSkb,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0043,dnSDp Ft D RsjHCEBjTR ucvpUwxXki,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0005,qxBDzaJHSk BFzarxACsc guBwzuQGkZ,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0070,dNBcFrXezP HCGDSDkDaD MgaFVmvXFN,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0078,ffUSfrpNZK LZfvZDPKtd PLPnYtTRvS,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0031,J pTGJUf h yrqJbDGmYB uCAqPpKAir,,32,1.0,1.0,0.0,1.0,0.0
+8,Pretrained Restormer,verdanaRef_0003,tPpVTuwKQC RqcvEJGCDU qdJEuWLgbF,,32,1.0,1.0,0.0,1.0,0.0
+8,Fine-tuned Restormer,timesR_0043,NxXTb eivb cSkqHazuBz MtUxbTnEfb,NAXTb ej b cSkqHaBz Ni UxbHILlb,12,0.375,1.5,0.0,0.0,0.625
+8,Fine-tuned Restormer,timesR_0042,PJeigqusxJ fbbeXGtDyX pcwgxNWcFP,PJeirq Is)/ (hbxXGIUX PC#gNWcFP,15,0.46875,1.3333333333333333,0.0,0.0,0.53125
+8,Fine-tuned Restormer,timesR_0092,thAdTHqk x ZGDuQpvkFN tNYZhWsaDE,tluAdTHiyk x ZGLHQmFN LNYZhWs)E,12,0.375,0.75,0.0,0.0,0.625
+8,Fine-tuned Restormer,timesR_0010,tfb hbVLgA LdpdxSepyY QbnQHAGhj,Mb hb Lg IdpdxSxpy Qbn HGlij,11,0.3548387096774194,1.5,0.0,0.0,0.6451612903225806
+8,Fine-tuned Restormer,timesR_0066,pcBmgADXqp MhzBMqSdJp JSQyFEkfAm,xBungADXcpp MlvBllyScUp JSC VFEkLAm,17,0.53125,1.3333333333333333,0.0,0.0,0.5142857142857142
+8,Fine-tuned Restormer,timesR_0051,eLszDydyeD ERegkwKDXu NyWiVNRXVH,cl svDydycD) EKegkv KUXm N-WTVNK} LH,17,0.53125,2.0,0.0,0.0,0.5277777777777778
+8,Fine-tuned Restormer,timesR_0002,swQXxHXgTF EdbXPPQzEq WHc pXEvQL,swQXxiZXF[ [ FdbxPpGly WEc pX EvQI,16,0.5,1.5,0.0,0.0,0.5294117647058824
+8,Fine-tuned Restormer,timesR_0071,qRpdCWtwuT ZZevemrtWa jatuGLHrFB,4RpCWlini' LevcmWa jatnGLHcFB,14,0.4375,1.0,0.0,0.0,0.5625
+8,Fine-tuned Restormer,timesR_0016,grwah ksrZ sYpqvASPFp vEDjQH dvW,grwab koc sk pASPI p vED QH dWV,13,0.40625,1.6,0.0,0.0,0.59375
+8,Fine-tuned Restormer,timesR_0079,BHrUhYmxsL rwBmApZQFm WYPTPWC tm,BiTrUlikusL nv BAa{pZ cHIn WYPFPWC ti,19,0.59375,1.5,0.0,0.0,0.4864864864864865
+8,Fine-tuned Restormer,timesR_0074,UKsrVJJuFn CKdkUBiYej Bc zyNVu x,[K rf'Il: (KakU BiYcj Bc TSNu X,16,0.5,1.2,0.0,0.0,0.5
+8,Fine-tuned Restormer,timesR_0011,wZNdTCbGEE LpncNcSmfc cJVFfSbEyk,#ZNdFChGkE LpiNeSmlc cJVISbKyk,11,0.34375,1.0,0.0,0.0,0.65625
+8,Fine-tuned Restormer,timesR_0056,uQpLjrJKZ gMbxittLNN XsdeckGuL,MQpljuls EhibxiL N XsdockGuL,13,0.43333333333333335,1.3333333333333333,0.0,0.0,0.5666666666666667
+8,Fine-tuned Restormer,timesR_0057,TetyUf cSA SbidRGuyWp DmVwwQdzDz,TetvlJf cSA SbidRGuyWp TJiu VewOdDr,12,0.375,0.75,0.0,0.0,0.6571428571428571
+8,Fine-tuned Restormer,timesR_0073,AQcNRHqQSM EprjTgeexK kRrY uXigU,AQeNRyQSi Fprj QocAK kRrY uXigU,10,0.3125,0.75,0.0,0.0,0.6875
+8,Fine-tuned Restormer,timesR_0046,jCXY PKSXf JHbyFDKXUd RmwCtnmWgq,XY PKSX iihyF TJKAUd Rnwv CtuWgq,15,0.46875,1.5,0.0,0.0,0.53125
+8,Fine-tuned Restormer,timesR_0049,MGaQuyDpBx UimxNPCFaG LtJRcyKMAa,|iG_QuDDpCt (linxNP( FaG LuRc;KMAa,14,0.4375,1.3333333333333333,0.0,0.0,0.5882352941176471
+8,Fine-tuned Restormer,timesR_0093,kEUDANGApb NbnpPMAdiQ VeHfuLW RU,#FUIJANGAp b NhnpPMAdiQ VcHUULW RU,9,0.28125,1.0,0.0,0.0,0.7352941176470589
+8,Fine-tuned Restormer,timesR_0077,ahHKSTUEiw XdPwLDDiPr umiACiwcUJ,alKKSTEiw Xdk w) Jilr uuACiwcUJ,11,0.34375,1.6666666666666667,0.0,0.0,0.65625
+8,Fine-tuned Restormer,timesR_0038,SxDXgYHVGu kMWqTMcnpq LYuniJHAET,Sal)XgTHGI kMWyl Mcnpq LYuilfkAE?,14,0.4375,1.3333333333333333,0.0,0.0,0.5757575757575757
+8,Fine-tuned Restormer,verdanaRef_0058,dGtFPggcHr xPcpVWJCzC CrGVUcX EC,dGtFPggcrr xPcpVWJCzC CrGVUcX EC,1,0.03125,0.25,0.0,0.0,0.96875
+8,Fine-tuned Restormer,verdanaRef_0027,ajahzNDcs MVayGUguBX MErfbHdXbq,ajahzNDcs MvayGUguBX MErfbHdxbq,2,0.06451612903225806,0.6666666666666666,0.0,0.0,0.935483870967742
+8,Fine-tuned Restormer,verdanaRef_0006,Gjiqjm UMJ LFAWyNEEFR gmL LPLxuD,Gjiqjm UMJ LFAWVNEEFR gmL LPLxuD,1,0.03125,0.2,0.0,0.0,0.96875
+8,Fine-tuned Restormer,verdanaRef_0014,nzkpgvuKJk RfRdseKKxH hDvfNtzAJn,nzkpgvukak RfRdsekkd hBvfNtzAJn,7,0.21875,1.0,0.0,0.0,0.78125
+8,Fine-tuned Restormer,verdanaRef_0062,ETLVweiLny DJedpGPdte TPF vLj Lv,ETLVwelLny CJedpGPdte TPF vLj Lv,2,0.0625,0.4,0.0,0.0,0.9375
+8,Fine-tuned Restormer,verdanaRef_0025,EwpytDEsjs TmHUMsmVxr HKLwTtsjJR,EwpytoEsjs TmHUMsmvxr FKLw tsJR,5,0.15625,1.3333333333333333,0.0,0.0,0.84375
+8,Fine-tuned Restormer,verdanaRef_0023,YVVpmKTgPB sXeCkFbKQC RTTsspZDmt,Y pmKTgPB sXeCkFbKQc RTTsspZDmt,3,0.09375,1.0,0.0,0.0,0.90625
+8,Fine-tuned Restormer,verdanaRef_0039,gkYbf QfjB bvGcaejaeY dTHRbnmCM,gkybf QfjB bvGcaojaey d3RbnmcM,6,0.1935483870967742,0.75,0.0,0.0,0.8064516129032258
+8,Fine-tuned Restormer,verdanaRef_0026,yCRADCcdev pKtPdisJbp fmPbYcgNeY,YCRADCcdev pKtPdlsJbp fmPbcgNay,5,0.15625,1.0,0.0,0.0,0.84375
+8,Fine-tuned Restormer,verdanaRef_0053,rXBeg uXVX cjJXKuDkYn cVXLNyyTVC,rXBeg uXvX Cj-)KuDkYn cVXLNyyTVC,4,0.125,0.5,0.0,0.0,0.875
+8,Fine-tuned Restormer,verdanaRef_0086,tkNeGjPQYw sCJDfdXMPM wArSCuZsdc,tkNeGjPQYw sCJofdXMPM wArSCuzsdc,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+8,Fine-tuned Restormer,verdanaRef_0068,pNzMhtvJTx NwAvUHPYap kNfKeuirRS,pHzMhtvl: Y N wAvUkPYap kNKKeulrRS,9,0.28125,1.6666666666666667,0.0,0.0,0.7352941176470589
+8,Fine-tuned Restormer,verdanaRef_0080,SDxnLXTez GxwygWHcgV LKpvR Veht,SCxnLXTez GxwygWHcgV LKpvR Vaht,2,0.06451612903225806,0.5,0.0,0.0,0.935483870967742
+8,Fine-tuned Restormer,verdanaRef_0045,ehveExCBhc reSPURuRXD agSTLjaSkb,al1veExCBhc reSPURuRXD agSTLjaSkb,3,0.09375,0.3333333333333333,0.0,0.0,0.9090909090909091
+8,Fine-tuned Restormer,verdanaRef_0043,dnSDp Ft D RsjHCEBjTR ucvpUwxXki,dnSCp Ft I RsjHCEB;FR ucvpUwxXkl,5,0.15625,0.8,0.0,0.0,0.84375
+8,Fine-tuned Restormer,verdanaRef_0005,qxBDzaJHSk BFzarxACsc guBwzuQGkZ,qxBDzaJHSk BFzarxACsc guBwzuQGkz,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+8,Fine-tuned Restormer,verdanaRef_0070,dNBcFrXezP HCGDSDkDaD MgaFVmvXFN,dNBcFrXezP HCGDSDkCa) MgaFVmvXFN,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+8,Fine-tuned Restormer,verdanaRef_0078,ffUSfrpNZK LZfvZDPKtd PLPnYtTRvS,fTUSFrpNZK LZfvZDPKtd PLPnXtTRvS,3,0.09375,0.6666666666666666,0.0,0.0,0.90625
+8,Fine-tuned Restormer,verdanaRef_0031,J pTGJUf h yrqJbDGmYB uCAqPpKAir,J pTGJUf h yrq-bDGmYB UCAqPpKAir,2,0.0625,0.4,0.0,0.0,0.9375
+8,Fine-tuned Restormer,verdanaRef_0003,tPpVTuwKQC RqcvEJGCDU qdJEuWLgbF,tPpVTuwKQc RqcvEJGCDU qdJEUWLgbF,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+9,Sharp GT (upper bound),timesR_0043,HmvkvJmpiw CSqYgNRvYz wdLLEjkPSX,HmvkvJmpiv W ESqYgNRvYz VdLLEjkPSX,5,0.15625,1.3333333333333333,0.0,0.0,0.8529411764705882
+9,Sharp GT (upper bound),timesR_0042,ftiXWmi vZ GybkHZJURC rz YswYud,fti m vZ GybkHZJURC Iz Ysw Y ud,6,0.1935483870967742,1.2,0.0,0.0,0.8064516129032258
+9,Sharp GT (upper bound),timesR_0092,jEKFTRaGb vvupYytcuU QTQxSYZkMM,jEKFTRaGb upYytcuU OTOxSYZkMM,4,0.12903225806451613,0.6666666666666666,0.0,0.0,0.8709677419354839
+9,Sharp GT (upper bound),timesR_0010,YRjMkkFHiV NhupLegCFM uWZWHUEBpm,YRjMkkFHi NhupLegCFM U L HUEBpm,5,0.15625,1.3333333333333333,0.0,0.0,0.84375
+9,Sharp GT (upper bound),timesR_0066,cnKfKGQcPc SSStehYpxq UrbxrbWzPg,cnKfKGQcPc SSStehYpxq Urbxrb zPg,1,0.03125,0.6666666666666666,0.0,0.0,0.96875
+9,Sharp GT (upper bound),timesR_0051,tHUznjKeVU aWsrtdCNQB uSZQixifVk,tHUznjKeVU a srtdCNOB USZOixif Vk,5,0.15625,1.3333333333333333,0.0,0.0,0.8484848484848485
+9,Sharp GT (upper bound),timesR_0002,itCVcAeWfG RHLVUTNBDk UMPjXcUMyr,itCVcAeWfG RHLVUTNBDk UMPjXcUMyr,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),timesR_0071,kbSBPe vJg UDvktNkGpa wmx XGqWmw,kbSBPe vJg UDvktNkGpa IX XGq Il,6,0.1875,0.6,0.0,0.0,0.8125
+9,Sharp GT (upper bound),timesR_0016,naeryjHzvz CGApKkjnwp CbdSFwJcWv,naeryjHzvz CGApKkjnwp CbdSFwJc,2,0.0625,0.3333333333333333,0.0,0.0,0.9375
+9,Sharp GT (upper bound),timesR_0079,ChxHMknBBM gHLdssDvJP sFGbRFgGhx,ChxHMknBBM gHLdssDvJP sFGbRFgGhx,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),timesR_0074,QCFuZfhvBZ ZyDqhpjLxm HuttDWmRyc,OCFuZfhvBZ ZyDqhpjLxm HuttD mRyc,2,0.0625,1.0,0.0,0.0,0.9375
+9,Sharp GT (upper bound),timesR_0011,y GUdWgasK EWUfSxiXvs QGpKdRH uy,GUd gasK EWUfSxi VS QGpKdRH uy,6,0.1875,0.8,0.0,0.0,0.8125
+9,Sharp GT (upper bound),timesR_0056,esRrYfVUdY vELLYCLseL uNbkXTCnge,esRrYfVUdY VELLYCLseL uNbkXTCnge,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+9,Sharp GT (upper bound),timesR_0057,bXsU aWXQr cCKFERKdpm WHzwKXdvGj,bXsU a XOr cCKFERKdpm VHz KXdvGj,4,0.125,1.0,0.0,0.0,0.875
+9,Sharp GT (upper bound),timesR_0073,tyEQvtdiQB KzNwvMWjim CFrTMbugqt,tyEQvtdiQB KzN M jim CFrTMbugqt,3,0.09375,1.0,0.0,0.0,0.90625
+9,Sharp GT (upper bound),timesR_0046,vtUtQkfaXf wfcXBKbJwh QngRMqanan,vtUtOkfaXf wfcXBKbJwh ngRMqanan,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+9,Sharp GT (upper bound),timesR_0049,HJkDvFKAGf KvgkLbAkQP ZLYrmFfbKX,HJkDvFKAGf KvgkLbAkQP ZLYrmFfbKX,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),timesR_0093,EzCxCDKVbY BByehTmJLe naHZzGpsXq,EzCxCDKVbY BByehTmJLe naHZzGps Xq,1,0.03125,0.6666666666666666,0.0,0.0,0.9696969696969697
+9,Sharp GT (upper bound),timesR_0077,EiWHUTFcue MZxeqwnQSF jNUrBgdxar,EiWHUTFcue MZxeq- Wn OSF jNUrBgdxar,5,0.15625,1.0,0.0,0.0,0.8571428571428572
+9,Sharp GT (upper bound),timesR_0038,VCUeBCbRKN NPrjhBKupa xnCedY ZpX,CUeBCbRKN NPrjhBKupa Xn CedY Zp,4,0.125,1.0,0.0,0.0,0.875
+9,Sharp GT (upper bound),verdanaRef_0058,HrbCxJqfvs EjdUXYjwAn hmermUnDJD,HrbCxJqfvs EjdUXYjwAn hmermUnDJD,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0027,TySiEi bcJ PBVPLFkxss DUHZWpGuyh,TySiEi bc] PBVPLFkxss DUHZWpGuyh,1,0.03125,0.25,0.0,0.0,0.96875
+9,Sharp GT (upper bound),verdanaRef_0006,pJQkmefJ t sSftyxyTqN KZgZyPbmS,pJQkmef] t sSft TqN KZgZyPbms,5,0.16129032258064516,1.0,0.0,0.0,0.8387096774193549
+9,Sharp GT (upper bound),verdanaRef_0014,xaJEYqMDQq vaTsAKUeGx PfVGqQLSHj,XaJEYqMDQq vaTsAKUeGx PVGqQLSHj,2,0.0625,0.6666666666666666,0.0,0.0,0.9375
+9,Sharp GT (upper bound),verdanaRef_0062,zhcJTNxLvh fRkwjEUebG KEJQnjKPnm,zhcJTNxLvh fRkwjEUebG KEJQnjKPnm,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0025,XvFwSmnXia rGdQQaAxjL pyqyTuvhcC,vFwSmnXia rGdQQaAxjL pyqyTuvhcC,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+9,Sharp GT (upper bound),verdanaRef_0023,BXBWgieGkR jjRJxQnXRY eTuGpdXapg,BXBWgieGkR jjRJxQnXRY eTuGpdXapg,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0039,jqPFBVuUny gRGhbyztWW PpjeeaMWkq,jqPFBVuUny gRGhbyztw VN PpjeeaMWkq,4,0.125,0.6666666666666666,0.0,0.0,0.8823529411764706
+9,Sharp GT (upper bound),verdanaRef_0026,diuqF jBDJ AApzztJept cVPCCNtKXA,diuqF jBDJ AApzztJept cVPCCNtKXA,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0053,HWGmLM usF pEhEVPMqWa TQcj QsDbW,HWGmLM USF pEhE VPMqWa TQcj QsDbw,4,0.125,0.8,0.0,0.0,0.8787878787878788
+9,Sharp GT (upper bound),verdanaRef_0086,indKv kyAq AycvChbGHN EvXuQJtWTB,indKv kyAq YcVChbGHN EvXuQJtWTB,3,0.09375,0.25,0.0,0.0,0.90625
+9,Sharp GT (upper bound),verdanaRef_0068,fhvSUGTjMr MjEVaHNxER jdqu jg jG,fhvSUGTjMr MjEVaHNxER jdqu jg jG,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0080,shLxMqispL wjmPkvBxkG vkCuMiiDGu,shLxMqispL wjmPkvBxkG kCuMiiDGu,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+9,Sharp GT (upper bound),verdanaRef_0045,LyyspeXJTP sdtXMcfZVk DDtAMKzVtd,LyyspeXJTP sdtXMcfZVk DDtAMKzVtd,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0043,sTLpN TeG KMqwYGwNPs dtFDsRRvnM,sTLpN TeG KMqwYGwNPs dtFDsRRvnM,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0005,qrdWMefukU ybtHQxbuaA TPp WiraEA,qrdWMefukU ybtHQxbuaA TPp WiraEA,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0070,tBTHnbNSx YmFuJWZhmp rusYxUz aP,tBTHnbNSx YmFuJWZhmp rusYxUz aP,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0078,frLrqGxunr xJLqzpqsks dNpLZppyYn,frLrqGxunr XJLqzpqsks dNpLZppyYn,1,0.03125,0.3333333333333333,0.0,0.0,0.96875
+9,Sharp GT (upper bound),verdanaRef_0031,GBfaZQfnyu hTppjnUJrx iheSeXJNtq,GBfaZQfnyu hTppjnUJrx iheSeXJNtq,0,0.0,0.0,1.0,0.0,1.0
+9,Sharp GT (upper bound),verdanaRef_0003,gqMfsNSAmM vHZzWMhRKz LUCRnjk RJ,gqMfsNSAmM V HZzWMhRKz LUCRnjk RJ,2,0.0625,0.5,0.0,0.0,0.9393939393939394
+9,Blurred input,timesR_0043,HmvkvJmpiw CSqYgNRvYz wdLLEjkPSX,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0042,ftiXWmi vZ GybkHZJURC rz YswYud,,31,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0092,jEKFTRaGb vvupYytcuU QTQxSYZkMM,,31,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0010,YRjMkkFHiV NhupLegCFM uWZWHUEBpm,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0066,cnKfKGQcPc SSStehYpxq UrbxrbWzPg,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0051,tHUznjKeVU aWsrtdCNQB uSZQixifVk,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0002,itCVcAeWfG RHLVUTNBDk UMPjXcUMyr,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0071,kbSBPe vJg UDvktNkGpa wmx XGqWmw,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0016,naeryjHzvz CGApKkjnwp CbdSFwJcWv,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0079,ChxHMknBBM gHLdssDvJP sFGbRFgGhx,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0074,QCFuZfhvBZ ZyDqhpjLxm HuttDWmRyc,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0011,y GUdWgasK EWUfSxiXvs QGpKdRH uy,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0056,esRrYfVUdY vELLYCLseL uNbkXTCnge,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0057,bXsU aWXQr cCKFERKdpm WHzwKXdvGj,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0073,tyEQvtdiQB KzNwvMWjim CFrTMbugqt,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0046,vtUtQkfaXf wfcXBKbJwh QngRMqanan,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0049,HJkDvFKAGf KvgkLbAkQP ZLYrmFfbKX,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0093,EzCxCDKVbY BByehTmJLe naHZzGpsXq,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0077,EiWHUTFcue MZxeqwnQSF jNUrBgdxar,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,timesR_0038,VCUeBCbRKN NPrjhBKupa xnCedY ZpX,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0058,HrbCxJqfvs EjdUXYjwAn hmermUnDJD,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0027,TySiEi bcJ PBVPLFkxss DUHZWpGuyh,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0006,pJQkmefJ t sSftyxyTqN KZgZyPbmS,,31,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0014,xaJEYqMDQq vaTsAKUeGx PfVGqQLSHj,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0062,zhcJTNxLvh fRkwjEUebG KEJQnjKPnm,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0025,XvFwSmnXia rGdQQaAxjL pyqyTuvhcC,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0023,BXBWgieGkR jjRJxQnXRY eTuGpdXapg,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0039,jqPFBVuUny gRGhbyztWW PpjeeaMWkq,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0026,diuqF jBDJ AApzztJept cVPCCNtKXA,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0053,HWGmLM usF pEhEVPMqWa TQcj QsDbW,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0086,indKv kyAq AycvChbGHN EvXuQJtWTB,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0068,fhvSUGTjMr MjEVaHNxER jdqu jg jG,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0080,shLxMqispL wjmPkvBxkG vkCuMiiDGu,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0045,LyyspeXJTP sdtXMcfZVk DDtAMKzVtd,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0043,sTLpN TeG KMqwYGwNPs dtFDsRRvnM,,31,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0005,qrdWMefukU ybtHQxbuaA TPp WiraEA,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0070,tBTHnbNSx YmFuJWZhmp rusYxUz aP,,31,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0078,frLrqGxunr xJLqzpqsks dNpLZppyYn,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0031,GBfaZQfnyu hTppjnUJrx iheSeXJNtq,,32,1.0,1.0,0.0,1.0,0.0
+9,Blurred input,verdanaRef_0003,gqMfsNSAmM vHZzWMhRKz LUCRnjk RJ,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0043,HmvkvJmpiw CSqYgNRvYz wdLLEjkPSX,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0042,ftiXWmi vZ GybkHZJURC rz YswYud,,31,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0092,jEKFTRaGb vvupYytcuU QTQxSYZkMM,,31,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0010,YRjMkkFHiV NhupLegCFM uWZWHUEBpm,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0066,cnKfKGQcPc SSStehYpxq UrbxrbWzPg,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0051,tHUznjKeVU aWsrtdCNQB uSZQixifVk,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0002,itCVcAeWfG RHLVUTNBDk UMPjXcUMyr,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0071,kbSBPe vJg UDvktNkGpa wmx XGqWmw,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0016,naeryjHzvz CGApKkjnwp CbdSFwJcWv,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0079,ChxHMknBBM gHLdssDvJP sFGbRFgGhx,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0074,QCFuZfhvBZ ZyDqhpjLxm HuttDWmRyc,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0011,y GUdWgasK EWUfSxiXvs QGpKdRH uy,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0056,esRrYfVUdY vELLYCLseL uNbkXTCnge,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0057,bXsU aWXQr cCKFERKdpm WHzwKXdvGj,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0073,tyEQvtdiQB KzNwvMWjim CFrTMbugqt,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0046,vtUtQkfaXf wfcXBKbJwh QngRMqanan,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0049,HJkDvFKAGf KvgkLbAkQP ZLYrmFfbKX,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0093,EzCxCDKVbY BByehTmJLe naHZzGpsXq,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0077,EiWHUTFcue MZxeqwnQSF jNUrBgdxar,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,timesR_0038,VCUeBCbRKN NPrjhBKupa xnCedY ZpX,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0058,HrbCxJqfvs EjdUXYjwAn hmermUnDJD,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0027,TySiEi bcJ PBVPLFkxss DUHZWpGuyh,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0006,pJQkmefJ t sSftyxyTqN KZgZyPbmS,,31,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0014,xaJEYqMDQq vaTsAKUeGx PfVGqQLSHj,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0062,zhcJTNxLvh fRkwjEUebG KEJQnjKPnm,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0025,XvFwSmnXia rGdQQaAxjL pyqyTuvhcC,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0023,BXBWgieGkR jjRJxQnXRY eTuGpdXapg,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0039,jqPFBVuUny gRGhbyztWW PpjeeaMWkq,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0026,diuqF jBDJ AApzztJept cVPCCNtKXA,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0053,HWGmLM usF pEhEVPMqWa TQcj QsDbW,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0086,indKv kyAq AycvChbGHN EvXuQJtWTB,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0068,fhvSUGTjMr MjEVaHNxER jdqu jg jG,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0080,shLxMqispL wjmPkvBxkG vkCuMiiDGu,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0045,LyyspeXJTP sdtXMcfZVk DDtAMKzVtd,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0043,sTLpN TeG KMqwYGwNPs dtFDsRRvnM,,31,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0005,qrdWMefukU ybtHQxbuaA TPp WiraEA,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0070,tBTHnbNSx YmFuJWZhmp rusYxUz aP,,31,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0078,frLrqGxunr xJLqzpqsks dNpLZppyYn,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0031,GBfaZQfnyu hTppjnUJrx iheSeXJNtq,,32,1.0,1.0,0.0,1.0,0.0
+9,Pretrained Restormer,verdanaRef_0003,gqMfsNSAmM vHZzWMhRKz LUCRnjk RJ,,32,1.0,1.0,0.0,1.0,0.0
+9,Fine-tuned Restormer,timesR_0043,HmvkvJmpiw CSqYgNRvYz wdLLEjkPSX,Nimtvl SqY K= z #GLLEjPSX,18,0.5625,1.6666666666666667,0.0,0.0,0.4375
+9,Fine-tuned Restormer,timesR_0042,ftiXWmi vZ GybkHZJURC rz YswYud,liXWny vZ (i HZJLKC D YsrYi,15,0.4838709677419355,1.0,0.0,0.0,0.5161290322580645
+9,Fine-tuned Restormer,timesR_0092,jEKFTRaGb vvupYytcuU QTQxSYZkMM,LKFFKakh 17 stculj xS7Y Ekivild,25,0.8064516129032258,1.6666666666666667,0.0,0.0,0.19354838709677424
+9,Fine-tuned Restormer,timesR_0010,YRjMkkFHiV NhupLegCFM uWZWHUEBpm,xRM= FHiv #Lec kf IWZSTHUEBpm,16,0.5,1.6666666666666667,0.0,0.0,0.5
+9,Fine-tuned Restormer,timesR_0066,cnKfKGQcPc SSStehYpxq UrbxrbWzPg,"0,KikG SrchYpre] UxxrbWzk",19,0.59375,1.0,0.0,0.0,0.40625
+9,Fine-tuned Restormer,timesR_0051,tHUznjKeVU aWsrtdCNQB uSZQixifVk,t} [ znjKa 1 aWsTrd( NH} 0S/ ivk,20,0.625,2.6666666666666665,0.0,0.0,0.375
+9,Fine-tuned Restormer,timesR_0002,itCVcAeWfG RHLVUTNBDk UMPjXcUMyr,"irCVeA lvry {MV""J Vf}sk UMMX cyMj",23,0.71875,2.0,0.0,0.0,0.303030303030303
+9,Fine-tuned Restormer,timesR_0071,kbSBPe vJg UDvktNkGpa wmx XGqWmw,koSD vl UnkN= iu I) XGqWrrw,18,0.5625,1.2,0.0,0.0,0.4375
+9,Fine-tuned Restormer,timesR_0016,naeryjHzvz CGApKkjnwp CbdSFwJcWv,n-ICTIj: Jzsz GApk; (bdSFukWv,19,0.59375,1.3333333333333333,0.0,0.0,0.40625
+9,Fine-tuned Restormer,timesR_0079,ChxHMknBBM gHLdssDvJP sFGbRFgGhx,Cha6Mikln el dssl>vQ' s] 'GhR/i2GIcr,24,0.75,1.6666666666666667,0.0,0.0,0.33333333333333337
+9,Fine-tuned Restormer,timesR_0074,QCFuZfhvBZ ZyDqhpjLxm HuttDWmRyc,CCFiZ IHIa {x il K M DWmkyc,22,0.6875,2.3333333333333335,0.0,0.0,0.3125
+9,Fine-tuned Restormer,timesR_0011,y GUdWgasK EWUfSxiXvs QGpKdRH uy,GT;d FwUnrXvs (GpKdBlH uy,18,0.5625,0.8,0.0,0.0,0.4375
+9,Fine-tuned Restormer,timesR_0056,esRrYfVUdY vELLYCLseL uNbkXTCnge,t: oici L.LYC Li niXFCngc,23,0.71875,1.6666666666666667,0.0,0.0,0.28125
+9,Fine-tuned Restormer,timesR_0057,bXsU aWXQr cCKFERKdpm WHzwKXdvGj,{3 aVT C MIKKdi n WHaKXdrGj,19,0.59375,1.5,0.0,0.0,0.40625
+9,Fine-tuned Restormer,timesR_0073,tyEQvtdiQB KzNwvMWjim CFrTMbugqt,6t ' !Vdik;b K vMWiTl ('FfFl1kx-#,25,0.78125,2.0,0.0,0.0,0.24242424242424243
+9,Fine-tuned Restormer,timesR_0046,vtUtQkfaXf wfcXBKbJwh QngRMqanan,vi Ut X IXbkiJr;h #RMyxnn,21,0.65625,1.6666666666666667,0.0,0.0,0.34375
+9,Fine-tuned Restormer,timesR_0049,HJkDvFKAGf KvgkLbAkQP ZLYrmFfbKX,H_ XTK/;f Ki ki.hhfi;P 2LXmf mKX,22,0.6875,2.0,0.0,0.0,0.3125
+9,Fine-tuned Restormer,timesR_0093,EzCxCDKVbY BByehTmJLe naHZzGpsXq,TXTK'VX [;inrhlnLl) _ njijzipz' {4,30,0.9375,1.6666666666666667,0.0,0.0,0.11764705882352944
+9,Fine-tuned Restormer,timesR_0077,EiWHUTFcue MZxeqwnQSF jNUrBgdxar,[CTF ( pi_ Xccwm6S[ jNfJilzdr,25,0.78125,1.6666666666666667,0.0,0.0,0.21875
+9,Fine-tuned Restormer,timesR_0038,VCUeBCbRKN NPrjhBKupa xnCedY ZpX,"{""UcIChKN WPtfh W}Kr1 xledY ZpX",17,0.53125,1.0,0.0,0.0,0.46875
+9,Fine-tuned Restormer,verdanaRef_0058,HrbCxJqfvs EjdUXYjwAn hmermUnDJD,HrhCxdtns EldUX YjwAn hiermUnDJD,8,0.25,1.3333333333333333,0.0,0.0,0.75
+9,Fine-tuned Restormer,verdanaRef_0027,TySiEi bcJ PBVPLFkxss DUHZWpGuyh,T SiEl bcJ PBVPiFkxzs DUHZWpGuyh,4,0.125,0.75,0.0,0.0,0.875
+9,Fine-tuned Restormer,verdanaRef_0006,pJQkmefJ t sSftyxyTqN KZgZyPbmS,pJo Kme ] % sStty TqN KZgZyPbms,10,0.3225806451612903,1.75,0.0,0.0,0.6774193548387097
+9,Fine-tuned Restormer,verdanaRef_0014,xaJEYqMDQq vaTsAKUeGx PfVGqQLSHj,XJJEYqMD 29 vaTsAKUeGx PFMGg?LSHj,9,0.28125,1.0,0.0,0.0,0.7272727272727273
+9,Fine-tuned Restormer,verdanaRef_0062,zhcJTNxLvh fRkwjEUebG KEJQnjKPnm,zhclTNxlvh tlkjEUcbG KEJQnjKPnm,6,0.1875,0.6666666666666666,0.0,0.0,0.8125
+9,Fine-tuned Restormer,verdanaRef_0025,XvFwSmnXia rGdQQaAxjL pyqyTuvhcC,XPwSmriX;a rCdQzA L Pygilfuvhcc,16,0.5,1.3333333333333333,0.0,0.0,0.5
+9,Fine-tuned Restormer,verdanaRef_0023,BXBWgieGkR jjRJxQnXRY eTuGpdXapg,"6XSWgleciR Jj""Ux nxpy eTuGpdXapg",12,0.375,1.0,0.0,0.0,0.625
+9,Fine-tuned Restormer,verdanaRef_0039,jqPFBVuUny gRGhbyztWW PpjeeaMWkq,JoP-BvuUry 0ke GhbyzLw Ppjead Wkq,15,0.46875,1.6666666666666667,0.0,0.0,0.5454545454545454
+9,Fine-tuned Restormer,verdanaRef_0026,diuqF jBDJ AApzztJept cVPCCNtKXA,dluqF J6DJ AApzcpt cVPCCNtKxa,9,0.28125,1.0,0.0,0.0,0.71875
+9,Fine-tuned Restormer,verdanaRef_0053,HWGmLM usF pEhEVPMqWa TQcj QsDbW,KWGmLM u:7 pEhEVPKqWa TCe QDbw,9,0.28125,1.0,0.0,0.0,0.71875
+9,Fine-tuned Restormer,verdanaRef_0086,indKv kyAq AycvChbGHN EvXuQJtWTB,indKv kylq AyavChbGHN EvXuaJtWTTB,4,0.125,0.75,0.0,0.0,0.8787878787878788
+9,Fine-tuned Restormer,verdanaRef_0068,fhvSUGTjMr MjEVaHNxER jdqu jg jG,fh; SUGTj JEVJHMKER Jdqu jg JG,11,0.34375,1.0,0.0,0.0,0.65625
+9,Fine-tuned Restormer,verdanaRef_0080,shLxMqispL wjmPkvBxkG vkCuMiiDGu,shlxMqispL K 'jrPkvBxks Cumilngu,12,0.375,1.3333333333333333,0.0,0.0,0.625
+9,Fine-tuned Restormer,verdanaRef_0045,LyyspeXJTP sdtXMcfZVk DDtAMKzVtd,L; SpeXJtP sdtxilczVk DDtAp KzVtd,11,0.34375,1.6666666666666667,0.0,0.0,0.6666666666666667
+9,Fine-tuned Restormer,verdanaRef_0043,sTLpN TeG KMqwYGwNPs dtFDsRRvnM,sTLpN Tes 4 qWYGwiPs dtFDcRRvnm,7,0.22580645161290322,1.0,0.0,0.0,0.7741935483870968
+9,Fine-tuned Restormer,verdanaRef_0005,qrdWMefukU ybtHQxbuaA TPp WiraEA,"qrdw""efuku ybtHGxbuzA TPp WiraEA",5,0.15625,0.5,0.0,0.0,0.84375
+9,Fine-tuned Restormer,verdanaRef_0070,tBTHnbNSx YmFuJWZhmp rusYxUz aP,tBTHnblisx YmFuJWZhmp rusYxUz ap,4,0.12903225806451613,0.5,0.0,0.0,0.875
+9,Fine-tuned Restormer,verdanaRef_0078,frLrqGxunr xJLqzpqsks dNpLZppyYn,irLrqSxunr mJLgzpgzks dl{pLZppy Yn,9,0.28125,1.3333333333333333,0.0,0.0,0.7352941176470589
+9,Fine-tuned Restormer,verdanaRef_0031,GBfaZQfnyu hTppjnUJrx iheSeXJNtq,CEfazqinu hTpplhUJix #eSeXllrq,14,0.4375,1.0,0.0,0.0,0.5625
+9,Fine-tuned Restormer,verdanaRef_0003,gqMfsNSAmM vHZzWMhRKz LUCRnjk RJ,9-MfslSAmm vhZ:MhRK LUCRnjk RJ,8,0.25,0.5,0.0,0.0,0.75

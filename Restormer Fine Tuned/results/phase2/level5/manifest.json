@@ -1,0 +1,17 @@
+{
+  "level": 5,
+  "created": "2026-10-19 15:30",
+  "pretrained_base": "../pretrained/single_image_defocus_deblurring.pth",
+  "status": "trained",
+  "dataset": "dataset/HDC2021_step5.zip",
+  "checkpoints": [
+    {
+      "original_path": "level5_results/checkpoints/level5_best.pth",
+      "saved_as": "checkpoints/checkpoints__level5_best.pth"
+    },
+    {
+      "original_path": "level5_results/checkpoints/level5_last.pth",
+      "saved_as": "checkpoints/checkpoints__level5_last.pth"
+    }
+  ]
+}

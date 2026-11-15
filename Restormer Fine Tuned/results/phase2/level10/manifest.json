@@ -1,0 +1,8 @@
+{
+  "level": 10,
+  "created": "2026-10-19 15:30",
+  "pretrained_base": "../pretrained/single_image_defocus_deblurring.pth",
+  "status": "pending - dataset not uploaded yet",
+  "dataset": null,
+  "checkpoints": []
+}

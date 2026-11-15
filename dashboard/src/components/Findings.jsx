@@ -9,19 +9,19 @@ const FINDINGS = [
   ['SSIM and PSNR can tell different stories',
     'Fine-tuned MPRNet raises SSIM by up to +0.224 while PSNR moves by only +0.05 to +0.92 dB, and at Levels 4–6 the SSIM gain grows while the PSNR gain shrinks. A model can recover structure a recognizer needs without lowering pixel error much.'],
   ['Small, targeted fine-tuning goes a long way',
-    'Freezing Restormer’s encoder and training only the decoder adds up to +3.21 dB at Level 1 and, in Phase 2, takes Level 5 OCR from 0% to 96.9% character accuracy with 150 training pages.'],
+    'Freezing Restormer’s encoder and training the rest on 150 pages per level improves PSNR and SSIM on every test page at every level from 0 to 9, and takes Level 5 OCR from 0% to 96.9% character accuracy.'],
   ['Patch metrics overstate real performance',
     'The from-scratch Restormer scores 21.48 dB on training patches and at most 15.66 dB on full pages. Comparisons should always use full-image, per-level results.'],
   ['Pixel scores are not readability',
-    'At Level 5 the pretrained Restormer raises SSIM from 0.372 to 0.419 while OCR still reads 0% of characters. At NAFNet’s Level 1, PSNR rises 5.13 dB while CER gets worse. That gap is the case for the recognition-aware RABD loss.'],
+    'At Level 5 the pretrained Restormer raises SSIM from 0.372 to 0.419 while OCR still reads 0% of characters. Restormer’s highest PSNR (Level 1) comes with a 5.7-point OCR loss, and at NAFNet’s Level 1 PSNR rises 5.13 dB while CER gets worse. That gap is the case for the recognition-aware RABD loss.'],
   ['Heavy blur is not the end of the road',
     'At HDC Levels 9–13, where OCR on the blurred page produces mostly noise, a per-level U-Net with a diffusion refiner brings illustrative samples back to 50–91% character accuracy.'],
 ]
 
 const ROADMAP = [
   ['Wire the CTC loss through the recognizer into the deblurring weights', 'First end-to-end Restormer + TrOCR run with CER/WER'],
-  ['Run the Restormer notebooks for HDC Levels 7–10', 'Per-level and all-levels results beyond Level 6'],
-  ['Score Restormer fine-tuned Levels 1–4 and the other models with OCR', 'Fills the empty columns of the OCR table'],
+  ['Train Restormer Level 10 and evaluate the combined Levels 5–10 model', 'Per-level results run 0–9; the combined model was started but never evaluated'],
+  ['Score the remaining models with OCR on one engine', 'Restormer from scratch and the HDC U-Net still have no EasyOCR scores'],
   ['Score the U-Net + diffusion pipeline on full Level 9–13 test sets', 'Turns two illustrative samples per level into real estimates'],
   ['Evaluate fine-tuned MPRNet on all 280 test pairs, both fonts', 'Replaces the 28–35-image Times-only subset'],
   ['Score every model on one common test set', 'Same 24 pairs, one OCR engine, one SSIM window and one pipeline, so Tables 8 and 9 compare directly'],

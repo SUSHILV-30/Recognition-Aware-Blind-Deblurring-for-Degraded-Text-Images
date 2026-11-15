@@ -125,38 +125,67 @@ holds.
 
 ---
 
-## Phase 2 — heavier blur, Levels 5–10
+## Phase 2 — one fine-tuned Restormer per HDC level, Levels 0–9
 
-Phase 2 takes the same DPDD-pretrained Restormer past the focusStep subset
-into the harder HDC 2021 steps. Unlike Phase 1, these runs register CAM01 to
-CAM02 with a global affine (blur-matched template matching + RANSAC) before
-training, use a fixed 150 / 10 / 40 train / val / test split per level, and
-score OCR with EasyOCR alongside PSNR/SSIM.
+Phase 2 fine-tunes the DPDD-pretrained Restormer separately for every HDC 2021
+focus step from 0 to 9, with one notebook in which only `LEVEL` changes:
+[`notebooks/05_phase2_per_level_0_to_9.ipynb`](notebooks/05_phase2_per_level_0_to_9.ipynb).
+Each run registers CAM01 to CAM02 with one global affine (blur-matched template
+matching + RANSAC), uses the same 150 / 10 / 40 train / val / test split at every
+level (seed 42), freezes the encoder (3.79 M frozen, 22.34 M trainable), trains
+3,000 iterations of Charbonnier loss with AdamW at 2×10⁻⁵, keeps the checkpoint
+with the best validation SSIM, and scores the 40 test pages with PSNR, SSIM and
+EasyOCR. Patch size grows with the estimated blur: 128 px × 4 up to σ = 30 px,
+192 px × 2 above that.
+
+Test set, 40 pages per level (`results/phase2/all_levels_summary.csv`, Level 0
+recomputed from the saved outputs):
+
+| Level | σ (px) | PSNR blurred → fine-tuned | SSIM blurred → fine-tuned | OCR char. acc. blurred → fine-tuned | Sharp GT |
+|--:|--:|--:|--:|--:|--:|
+| 0 | 5 | 26.08 → **28.74** | 0.524 → **0.691** | not run | — |
+| 1 | 5 | 23.17 → **28.87** | 0.419 → **0.627** | 98.4% → 92.6% | 90.8% |
+| 2 | 5 | 19.37 → **27.38** | 0.390 → **0.615** | 94.2% → **96.1%** | 92.2% |
+| 3 | 12 | 17.34 → **25.72** | 0.380 → **0.606** | 75.5% → **98.3%** | 92.5% |
+| 4 | 20 | 16.07 → **24.10** | 0.373 → **0.595** | 23.5% → **97.4%** | 91.3% |
+| 5 | 25 | 15.35 → **21.98** | 0.372 → **0.582** | 0.0% → **96.9%** | 94.1% |
+| 6 | 30 | 15.03 → **20.19** | 0.372 → **0.569** | 0.0% → **83.2%** | 93.4% |
+| 7 | 37 | 14.71 → **19.87** | 0.373 → **0.567** | 0.0% → **77.0%** | 91.6% |
+| 8 | 45 | 14.45 → **19.47** | 0.417 → **0.563** | 0.0% → **73.5%** | 92.6% |
+| 9 | 47 | 14.39 → **16.81** | 0.419 → **0.531** | 0.0% → **52.8%** | 93.2% |
+
+Fine-tuning improves PSNR and SSIM on all 40 test images at every level. OCR
+gains run from Level 2 onward and peak at Level 3; at Level 1 the blurred page is
+already readable and restoration lowers OCR accuracy by 5.7 points. The
+pretrained model without fine-tuning never moves more than 0.05 dB above the
+input. Level 10 and the combined Levels 5–10 model are not trained or
+evaluated. The full write-up, with every table and figure, is in
+[`report/REPORT.md`](report/REPORT.md) ([PDF](report/REPORT.pdf)); a
+self-contained briefing is in [`report/PROJECT_CONTEXT.md`](report/PROJECT_CONTEXT.md).
+
+Earlier notebooks, kept for the record:
 
 | Notebook | What it does |
 |---|---|
-| `02_phase2_level5_restormer_finetune.ipynb` | Level 5 run with outputs kept: registration, frozen-encoder fine-tuning (128 px × 4, 3,000 iters, LR 2e-5), test-set PSNR/SSIM and OCR |
-| `03_phase2_any_level_5_to_10.ipynb` | The same recipe generalised: set `LEVEL` (5–10) and run all. Patch size and tile overlap scale with the estimated blur sigma; `INIT_FROM` chooses pretrained or curriculum (previous level) initialisation |
-| `04_phase2_ultimate_all_levels_5_to_10.ipynb` | One model for Levels 5–10: per-image ECC registration, full fine-tuning with a slower encoder LR, progressive patches 160 → 224 → 288, Charbonnier + FFT + SSIM loss, EMA weights and 4-flip TTA |
+| `02_phase2_level5_restormer_finetune.ipynb` | First Level 5 run, with outputs (the Level 5 results above come from this run) |
+| `03_phase2_any_level_5_to_10.ipynb` | The per-level recipe for Levels 5–10, superseded by notebook 05 |
+| `04_phase2_ultimate_all_levels_5_to_10.ipynb` | One model for Levels 5–10. Preprocessing ran; training was started but never evaluated (`results/phase2/ultimate_model/`) |
 
-Level 5 test set (n = 40, measured):
+The Phase 1 focusStep results above (Levels 1–4, about 113 pairs, a different
+split and notebook) are not comparable with Phase 2 and are superseded by it.
 
-| Method | PSNR (dB) | SSIM | Char. acc. | Token acc. |
-|---|---:|---:|---:|---:|
-| Blurred input | 15.35 | 0.3724 | 0.0% | 0.0% |
-| Pretrained Restormer | 15.29 | 0.4188 | 0.0% | 0.0% |
-| **Fine-tuned Restormer** | **21.98** | **0.5824** | **96.9%** | **75.0%** |
-| Sharp GT (OCR upper bound) | — | — | 94.1% | 64.7% |
+### Not in this repository
 
-That is +6.63 dB PSNR and +0.21 SSIM over the blurred input. OCR on the
-restored page edges past OCR on the sharp ground truth because the restored
-output is cleaner (higher contrast, less sensor noise) than the raw CAM01
-capture. Level 6 reaches 83.2% character accuracy (20.19 dB PSNR); its results
-are in `results/phase2/level6/`. Levels 7–10 and the all-levels model are set up
-in notebooks 03/04 but have no results yet.
+These are on the team Google Drive under `FinalYearProject-Phase2/` and are too
+large for git. Every number in `results/phase2/` was computed from them.
 
-OCR scores for every level, including the blurred-input and sharp-GT baselines
-for Levels 1–4, are collected in [OCR_RESULTS.md](OCR_RESULTS.md).
+| What | Where on Drive | Size |
+|---|---|--:|
+| Pretrained weights | `pretrained/single_image_defocus_deblurring.pth` | 105 MB |
+| Per-level checkpoints | `level_NN/checkpoints/levelN_best.pth`, `levelN_last.pth` | 4.4 GB total |
+| Restored test pages (16-bit PNG) | `level_NN/results/restored/{pretrained,finetuned}/` | 4.0 GB total |
+| Combined-model checkpoint | `ultimate_model/checkpoints/ultimate_last.pth` | 419 MB |
+| HDC 2021 dataset, steps 0–10 | `HDC2021_step*.zip` | 27.5 GB |
 
 ---
 
@@ -171,16 +200,28 @@ for Levels 1–4, are collected in [OCR_RESULTS.md](OCR_RESULTS.md).
 │   │   └── restore.py                   Tiled full-page inference
 │   ├── recognition/ocr.py               EasyOCR detection + TrOCR recognition
 │   └── pipeline.py                      End-to-end CLI, restoration ablation flag
-├── scripts/evaluate.py                  Restored-vs-ground-truth SSIM/PSNR + token/character accuracy → CSV
+├── scripts/
+│   ├── evaluate.py                      Restored-vs-ground-truth SSIM/PSNR + token/character accuracy → CSV
+│   └── ocr_eval.py                      EasyOCR scoring of any folder of restored pages
 ├── notebooks/
 │   ├── 01_swin2sr_trocr_pipeline.ipynb  Original exploratory run (Swin2SR baseline), outputs retained for reference
-│   ├── 02_phase2_level5_restormer_finetune.ipynb   Phase 2, Level 5 run (outputs kept)
-│   ├── 03_phase2_any_level_5_to_10.ipynb           Phase 2, per-level recipe for Levels 5–10
-│   └── 04_phase2_ultimate_all_levels_5_to_10.ipynb Phase 2, single model across Levels 5–10
-├── docs/                                setup, dataset, methodology, results
-└── results/                             Per-image metric CSVs
-```
-
+│   ├── 02_phase2_level5_restormer_finetune.ipynb   First Phase 2 run, Level 5 (outputs kept)
+│   ├── 03_phase2_any_level_5_to_10.ipynb           Earlier per-level recipe for Levels 5–10
+│   ├── 04_phase2_ultimate_all_levels_5_to_10.ipynb Single model across Levels 5–10 (not evaluated)
+│   └── 05_phase2_per_level_0_to_9.ipynb            Phase 2 per-level training and evaluation, Levels 0–9
+├── results/
+│   ├── phase2/
+│   │   ├── all_levels_summary.csv, all_levels_trend.png
+│   │   ├── levelN/                      N = 0–9: summary, per-image, by-font, OCR transcripts,
+│   │   │                                pairing checks, split, registration affine, training log
+│   │   │                                and history, manifest, training-curve and comparison figures
+│   │   ├── level10/manifest.json        Level 10: not trained
+│   │   └── ultimate_model/              Combined-model preprocessing: registration, splits, log
+│   └── ocr/levels_1_4/                  Phase 1 OCR baselines (focusStep protocol)
+├── report/                              Phase 2 report: REPORT.md/.pdf/.html, PROJECT_CONTEXT.md,
+│                                        tables/ (every number as CSV), figures/, comparisons/,
+│                                        scripts/ (Python that built the tables and figures)
+└── docs/                                setup, dataset, methodology, results
 `src/enhancement/swin2sr.py` is no longer called by `pipeline.py` but is left
 in the repo rather than deleted, since the original exploratory notebook still
 references it.

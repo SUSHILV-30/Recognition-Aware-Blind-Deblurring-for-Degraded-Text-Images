@@ -892,3 +892,17 @@ dialog.lightbox button {
 .ocr-text div { background: var(--surface); border: 1px solid var(--rule); border-radius: var(--radius-m); padding: 14px 16px; }
 .ocr-text small { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; color: var(--muted); }
 .ocr-text pre { margin: 8px 0 0; font-size: 18px; line-height: 1.5; white-space: pre-wrap; font-family: ui-monospace, "SF Mono", Menlo, monospace; }
+
+/* Restormer Levels 0–9 */
+.seg-levels { flex-wrap: wrap; border-radius: 14px; }
+.level-stats b { font-size: 18px; }
+.window { display: grid; grid-template-columns: 1fr 2fr 1.5fr 1fr; gap: 8px; margin-top: 24px; }
+.win-band { border-radius: var(--radius-m); padding: 14px 16px; border: 1px solid var(--rule); background: var(--surface); font-size: 13.5px; }
+.win-band small { font-size: 11.5px; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; color: var(--muted); }
+.win-band b { display: block; font-size: 16px; margin: 4px 0 2px; }
+.win-band span { color: var(--muted); }
+.win-band.best { background: var(--gain-soft); border-color: transparent; }
+.win-band.best b { color: var(--gain); }
+.win-band.part { background: var(--lens-soft); border-color: transparent; }
+.win-band.edge b { color: var(--loss); }
+@media (max-width: 860px) { .window { grid-template-columns: minmax(0, 1fr); } }

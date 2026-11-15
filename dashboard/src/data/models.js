@@ -1,7 +1,8 @@
 // The five restoration models. Each one gets a card on the home page and a
 // page of its own at #/models/<id>. Numbers come from project.js or the papers.
 
-import { HEX, mprnetFt, nafnet, restormerFt, scratchSteps } from './project.js'
+import { HEX, mprnetFt, nafnet, scratchSteps } from './project.js'
+import { restormerLevels } from './restormerLevels.js'
 
 export const MODELS = [
   {
@@ -15,14 +16,14 @@ export const MODELS = [
     color: HEX.ft,
     start: 'DPDD defocus checkpoint',
     params: '26.1 M',
-    scope: 'focusStep L1–4, HDC L5–6',
+    scope: 'HDC L0–9, one model per level',
     tagline:
-      'A channel-attention transformer adapted from natural-scene defocus to printed text, then pushed past focusStep into HDC Levels 5 and 6.',
+      'A channel-attention transformer fine-tuned separately for every HDC level from 0 to 9. It improves every test page and makes unreadable pages readable through Level 5.',
     headline: [
       ['96.9%', 'OCR characters read at Level 5, up from 0%'],
-      ['24.88 dB', 'PSNR at Level 1'],
+      ['+2.4 to +8.4 dB', 'PSNR gain at every level'],
     ],
-    spark: { label: 'Fine-tuned PSNR, L1 → L4', values: restormerFt.map((r) => r.ft) },
+    spark: { label: 'OCR character accuracy, L1 → L9', values: restormerLevels.filter((r) => r.ft.char != null).map((r) => r.ft.char) },
   },
   {
     id: 'nafnet',

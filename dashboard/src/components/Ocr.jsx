@@ -85,18 +85,17 @@ export default function Ocr() {
               series={measured.map((m) => ({ key: m.key, name: m.label, color: m.color, dashed: m.key === 'gt' }))}
             />
             <p className="chart-note">
-              Lines only connect levels that have been measured. Fine-tuned Restormer OCR exists for
-              Levels 5–6 so far.
+              Restormer rows are the Phase 2 test split: 40 pages per level, the same pages for every
+              method.
             </p>
           </div>
           <div>
             <h3 style={{ marginBottom: 14 }}>How to read this</h3>
             <ul className="facts small">
-              <li><b>Sharp ground truth</b> is the ceiling: OCR on the focused CAM01 capture. It is not 100% because the text is random characters (l/I, 0/O) with no words to fall back on.</li>
-              <li><b>Blurred input</b> is the floor. OCR still reads Levels 1–2 well, drops to 66% at Level 3 and 20% at Level 4, and reads nothing from Level 5 on. That is where restoration starts to matter.</li>
-              <li>At Levels 1–2 the blurred page scores slightly above the sharp one on the same 16 pages (94.1% vs 88.6%). Mild blur smooths sensor noise, while EasyOCR drops some thin serif strokes on the raw sharp capture.</li>
+              <li><b>Sharp ground truth</b> is OCR on the focused CAM01 capture: 90.8–94.1%, not 100%, because the text is random characters (l/I, 0/O) and EasyOCR drops some wide glyphs.</li>
+              <li><b>Blurred input</b> is the floor. OCR still reads Levels 1–2 well, drops to 75.5% at Level 3 and 23.5% at Level 4, and reads nothing from Level 5 on.</li>
+              <li><b>Fine-tuned Restormer</b> reads 96–98% of characters at Levels 2–5, above the sharp capture, then declines to 52.8% at Level 9. At Level 1 restoration costs 5.7 points.</li>
               <li><b>Token accuracy</b> counts whole 10-character strings. One wrong letter loses the token, so it falls much faster than character accuracy.</li>
-              <li>Levels 1–4 are scored on every focusStep page with a text file (sharp captures exist for 16 pages at Levels 1–2). Levels 5–6 use the 40-page Phase 2 test split.</li>
             </ul>
             <div className="panel" style={{ marginTop: 20, borderLeft: `3px solid ${HEX.naf}` }}>
               <h4>NAFNet and MPRNet, scored separately</h4>
@@ -121,7 +120,6 @@ export default function Ocr() {
                 {pending.map((m) => (
                   <span key={m.key} className="method-cell pill"><Swatch color={m.color} />{m.label}</span>
                 ))}
-                <span className="method-cell pill"><Swatch color={HEX.ft} />Restormer, fine-tuned (L1–4)</span>
               </div>
               <p className="small muted" style={{ margin: '12px 0 0' }}>
                 Score any model’s restored pages with <code>Restormer Fine Tuned/scripts/ocr_eval.py --restored "Name=folder"</code>.
